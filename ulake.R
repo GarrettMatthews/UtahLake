@@ -12,4 +12,6 @@ as.Date(date, tryFormats = c("%m-%d-%Y", "%m/%d/%Y"), optional = TRUE) -> date
 #Seperating out this column to act as a location identifier.
 #Visit https://maps.waterdata.usgs.gov/mapper/index.html for USDS codes
 # and https://enviro.deq.utah.gov/ for UTAHDWQ codes
+# and https://www.waterqualitydata.us/provider/STORET/UTAHGS/ for UTAHGS codes
 df$MonitoringLocationIdentifier -> local_code
+
