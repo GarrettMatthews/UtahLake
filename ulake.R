@@ -2,12 +2,13 @@
 
 read.csv("UL_BiologicalData.csv") -> df
 
-#Seperating out columns I think will be the focus of interpretation
-tax_name = df$SubjectTaxonomicName
-date = df$ActivityStartDate
-
 #Changing the date column to be a date class
-as.Date(date, tryFormats = c("%m-%d-%Y", "%m/%d/%Y"), optional = TRUE) -> date
+as.Date(df$ActivityStartDate, tryFormats = c("%m-%d-%Y", "%m/%d/%Y"), optional = TRUE) -> df$ActivityStartDate
+as.Date(df$ActivityEndDate, tryFormats = c("%m-%d-%Y", "%m/%d/%Y"), optional = TRUE) -> df$ActivityEndDate
+as.Date(df$AnalysisEndDate, tryFormats = c("%m-%d-%Y", "%m/%d/%Y"), optional = TRUE) -> df$AnalysisEndDate
+as.Date(df$AnalysisStartDate, tryFormats = c("%m-%d-%Y", "%m/%d/%Y"), optional = TRUE) -> df$AnalysisStartDate
+as.Date(df$PreparationEndDate, tryFormats = c("%m-%d-%Y", "%m/%d/%Y"), optional = TRUE) -> df$PreparationEndDate
+as.Date(df$PreparationStartDate, tryFormats = c("%m-%d-%Y", "%m/%d/%Y"), optional = TRUE) -> df$PreparationStartDate
 
 #Seperating out this column to act as a location identifier.
 #Visit https://maps.waterdata.usgs.gov/mapper/index.html for USDS codes
