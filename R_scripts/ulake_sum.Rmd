@@ -1,0 +1,117 @@
+---
+title: "Ulake"
+author: "Garrett Matthews"
+date: "February 13, 2019"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r message=FALSE, warning=FALSE, include=FALSE}
+read.csv("UL_BiologicalData.csv") -> df
+
+#Changing the date columns to be a date class
+as.Date(df$ActivityStartDate, tryFormats = c("%m-%d-%Y", "%m/%d/%Y"), optional = TRUE) -> df$ActivityStartDate
+as.Date(df$ActivityEndDate, tryFormats = c("%m-%d-%Y", "%m/%d/%Y"), optional = TRUE) -> df$ActivityEndDate
+as.Date(df$AnalysisEndDate, tryFormats = c("%m-%d-%Y", "%m/%d/%Y"), optional = TRUE) -> df$AnalysisEndDate
+as.Date(df$AnalysisStartDate, tryFormats = c("%m-%d-%Y", "%m/%d/%Y"), optional = TRUE) -> df$AnalysisStartDate
+as.Date(df$PreparationEndDate, tryFormats = c("%m-%d-%Y", "%m/%d/%Y"), optional = TRUE) -> df$PreparationEndDate
+as.Date(df$PreparationStartDate, tryFormats = c("%m-%d-%Y", "%m/%d/%Y"), optional = TRUE) -> df$PreparationStartDate
+
+library(tidyverse)
+```
+
+
+```{r message=FALSE, warning=FALSE, include=FALSE}
+nh4 = df[df$CharacteristicName == "Ammonia and ammonium", "ResultMeasureValue"]
+nh4_1 = df[df$CharacteristicName == "Ammonia and ammonium", "ResultMeasure.MeasureUnitCode"]
+date = df[df$CharacteristicName == "Ammonia and ammonium", "ActivityStartDate"]
+factor(nh4_1) -> nh4_1
+factor(nh4) -> nh4
+as.character(nh4) -> nh4
+as.numeric(nh4) -> nh4
+dn = data.frame(Date = date, NH4 = nh4, Unit = nh4_1)
+dn = dn %>%
+  filter(NH4 > 0)
+
+ph = df[df$CharacteristicName == "pH", "ResultMeasureValue"]
+ph_1 = df[df$CharacteristicName == "pH", "ResultMeasure.MeasureUnitCode"]
+ph_date = df[df$CharacteristicName == "pH", "ActivityStartDate"]
+as.character(ph) -> ph
+factor(ph_1) -> ph_1
+as.numeric(ph) -> ph
+pH = data.frame(Date = ph_date, pH = ph, Unit = ph_1)
+
+pH = pH %>%
+  filter(pH > 0)
+pH = pH %>%
+  filter(pH <= 14)
+
+hg = df[df$CharacteristicName == "Mercury", "ResultMeasureValue"]
+hg_1 = df[df$CharacteristicName == "Mercury", "ResultMeasure.MeasureUnitCode"]
+hg_date = df[df$CharacteristicName == "Mercury", "ActivityStartDate"]
+factor(hg) -> hg
+factor(hg_1) -> hg_1
+as.character(hg) -> hg
+as.numeric(hg) -> hg
+HG = data.frame(Date = hg_date, Hg = hg, Unit = hg_1)
+
+HG = HG %>%
+  filter(Hg > 0)
+
+hg_date = HG[HG$Unit == "ug/l","Date"]
+hg_1 = hg = HG[HG$Unit == "ug/l","Unit"]
+hg = HG[HG$Unit == "ug/l","Hg"]
+HG_1 = data.frame(Date = hg_date, Hg = hg, Unit = hg_1)
+
+e_date = df[df$CharacteristicName == "Escherichia coli","ActivityStartDate"]
+e_1 = df[df$CharacteristicName == "Escherichia coli","ResultMeasure.MeasureUnitCode"]
+e = df[df$CharacteristicName == "Escherichia coli","ResultMeasureValue"]
+factor(e) -> e
+as.character(e) -> e
+as.numeric(e) -> e
+factor(e_1) -> e_1
+
+Ec = data.frame(Date = e_date, E.coli = e, Unit = e_1)
+
+Ec = Ec %>%
+  filter(E.coli > 0)
+
+og_date = df[df$CharacteristicName == "Oil and Grease","ActivityStartDate"]
+og_1 = df[df$CharacteristicName == "Oil and Grease","ResultMeasure.MeasureUnitCode"]
+og = df[df$CharacteristicName == "Oil and Grease","ResultMeasureValue"]
+factor(og) -> og
+as.character(og) -> og
+as.numeric(og) -> og
+factor(og_1) -> og_1
+
+OG = data.frame(Date = og_date, Oil_Grease = og, Unit = og_1)
+
+OG = OG %>%
+  filter(Oil_Grease > 0)
+
+```
+
+Some of the graphs I've made so far
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+# Ammonia Levels
+ggplot(dn, aes(x=NH4, y=Date, col= Unit)) +
+  geom_point() + facet_wrap(~Unit) 
+# pH Levels
+ggplot(pH, aes(x=pH, y=Date, col=pH)) +
+  geom_point() + coord_flip()
+# Mercury Levles
+ggplot(HG_1, aes(x=Hg, y= Date, col=Unit)) +
+  geom_point() + coord_flip()
+# E. coli levels
+ggplot(Ec, aes(x=E.coli,y=Date, col=Unit)) +
+  geom_point() + coord_flip()  
+# Oil and Grease Levels
+OG %>%
+  ggplot(aes(x=Oil_Grease,y=Date, col = Unit)) +
+  geom_point() + coord_flip()
+
+
+```
