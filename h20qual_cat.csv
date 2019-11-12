@@ -1,0 +1,334 @@
+Characteristic,Description
+.alpha.-Endosulfan,Poison
+.alpha.-Hexachlorocyclohexane,Poison
+"1,1-Dichloroethane",Manufacturing
+"1,1-Dichloroethylene",Manufacturing
+"1,1-Dichloropropene",Poison
+"1,1,1-Trichloroethane",Solvent
+"1,1,1,2-Tetrachloroethane",Solvent
+"1,1,2-Trichloroethane",Solvent
+"1,1,2,2-Tetrachloroethane",Solvent
+"1,2-Dibromo-3-chloropropane",Poison
+"1,2-Dichloroethane",Manufacturing
+"1,2-Dichloroethane-d4",Solvent
+"1,2-Dichloropropane",Manufacturing
+"1,2,3-Trichlorobenzene",Manufacturing
+"1,2,3-Trichloropropane",Solvent
+"1,2,4-Trichlorobenzene",Solvent
+"1,2,4-Trimethylbenzene",Solvent
+"1,3-Dichloropropane",Poison
+"1,3,5-Trimethylbenzene",Solvent
+1rs Cis-Permethrin,Poison
+2-Chloro-4-isopropylamino-6-amino-s-triazine,Pollutant
+2-Chloronaphthalene,Manufacturing
+2-Methylnaphthalene,Poison
+"2,2-Dichloropropane",Solvent
+"2,4-Dichlorophenol",Poison
+"2,4-Dimethylphenol",Poison
+"2,4-Dinitrophenol",Antiseptic
+"2,4-Dinitrotoluene",Manufacturing
+"2,4,5-T",Unknown
+"2,4,6-Trichlorophenol",Poison
+"2,6-Dinitrotoluene",Manufacturing
+3-Hydroxycarbofuran,Poison
+"3,3'-Dichlorobenzidine",Manufacturing
+"4,6-Dinitro-o-cresol",Poison
+"5-Amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-[(trifluoromethyl)thio]pyrazole-3-carbonitrile",Poison
+Acenaphthene,Manufacturing
+Acenaphthylene,Manufacturing
+Acetochlor,Poison
+Acetochlor OA,Poison
+Acetone,Solvent
+Alachlor,Poison
+Aldicarb,Poison
+Aldicarb sulfone,Poison
+Aldicarb sulfoxide,Poison
+Aldrin,Poison
+"Alkalinity, total",Physical Characteristic
+Alpha particle,Radiation
+Aluminum,Metal
+Ammonia and ammonium,Organic
+Ammonia-nitrogen,Organic
+Aniline,Manufacturing
+Anthracene,Manufacturing
+Antimony,Metal
+Arsenic,Carcinogen
+Atrazine,Poison
+Azinphos-methyl,Poison
+Azoxystrobin,Poison
+Barium,Metal
+Barometric pressure,Physical Characteristic
+Bentazon,Poison
+Benz[a]anthracene,Carcinogen
+Benzene,Manufacturing
+Benzidine,Carcinogen
+Benzo(b)fluoranthene,Carcinogen
+Benzo[a]pyrene,Carcinogen
+Benzo[ghi]perylene,Carcinogen
+Benzo[k]fluoranthene,Carcinogen
+Benzoic acid,Manufacturing
+Benzyl alcohol,Solvent
+Beryllium,Metal
+Beta particle,Radiation
+Bicarbonate,Physical Characteristic
+"Biochemical oxygen demand, standard conditions",Physical Characteristic
+Bis(2-chloro-1-methylethyl) ether,Solvent
+Bis(2-chloroethoxy)methane,Solvent
+Bis(2-chloroethyl) ether,Solvent
+Boron,Non-metal
+Bromacil,Poison
+Bromide,Non-metal
+Bromobenzene,Manufacturing
+Bromoxynil,Poison
+Butachlor ESA,Poison
+Butyl benzyl phthalate,Manufacturing
+C1-C3 Fluorenes,Manufacturing
+C1-C4 Chrysenes,Carcinogen
+C1-C4 Fluoranthenes,Carcinogen
+C1-C4 Phenanthrenes,Pollutant
+Cadmium,Metal
+Caffeine,Pollutant
+Calcium,Metal
+Calcium carbonate,Natural
+Carbaryl,Poison
+Carbazole,Manufacturing
+Carbofuran,Poison
+Carbon dioxide,Physical Characteristic
+Carbon disulfide,Manufacturing
+Carbon tetrachloride,Manufacturing
+"Carbonaceous biochemical oxygen demand, standard conditions",Physical Characteristic
+Carbonate,Physical Characteristic
+CFC-11,Manufacturing
+CFC-113,Manufacturing
+CFC-12,Manufacturing
+Chemical oxygen demand,Physical Characteristic
+Chlordane,Poison
+Chloride,Non-metal
+Chlorimuron-ethyl,Poison
+Chlorine,Non-metal
+Chlorobenzene,Solvent
+Chlorodibromomethane,Natural
+Chloroethane,Manufacturing
+Chloroform,Manufacturing
+Chloromethane,Manufacturing
+"Chlorophyll a, uncorrected for pheophytin",Organic
+Chlorpyrifos,Poison
+Chlorthal-dimethyl,Poison
+Chlorthal-Monomethyl,Poison
+Chromium,Metal
+"cis-1,2-Dichloroethylene",Manufacturing
+"cis-1,3-Dichloropropene",Poison
+Cobalt,Metal
+Copper,Metal
+Count,Unknown
+Cumene,Pollutant
+Cyanazine,Poison
+Cyanide,Poison
+Cyanides amenable to chlorination (HCN & CN),Poison
+Depth,Physical Characteristic
+"Depth, data-logger (ported)",Physical Characteristic
+"Depth, Secchi disk depth",Physical Characteristic
+Desisopropyl atrazine,Poison
+Deuterium,Non-metal
+Di-n-octyl phthalate,Pollutant
+Di(2-ethylhexyl) phthalate,Manufacturing
+Diazinon,Poison
+Diazinon-D10,Poison
+"Dibenz[a,h]anthracene",Carcinogen
+Dibenzofuran,Manufacturing
+Dibromomethane,Natural
+Dibutyl phthalate,Manufacturing
+Dicamba,Poison
+Dichlorobromomethane,Manufacturing
+Dichlorprop,Poison
+Dichlorvos,Poison
+Dieldrin,Poison
+Diethyl phthalate,Manufacturing
+Dimethenamid,Poison
+Dimethenamid ESA,Poison
+Dimethyl phthalate,Poison
+Dissolved oxygen (DO),Physical Characteristic
+Dissolved oxygen saturation,Physical Characteristic
+Disulfoton,Poison
+Disulfoton sulfone,Poison
+Diuron,Poison
+Endosulfan sulfate,Poison
+Endrin,Poison
+Escherichia coli,Organism
+Ethoprop,Poison
+Ethylbenzene,Manufacturing
+Ethylene dibromide,Poison
+Fecal Coliform,Organism
+Fecal Streptococcus Group Bacteria,Organism
+Fipronil,Poison
+Fipronil Sulfone,Poison
+Flow,Physical Characteristic
+"Flow rate, instantaneous",Physical Characteristic
+Fluoranthene,Pollutant
+Fluoride,Non-metal
+Fonofos,Poison
+Gage height,Physical Characteristic
+Gross-Uranium,Metal
+Halon 1011,Manufacturing
+"Hardness, Ca, Mg",Physical Characteristic
+"Hardness, non-carbonate",Physical Characteristic
+"Height, gage",Physical Characteristic
+Heptachlor,Poison
+Heptachlor epoxide,Poison
+Hexachlorobenzene,Pollutant
+Hexachlorobutadiene,Solvent
+Hexachlorocyclopentadiene,Poison
+Hexachloroethane,Manufacturing
+Hexazinone,Poison
+Hydrogen ion,Physical Characteristic
+Hydroxide,Physical Characteristic
+Imazaquin,Poison
+Imazethapyr,Poison
+Imidacloprid,Poison
+"Indeno[1,2,3-cd]pyrene",Carcinogen
+Inorganic nitrogen (nitrate and nitrite),Non-metal
+Iron,Metal
+Isophorone,Solvent
+Kjeldahl nitrogen,Physical Characteristic
+Lead,Metal
+Lindane,Poison
+Linuron,Poison
+Lithium,Metal
+m-Cresol,Manufacturing
+m-Dichlorobenzene,Manufacturing
+m-Nitroaniline,Manufacturing
+"m,p-Xylene",Manufacturing
+Magnesium,Metal
+Malathion,Poison
+Manganese,Metal
+MBAS,Unknown
+Mercury,Metal
+Metalaxyl,Poison
+Methiocarb,Poison
+Methomyl,Poison
+Methoxychlor,Poison
+Methyl bromide,Poison
+Methyl isobutyl ketone,Solvent
+Methyl parathion,Poison
+Methyl tert-butyl ether,Manufacturing
+Methylene chloride,Carcinogen
+Metolachlor,Poison
+Metolachlor ESA,Poison
+Metribuzin,Poison
+Molinate,Poison
+Molybdenum,Metal
+n-Butylbenzene,Manufacturing
+N-Nitrosodi-n-propylamine,Poison
+N-Nitrosodimethylamine,Carcinogen
+N-Nitrosodiphenylamine,Manufacturing
+n-Propylbenzene,Poison
+"N,N-Diethyl-m-toluamide",Poison
+Naphthalene,Carcinogen
+Neburon,Poison
+Nickel,Metal
+Nitrate,Organic
+Nitrite,Organic
+Nitrobenzene,Manufacturing
+Nitrogen,Non-metal
+"Nitrogen, mixed forms (NH3), (NH4), organic, (NO2) and (NO3)",Organic
+o-Chlorophenol,Poison
+o-Chlorotoluene,Poison
+o-Cresol,Poison
+o-Dichlorobenzene,Poison
+o-Nitroaniline,Manufacturing
+o-Nitrophenol,Poison
+o-Xylene,Manufacturing
+Oil and Grease,Pollutant
+Organic carbon,Organic
+Organic Nitrogen,Organic
+Orthophosphate,Organic
+Oryzalin,Poison
+Oxamyl,Poison
+Oxygen,Organic
+Oxygen-18,Organic
+p-Bromofluorobenzene,Manufacturing
+p-Bromophenyl phenyl ether,Poison
+p-Chloro-m-cresol,Poison
+p-Chloroaniline,Poison
+p-Chlorophenyl phenyl ether,Poison
+p-Chlorotoluene,Poison
+p-Cresol,Manufacturing
+p-Cymene,Poison
+p-Dichlorobenzene,Carcinogen
+p-Nitroaniline,Poison
+p-Nitrophenol,Poison
+"p,p'-DDD",Poison
+"p,p'-DDE",Poison
+"p,p'-DDT",Poison
+Pendimethalin,Poison
+Pentachlorophenol,Poison
+Petroleum phenols,Manufacturing
+pH,Physical Characteristic
+Phenanthrene,Pollutant
+Phenol,Manufacturing
+Phorate,Poison
+Phosphate-phosphorus,Organic
+Phosphorus,Non-metal
+Potassium,Metal
+Prometon,Poison
+Pronamide,Poison
+Propachlor,Poison
+Propanil,Poison
+Propargite,Poison
+Propazine,Poison
+Propiconazole,Poison
+Propoxur,Poison
+Pyrene,Poison
+Radium-226,Metal
+S-Ethyl dipropylthiocarbamate,Poison
+Salinity,Physical Characteristic
+sec-Butylbenzene,Solvent
+Selenium,Non-metal
+Silica,Physical Characteristic
+Silver,Metal
+Silvex,Poison
+Simazine,Poison
+Sodium,Metal
+Sodium adsorption ratio [(Na)/(sq root of 1/2 Ca + Mg)],Physical Characteristic
+Sodium plus potassium,Metal
+"Sodium, percent total cations",Physical Characteristic
+Specific conductance,Physical Characteristic
+"Stream flow, instantaneous",Physical Characteristic
+Strontium,Metal
+Styrene,Manufacturing
+Sulfate,Non-metal
+Sulfide,Physical Characteristic
+Sulfometuron methyl,Poison
+Tebuconazole,Poison
+Tebuthiuron,Poison
+"Temperature, air",Physical Characteristic
+"Temperature, air, deg C",Physical Characteristic
+"Temperature, water",Physical Characteristic
+Terbacil,Poison
+Terbufos,Poison
+Terbuthylazine,Poison
+tert-Butylbenzene,Solvent
+Tetrachloroethene,Manufacturing
+Thallium,Metal
+Thiobencarb,Poison
+Toluene,Solvent
+Toluene-d8,Solvent
+Total Coliform,Organism
+Total dissolved solids,Physical Characteristic
+Total fixed solids,Physical Characteristic
+Total suspended solids,Physical Characteristic
+Total volatile solids,Physical Characteristic
+Toxaphene,Poison
+"trans-1,2-Dichloroethylene",Manufacturing
+"trans-1,3-Dichloropropene",Poison
+Tribromomethane,Manufacturing
+Trichloroethene (TCE),Solvent
+Triclopyr,Poison
+Triclosan,Poison
+Trifluralin,Poison
+Trihalomethanes,Carcinogen
+Tritium,Non-metal
+Turbidity,Physical Characteristic
+Vanadium,Non-metal
+Vinyl chloride,Manufacturing
+Zinc,Metal

@@ -1,0 +1,2230 @@
+,Name,Unit,Year,N,Mean_Value,Characteristic,Description
+1,.alpha.-Endosulfan,,1988,13,1,.alpha.-Endosulfan,Poison
+2,.alpha.-Endosulfan,,1989,4,1,.alpha.-Endosulfan,Poison
+3,.alpha.-Endosulfan,,1999,2,1,.alpha.-Endosulfan,Poison
+4,.alpha.-Endosulfan,,2006,1,1,.alpha.-Endosulfan,Poison
+5,.alpha.-Endosulfan,,2007,3,1,.alpha.-Endosulfan,Poison
+6,.alpha.-Endosulfan,,2008,14,1,.alpha.-Endosulfan,Poison
+7,.alpha.-Endosulfan,,2010,1,1,.alpha.-Endosulfan,Poison
+8,.alpha.-Endosulfan,,2011,1,1,.alpha.-Endosulfan,Poison
+9,.alpha.-Endosulfan,ug/l,1986,3,1,.alpha.-Endosulfan,Poison
+10,.alpha.-Endosulfan,ug/l,1987,3,1,.alpha.-Endosulfan,Poison
+11,.alpha.-Endosulfan,ug/l,1988,6,1,.alpha.-Endosulfan,Poison
+12,.alpha.-Endosulfan,ug/l,1989,10,41.2,.alpha.-Endosulfan,Poison
+13,.alpha.-Endosulfan,ug/l,1990,6,172.666666666667,.alpha.-Endosulfan,Poison
+14,.alpha.-Endosulfan,ug/l,1991,2,1,.alpha.-Endosulfan,Poison
+15,.alpha.-Endosulfan,ug/l,1992,1,1,.alpha.-Endosulfan,Poison
+16,.alpha.-Endosulfan,ug/l,2006,2,1,.alpha.-Endosulfan,Poison
+17,.alpha.-Hexachlorocyclohexane,,1998,14,1,.alpha.-Hexachlorocyclohexane,Poison
+18,.alpha.-Hexachlorocyclohexane,,1999,4,1,.alpha.-Hexachlorocyclohexane,Poison
+19,.alpha.-Hexachlorocyclohexane,,2000,12,1,.alpha.-Hexachlorocyclohexane,Poison
+20,.alpha.-Hexachlorocyclohexane,,2003,4,1,.alpha.-Hexachlorocyclohexane,Poison
+21,.alpha.-Hexachlorocyclohexane,,2004,2,1,.alpha.-Hexachlorocyclohexane,Poison
+22,.alpha.-Hexachlorocyclohexane,ug/l,1987,3,1,.alpha.-Hexachlorocyclohexane,Poison
+23,.alpha.-Hexachlorocyclohexane,ug/l,1988,6,1,.alpha.-Hexachlorocyclohexane,Poison
+24,.alpha.-Hexachlorocyclohexane,ug/l,1989,10,1,.alpha.-Hexachlorocyclohexane,Poison
+25,.alpha.-Hexachlorocyclohexane,ug/l,1990,5,1,.alpha.-Hexachlorocyclohexane,Poison
+26,.alpha.-Hexachlorocyclohexane,ug/l,1991,2,1,.alpha.-Hexachlorocyclohexane,Poison
+27,.alpha.-Hexachlorocyclohexane,ug/l,1992,1,1,.alpha.-Hexachlorocyclohexane,Poison
+28,.alpha.-Hexachlorocyclohexane,ug/l,2006,2,1,.alpha.-Hexachlorocyclohexane,Poison
+69,"1,1-Dichloropropene",,1998,13,1,"1,1-Dichloropropene",Poison
+70,"1,1-Dichloropropene",,2003,4,1,"1,1-Dichloropropene",Poison
+71,"1,1-Dichloropropene",,2004,2,1,"1,1-Dichloropropene",Poison
+72,"1,1-Dichloropropene",,2006,1,1,"1,1-Dichloropropene",Poison
+73,"1,1-Dichloropropene",,2007,3,1,"1,1-Dichloropropene",Poison
+74,"1,1-Dichloropropene",,2008,14,1,"1,1-Dichloropropene",Poison
+75,"1,1-Dichloropropene",,2010,1,1,"1,1-Dichloropropene",Poison
+76,"1,1-Dichloropropene",,2011,1,1,"1,1-Dichloropropene",Poison
+77,"1,1-Dichloropropene",ug/l,1990,1,1,"1,1-Dichloropropene",Poison
+78,"1,1-Dichloropropene",ug/l,1991,4,1,"1,1-Dichloropropene",Poison
+79,"1,1-Dichloropropene",ug/l,1993,2,1,"1,1-Dichloropropene",Poison
+80,"1,1-Dichloropropene",ug/l,1995,1,1,"1,1-Dichloropropene",Poison
+81,"1,1-Dichloropropene",ug/l,2007,1,1,"1,1-Dichloropropene",Poison
+82,"1,1-Dichloropropene",ug/l,2008,1,1,"1,1-Dichloropropene",Poison
+83,"1,1-Dichloropropene",ug/l,2012,1,1,"1,1-Dichloropropene",Poison
+160,"1,2-Dibromo-3-chloropropane",,1998,13,1,"1,2-Dibromo-3-chloropropane",Poison
+161,"1,2-Dibromo-3-chloropropane",,2003,4,1,"1,2-Dibromo-3-chloropropane",Poison
+162,"1,2-Dibromo-3-chloropropane",,2004,2,1,"1,2-Dibromo-3-chloropropane",Poison
+163,"1,2-Dibromo-3-chloropropane",,2006,1,1,"1,2-Dibromo-3-chloropropane",Poison
+164,"1,2-Dibromo-3-chloropropane",,2007,3,1,"1,2-Dibromo-3-chloropropane",Poison
+165,"1,2-Dibromo-3-chloropropane",,2008,14,1,"1,2-Dibromo-3-chloropropane",Poison
+166,"1,2-Dibromo-3-chloropropane",,2010,1,1,"1,2-Dibromo-3-chloropropane",Poison
+167,"1,2-Dibromo-3-chloropropane",,2011,1,1,"1,2-Dibromo-3-chloropropane",Poison
+168,"1,2-Dibromo-3-chloropropane",,2013,1,1,"1,2-Dibromo-3-chloropropane",Poison
+169,"1,2-Dibromo-3-chloropropane",,2015,5,1,"1,2-Dibromo-3-chloropropane",Poison
+170,"1,2-Dibromo-3-chloropropane",,2017,1,1,"1,2-Dibromo-3-chloropropane",Poison
+171,"1,2-Dibromo-3-chloropropane",ug/l,2007,1,1,"1,2-Dibromo-3-chloropropane",Poison
+172,"1,2-Dibromo-3-chloropropane",ug/l,2008,1,1,"1,2-Dibromo-3-chloropropane",Poison
+311,"1,3-Dichloropropane",,1998,13,1,"1,3-Dichloropropane",Poison
+312,"1,3-Dichloropropane",,2003,4,1,"1,3-Dichloropropane",Poison
+313,"1,3-Dichloropropane",,2004,2,1,"1,3-Dichloropropane",Poison
+314,"1,3-Dichloropropane",,2006,1,1,"1,3-Dichloropropane",Poison
+315,"1,3-Dichloropropane",,2007,3,1,"1,3-Dichloropropane",Poison
+316,"1,3-Dichloropropane",,2008,14,1,"1,3-Dichloropropane",Poison
+317,"1,3-Dichloropropane",,2010,1,1,"1,3-Dichloropropane",Poison
+318,"1,3-Dichloropropane",,2011,1,1,"1,3-Dichloropropane",Poison
+319,"1,3-Dichloropropane",ug/l,1990,1,1,"1,3-Dichloropropane",Poison
+320,"1,3-Dichloropropane",ug/l,1991,4,1,"1,3-Dichloropropane",Poison
+321,"1,3-Dichloropropane",ug/l,1993,2,1,"1,3-Dichloropropane",Poison
+322,"1,3-Dichloropropane",ug/l,1995,1,1,"1,3-Dichloropropane",Poison
+323,"1,3-Dichloropropane",ug/l,2007,1,1,"1,3-Dichloropropane",Poison
+324,"1,3-Dichloropropane",ug/l,2008,1,1,"1,3-Dichloropropane",Poison
+325,"1,3-Dichloropropane",ug/l,2012,1,1,"1,3-Dichloropropane",Poison
+342,1rs Cis-Permethrin,,1998,14,1,1rs Cis-Permethrin,Poison
+343,1rs Cis-Permethrin,,1999,2,1,1rs Cis-Permethrin,Poison
+344,1rs Cis-Permethrin,,2000,12,1,1rs Cis-Permethrin,Poison
+345,1rs Cis-Permethrin,,2003,4,1,1rs Cis-Permethrin,Poison
+346,1rs Cis-Permethrin,,2004,2,1,1rs Cis-Permethrin,Poison
+347,1rs Cis-Permethrin,,2006,1,1,1rs Cis-Permethrin,Poison
+348,1rs Cis-Permethrin,,2007,3,1,1rs Cis-Permethrin,Poison
+349,1rs Cis-Permethrin,,2008,14,1,1rs Cis-Permethrin,Poison
+350,1rs Cis-Permethrin,,2010,1,1,1rs Cis-Permethrin,Poison
+351,1rs Cis-Permethrin,,2011,1,1,1rs Cis-Permethrin,Poison
+352,1rs Cis-Permethrin,,2013,1,1,1rs Cis-Permethrin,Poison
+353,1rs Cis-Permethrin,,2015,5,1,1rs Cis-Permethrin,Poison
+354,1rs Cis-Permethrin,,2017,1,1,1rs Cis-Permethrin,Poison
+390,2-Methylnaphthalene,,2000,1,1,2-Methylnaphthalene,Poison
+391,2-Methylnaphthalene,,2007,3,1,2-Methylnaphthalene,Poison
+392,2-Methylnaphthalene,,2008,12,1,2-Methylnaphthalene,Poison
+393,2-Methylnaphthalene,,2014,4,1,2-Methylnaphthalene,Poison
+394,2-Methylnaphthalene,,2015,2,1,2-Methylnaphthalene,Poison
+395,2-Methylnaphthalene,mg/l,2002,1,1,2-Methylnaphthalene,Poison
+396,2-Methylnaphthalene,ng/l,2013,7,1,2-Methylnaphthalene,Poison
+397,2-Methylnaphthalene,ng/l,2014,5,1,2-Methylnaphthalene,Poison
+398,2-Methylnaphthalene,ug/l,1990,4,1,2-Methylnaphthalene,Poison
+399,2-Methylnaphthalene,ug/l,1992,1,1,2-Methylnaphthalene,Poison
+400,2-Methylnaphthalene,ug/l,1994,1,1,2-Methylnaphthalene,Poison
+401,2-Methylnaphthalene,ug/l,1995,6,1,2-Methylnaphthalene,Poison
+402,2-Methylnaphthalene,ug/l,1996,7,1,2-Methylnaphthalene,Poison
+403,2-Methylnaphthalene,ug/l,1997,9,1,2-Methylnaphthalene,Poison
+404,2-Methylnaphthalene,ug/l,1998,13,1,2-Methylnaphthalene,Poison
+405,2-Methylnaphthalene,ug/l,1999,19,1,2-Methylnaphthalene,Poison
+406,2-Methylnaphthalene,ug/l,2000,15,1,2-Methylnaphthalene,Poison
+407,2-Methylnaphthalene,ug/l,2001,6,1,2-Methylnaphthalene,Poison
+408,2-Methylnaphthalene,ug/l,2002,6,1,2-Methylnaphthalene,Poison
+409,2-Methylnaphthalene,ug/l,2006,1,1,2-Methylnaphthalene,Poison
+410,2-Methylnaphthalene,ug/l,2007,1,1,2-Methylnaphthalene,Poison
+411,2-Methylnaphthalene,ug/l,2008,1,1,2-Methylnaphthalene,Poison
+412,2-Methylnaphthalene,ug/l,2010,10,1,2-Methylnaphthalene,Poison
+457,"2,4-Dichlorophenol",,1989,1,1,"2,4-Dichlorophenol",Poison
+458,"2,4-Dichlorophenol",,2000,1,1,"2,4-Dichlorophenol",Poison
+459,"2,4-Dichlorophenol",mg/l,2002,1,1,"2,4-Dichlorophenol",Poison
+460,"2,4-Dichlorophenol",ug/kg,2002,2,1,"2,4-Dichlorophenol",Poison
+461,"2,4-Dichlorophenol",ug/l,1990,4,1,"2,4-Dichlorophenol",Poison
+462,"2,4-Dichlorophenol",ug/l,1992,1,1,"2,4-Dichlorophenol",Poison
+463,"2,4-Dichlorophenol",ug/l,1994,1,1,"2,4-Dichlorophenol",Poison
+464,"2,4-Dichlorophenol",ug/l,1995,6,1,"2,4-Dichlorophenol",Poison
+465,"2,4-Dichlorophenol",ug/l,1996,7,1,"2,4-Dichlorophenol",Poison
+466,"2,4-Dichlorophenol",ug/l,1997,9,1,"2,4-Dichlorophenol",Poison
+467,"2,4-Dichlorophenol",ug/l,1998,13,1,"2,4-Dichlorophenol",Poison
+468,"2,4-Dichlorophenol",ug/l,1999,19,1,"2,4-Dichlorophenol",Poison
+469,"2,4-Dichlorophenol",ug/l,2000,15,1,"2,4-Dichlorophenol",Poison
+470,"2,4-Dichlorophenol",ug/l,2001,6,1,"2,4-Dichlorophenol",Poison
+471,"2,4-Dichlorophenol",ug/l,2002,6,1,"2,4-Dichlorophenol",Poison
+472,"2,4-Dichlorophenol",ug/l,2006,1,1,"2,4-Dichlorophenol",Poison
+473,"2,4-Dichlorophenol",ug/l,2007,1,1,"2,4-Dichlorophenol",Poison
+474,"2,4-Dichlorophenol",ug/l,2008,1,1,"2,4-Dichlorophenol",Poison
+475,"2,4-Dimethylphenol",,1989,1,1,"2,4-Dimethylphenol",Poison
+476,"2,4-Dimethylphenol",,2000,1,1,"2,4-Dimethylphenol",Poison
+477,"2,4-Dimethylphenol",mg/l,2000,1,1,"2,4-Dimethylphenol",Poison
+478,"2,4-Dimethylphenol",mg/l,2002,1,1,"2,4-Dimethylphenol",Poison
+479,"2,4-Dimethylphenol",ug/kg,2002,2,1,"2,4-Dimethylphenol",Poison
+480,"2,4-Dimethylphenol",ug/l,1990,4,1,"2,4-Dimethylphenol",Poison
+481,"2,4-Dimethylphenol",ug/l,1992,1,1,"2,4-Dimethylphenol",Poison
+482,"2,4-Dimethylphenol",ug/l,1994,1,1,"2,4-Dimethylphenol",Poison
+483,"2,4-Dimethylphenol",ug/l,1995,6,1,"2,4-Dimethylphenol",Poison
+484,"2,4-Dimethylphenol",ug/l,1996,7,1,"2,4-Dimethylphenol",Poison
+485,"2,4-Dimethylphenol",ug/l,1997,9,1,"2,4-Dimethylphenol",Poison
+486,"2,4-Dimethylphenol",ug/l,1998,13,1,"2,4-Dimethylphenol",Poison
+487,"2,4-Dimethylphenol",ug/l,1999,19,325.842105263158,"2,4-Dimethylphenol",Poison
+488,"2,4-Dimethylphenol",ug/l,2000,14,1,"2,4-Dimethylphenol",Poison
+489,"2,4-Dimethylphenol",ug/l,2001,6,1,"2,4-Dimethylphenol",Poison
+490,"2,4-Dimethylphenol",ug/l,2002,6,1,"2,4-Dimethylphenol",Poison
+491,"2,4-Dimethylphenol",ug/l,2006,1,1,"2,4-Dimethylphenol",Poison
+492,"2,4-Dimethylphenol",ug/l,2007,1,1,"2,4-Dimethylphenol",Poison
+493,"2,4-Dimethylphenol",ug/l,2008,1,1,"2,4-Dimethylphenol",Poison
+552,"2,4,6-Trichlorophenol",,1989,1,1,"2,4,6-Trichlorophenol",Poison
+553,"2,4,6-Trichlorophenol",,2000,1,1,"2,4,6-Trichlorophenol",Poison
+554,"2,4,6-Trichlorophenol",mg/l,2002,1,1,"2,4,6-Trichlorophenol",Poison
+555,"2,4,6-Trichlorophenol",ug/kg,2002,2,1,"2,4,6-Trichlorophenol",Poison
+556,"2,4,6-Trichlorophenol",ug/l,1990,4,1,"2,4,6-Trichlorophenol",Poison
+557,"2,4,6-Trichlorophenol",ug/l,1992,1,1,"2,4,6-Trichlorophenol",Poison
+558,"2,4,6-Trichlorophenol",ug/l,1994,1,1,"2,4,6-Trichlorophenol",Poison
+559,"2,4,6-Trichlorophenol",ug/l,1995,6,1,"2,4,6-Trichlorophenol",Poison
+560,"2,4,6-Trichlorophenol",ug/l,1996,7,1,"2,4,6-Trichlorophenol",Poison
+561,"2,4,6-Trichlorophenol",ug/l,1997,9,1,"2,4,6-Trichlorophenol",Poison
+562,"2,4,6-Trichlorophenol",ug/l,1998,13,1,"2,4,6-Trichlorophenol",Poison
+563,"2,4,6-Trichlorophenol",ug/l,1999,19,1,"2,4,6-Trichlorophenol",Poison
+564,"2,4,6-Trichlorophenol",ug/l,2000,15,1,"2,4,6-Trichlorophenol",Poison
+565,"2,4,6-Trichlorophenol",ug/l,2001,6,1,"2,4,6-Trichlorophenol",Poison
+566,"2,4,6-Trichlorophenol",ug/l,2002,6,1,"2,4,6-Trichlorophenol",Poison
+567,"2,4,6-Trichlorophenol",ug/l,2006,1,1,"2,4,6-Trichlorophenol",Poison
+568,"2,4,6-Trichlorophenol",ug/l,2007,1,1,"2,4,6-Trichlorophenol",Poison
+569,"2,4,6-Trichlorophenol",ug/l,2008,1,1,"2,4,6-Trichlorophenol",Poison
+589,3-Hydroxycarbofuran,,1998,13,1,3-Hydroxycarbofuran,Poison
+590,3-Hydroxycarbofuran,,2007,2,1,3-Hydroxycarbofuran,Poison
+591,3-Hydroxycarbofuran,,2008,13,1,3-Hydroxycarbofuran,Poison
+592,3-Hydroxycarbofuran,,2010,1,1,3-Hydroxycarbofuran,Poison
+593,3-Hydroxycarbofuran,,2013,1,1,3-Hydroxycarbofuran,Poison
+594,3-Hydroxycarbofuran,,2015,5,1,3-Hydroxycarbofuran,Poison
+595,3-Hydroxycarbofuran,,2017,1,1,3-Hydroxycarbofuran,Poison
+596,3-Hydroxycarbofuran,% recovery,2012,4,6081.25,3-Hydroxycarbofuran,Poison
+597,3-Hydroxycarbofuran,% recovery,2013,2,5706.5,3-Hydroxycarbofuran,Poison
+598,3-Hydroxycarbofuran,% recovery,2016,2,14733,3-Hydroxycarbofuran,Poison
+599,3-Hydroxycarbofuran,ng/l,2010,8,1,3-Hydroxycarbofuran,Poison
+600,3-Hydroxycarbofuran,ng/l,2012,8,1,3-Hydroxycarbofuran,Poison
+601,3-Hydroxycarbofuran,ng/l,2013,9,1,3-Hydroxycarbofuran,Poison
+602,3-Hydroxycarbofuran,ng/l,2014,5,1,3-Hydroxycarbofuran,Poison
+603,3-Hydroxycarbofuran,ng/l,2015,1,1,3-Hydroxycarbofuran,Poison
+604,3-Hydroxycarbofuran,ng/l,2016,4,1,3-Hydroxycarbofuran,Poison
+605,3-Hydroxycarbofuran,ug/l,1991,1,1,3-Hydroxycarbofuran,Poison
+606,3-Hydroxycarbofuran,ug/l,1992,1,1,3-Hydroxycarbofuran,Poison
+607,3-Hydroxycarbofuran,ug/l,1999,5,1,3-Hydroxycarbofuran,Poison
+608,3-Hydroxycarbofuran,ug/l,2000,11,1,3-Hydroxycarbofuran,Poison
+609,3-Hydroxycarbofuran,ug/l,2012,1,1,3-Hydroxycarbofuran,Poison
+627,"4,6-Dinitro-o-cresol",,1989,1,1,"4,6-Dinitro-o-cresol",Poison
+628,"4,6-Dinitro-o-cresol",,1998,13,1,"4,6-Dinitro-o-cresol",Poison
+629,"4,6-Dinitro-o-cresol",,2000,1,1,"4,6-Dinitro-o-cresol",Poison
+630,"4,6-Dinitro-o-cresol",mg/l,2002,1,1,"4,6-Dinitro-o-cresol",Poison
+631,"4,6-Dinitro-o-cresol",ug/kg,2002,2,1,"4,6-Dinitro-o-cresol",Poison
+632,"4,6-Dinitro-o-cresol",ug/l,1990,4,1,"4,6-Dinitro-o-cresol",Poison
+633,"4,6-Dinitro-o-cresol",ug/l,1992,1,1,"4,6-Dinitro-o-cresol",Poison
+634,"4,6-Dinitro-o-cresol",ug/l,1994,1,1,"4,6-Dinitro-o-cresol",Poison
+635,"4,6-Dinitro-o-cresol",ug/l,1995,6,1,"4,6-Dinitro-o-cresol",Poison
+636,"4,6-Dinitro-o-cresol",ug/l,1996,7,1,"4,6-Dinitro-o-cresol",Poison
+637,"4,6-Dinitro-o-cresol",ug/l,1997,9,1,"4,6-Dinitro-o-cresol",Poison
+638,"4,6-Dinitro-o-cresol",ug/l,1998,13,1,"4,6-Dinitro-o-cresol",Poison
+639,"4,6-Dinitro-o-cresol",ug/l,1999,19,1,"4,6-Dinitro-o-cresol",Poison
+640,"4,6-Dinitro-o-cresol",ug/l,2000,14,1,"4,6-Dinitro-o-cresol",Poison
+641,"4,6-Dinitro-o-cresol",ug/l,2001,6,1,"4,6-Dinitro-o-cresol",Poison
+642,"4,6-Dinitro-o-cresol",ug/l,2002,6,1,"4,6-Dinitro-o-cresol",Poison
+643,"4,6-Dinitro-o-cresol",ug/l,2006,1,1,"4,6-Dinitro-o-cresol",Poison
+644,"4,6-Dinitro-o-cresol",ug/l,2007,1,1,"4,6-Dinitro-o-cresol",Poison
+645,"4,6-Dinitro-o-cresol",ug/l,2008,1,1,"4,6-Dinitro-o-cresol",Poison
+646,"5-Amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-[(trifluoromethyl)thio]pyrazole-3-carbonitrile",,2003,4,1,"5-Amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-[(trifluoromethyl)thio]pyrazole-3-carbonitrile",Poison
+647,"5-Amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-[(trifluoromethyl)thio]pyrazole-3-carbonitrile",,2004,2,1,"5-Amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-[(trifluoromethyl)thio]pyrazole-3-carbonitrile",Poison
+648,"5-Amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-[(trifluoromethyl)thio]pyrazole-3-carbonitrile",,2006,1,1,"5-Amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-[(trifluoromethyl)thio]pyrazole-3-carbonitrile",Poison
+649,"5-Amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-[(trifluoromethyl)thio]pyrazole-3-carbonitrile",,2007,3,1,"5-Amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-[(trifluoromethyl)thio]pyrazole-3-carbonitrile",Poison
+650,"5-Amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-[(trifluoromethyl)thio]pyrazole-3-carbonitrile",,2008,14,1,"5-Amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-[(trifluoromethyl)thio]pyrazole-3-carbonitrile",Poison
+651,"5-Amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-[(trifluoromethyl)thio]pyrazole-3-carbonitrile",,2010,1,1,"5-Amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-[(trifluoromethyl)thio]pyrazole-3-carbonitrile",Poison
+652,"5-Amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-[(trifluoromethyl)thio]pyrazole-3-carbonitrile",,2011,1,1,"5-Amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-[(trifluoromethyl)thio]pyrazole-3-carbonitrile",Poison
+653,"5-Amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-[(trifluoromethyl)thio]pyrazole-3-carbonitrile",,2013,1,1,"5-Amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-[(trifluoromethyl)thio]pyrazole-3-carbonitrile",Poison
+654,"5-Amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-[(trifluoromethyl)thio]pyrazole-3-carbonitrile",,2015,5,1,"5-Amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-[(trifluoromethyl)thio]pyrazole-3-carbonitrile",Poison
+655,"5-Amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-[(trifluoromethyl)thio]pyrazole-3-carbonitrile",,2017,1,1,"5-Amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-[(trifluoromethyl)thio]pyrazole-3-carbonitrile",Poison
+656,"5-Amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-[(trifluoromethyl)thio]pyrazole-3-carbonitrile",% recovery,2012,4,5964.25,"5-Amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-[(trifluoromethyl)thio]pyrazole-3-carbonitrile",Poison
+657,"5-Amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-[(trifluoromethyl)thio]pyrazole-3-carbonitrile",% recovery,2013,2,6277,"5-Amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-[(trifluoromethyl)thio]pyrazole-3-carbonitrile",Poison
+658,"5-Amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-[(trifluoromethyl)thio]pyrazole-3-carbonitrile",% recovery,2016,2,14962,"5-Amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-[(trifluoromethyl)thio]pyrazole-3-carbonitrile",Poison
+659,"5-Amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-[(trifluoromethyl)thio]pyrazole-3-carbonitrile",ng/l,2012,8,1,"5-Amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-[(trifluoromethyl)thio]pyrazole-3-carbonitrile",Poison
+660,"5-Amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-[(trifluoromethyl)thio]pyrazole-3-carbonitrile",ng/l,2013,9,1,"5-Amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-[(trifluoromethyl)thio]pyrazole-3-carbonitrile",Poison
+661,"5-Amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-[(trifluoromethyl)thio]pyrazole-3-carbonitrile",ng/l,2014,5,1,"5-Amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-[(trifluoromethyl)thio]pyrazole-3-carbonitrile",Poison
+662,"5-Amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-[(trifluoromethyl)thio]pyrazole-3-carbonitrile",ng/l,2015,1,1,"5-Amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-[(trifluoromethyl)thio]pyrazole-3-carbonitrile",Poison
+663,"5-Amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-[(trifluoromethyl)thio]pyrazole-3-carbonitrile",ng/l,2016,4,1,"5-Amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-[(trifluoromethyl)thio]pyrazole-3-carbonitrile",Poison
+701,Acetochlor,,1998,14,1,Acetochlor,Poison
+702,Acetochlor,,2000,12,1,Acetochlor,Poison
+703,Acetochlor,,2003,4,1,Acetochlor,Poison
+704,Acetochlor,,2004,2,1,Acetochlor,Poison
+705,Acetochlor,,2006,1,1,Acetochlor,Poison
+706,Acetochlor,,2007,3,1,Acetochlor,Poison
+707,Acetochlor,,2008,14,1,Acetochlor,Poison
+708,Acetochlor,,2010,1,1,Acetochlor,Poison
+709,Acetochlor,,2011,1,1,Acetochlor,Poison
+710,Acetochlor,,2013,1,1,Acetochlor,Poison
+711,Acetochlor,,2015,5,1,Acetochlor,Poison
+712,Acetochlor,,2017,1,1,Acetochlor,Poison
+713,Acetochlor,% recovery,2012,4,2792.75,Acetochlor,Poison
+714,Acetochlor,% recovery,2013,2,6577.5,Acetochlor,Poison
+715,Acetochlor,% recovery,2016,2,8848,Acetochlor,Poison
+716,Acetochlor,ng/l,2010,6,1,Acetochlor,Poison
+717,Acetochlor,ng/l,2012,8,1,Acetochlor,Poison
+718,Acetochlor,ng/l,2013,9,1,Acetochlor,Poison
+719,Acetochlor,ng/l,2014,5,1,Acetochlor,Poison
+720,Acetochlor,ng/l,2015,1,1,Acetochlor,Poison
+721,Acetochlor,ng/l,2016,4,1,Acetochlor,Poison
+722,Acetochlor OA,,2013,1,1,Acetochlor OA,Poison
+723,Acetochlor OA,,2015,5,1,Acetochlor OA,Poison
+724,Acetochlor OA,,2017,1,1,Acetochlor OA,Poison
+725,Acetochlor OA,% recovery,2012,4,11945,Acetochlor OA,Poison
+726,Acetochlor OA,% recovery,2013,2,4829,Acetochlor OA,Poison
+727,Acetochlor OA,% recovery,2016,2,14655,Acetochlor OA,Poison
+728,Acetochlor OA,ng/l,2010,8,1,Acetochlor OA,Poison
+729,Acetochlor OA,ng/l,2012,8,1,Acetochlor OA,Poison
+730,Acetochlor OA,ng/l,2013,9,1,Acetochlor OA,Poison
+731,Acetochlor OA,ng/l,2014,5,1,Acetochlor OA,Poison
+732,Acetochlor OA,ng/l,2015,1,1,Acetochlor OA,Poison
+733,Acetochlor OA,ng/l,2016,4,1,Acetochlor OA,Poison
+745,Alachlor,,1989,10,1,Alachlor,Poison
+746,Alachlor,,1990,1,1,Alachlor,Poison
+747,Alachlor,,1998,14,1,Alachlor,Poison
+748,Alachlor,,2000,12,1,Alachlor,Poison
+749,Alachlor,,2003,4,1,Alachlor,Poison
+750,Alachlor,,2004,2,1,Alachlor,Poison
+751,Alachlor,,2006,1,1,Alachlor,Poison
+752,Alachlor,,2007,3,1,Alachlor,Poison
+753,Alachlor,,2008,14,1,Alachlor,Poison
+754,Alachlor,,2010,1,1,Alachlor,Poison
+755,Alachlor,,2011,1,1,Alachlor,Poison
+756,Alachlor,,2013,1,1,Alachlor,Poison
+757,Alachlor,,2015,5,1,Alachlor,Poison
+758,Alachlor,,2017,1,1,Alachlor,Poison
+759,Alachlor,% recovery,2012,4,3157,Alachlor,Poison
+760,Alachlor,% recovery,2013,2,5555,Alachlor,Poison
+761,Alachlor,% recovery,2016,2,2766,Alachlor,Poison
+762,Alachlor,ng/l,2010,10,1,Alachlor,Poison
+763,Alachlor,ng/l,2012,8,1,Alachlor,Poison
+764,Alachlor,ng/l,2013,9,1,Alachlor,Poison
+765,Alachlor,ng/l,2014,5,1,Alachlor,Poison
+766,Alachlor,ng/l,2015,1,1,Alachlor,Poison
+767,Alachlor,ng/l,2016,4,1,Alachlor,Poison
+768,Alachlor,ug/l,1991,2,1,Alachlor,Poison
+769,Alachlor,ug/l,1992,1,1,Alachlor,Poison
+770,Alachlor,ug/l,1993,1,1,Alachlor,Poison
+771,Alachlor,ug/l,1999,5,1,Alachlor,Poison
+772,Alachlor,ug/l,2012,1,1,Alachlor,Poison
+773,Aldicarb,,1998,13,1,Aldicarb,Poison
+774,Aldicarb,,2007,3,1,Aldicarb,Poison
+775,Aldicarb,,2008,13,1,Aldicarb,Poison
+776,Aldicarb,,2010,1,1,Aldicarb,Poison
+777,Aldicarb,,2013,1,1,Aldicarb,Poison
+778,Aldicarb,,2015,5,1,Aldicarb,Poison
+779,Aldicarb,,2017,1,1,Aldicarb,Poison
+780,Aldicarb,% recovery,2012,4,11839.5,Aldicarb,Poison
+781,Aldicarb,% recovery,2013,2,6001.5,Aldicarb,Poison
+782,Aldicarb,% recovery,2016,2,14880,Aldicarb,Poison
+783,Aldicarb,ng/l,2010,10,1,Aldicarb,Poison
+784,Aldicarb,ng/l,2012,8,1,Aldicarb,Poison
+785,Aldicarb,ng/l,2013,9,1,Aldicarb,Poison
+786,Aldicarb,ng/l,2014,5,1,Aldicarb,Poison
+787,Aldicarb,ng/l,2015,1,1,Aldicarb,Poison
+788,Aldicarb,ng/l,2016,4,1,Aldicarb,Poison
+789,Aldicarb,ug/l,1991,1,1,Aldicarb,Poison
+790,Aldicarb,ug/l,1992,1,1,Aldicarb,Poison
+791,Aldicarb,ug/l,1999,5,1,Aldicarb,Poison
+792,Aldicarb,ug/l,2000,11,1,Aldicarb,Poison
+793,Aldicarb,ug/l,2012,1,1,Aldicarb,Poison
+794,Aldicarb sulfone,,1998,13,1,Aldicarb sulfone,Poison
+795,Aldicarb sulfone,,2007,2,1,Aldicarb sulfone,Poison
+796,Aldicarb sulfone,,2008,13,1,Aldicarb sulfone,Poison
+797,Aldicarb sulfone,,2010,1,1,Aldicarb sulfone,Poison
+798,Aldicarb sulfone,,2013,1,1,Aldicarb sulfone,Poison
+799,Aldicarb sulfone,,2015,5,1,Aldicarb sulfone,Poison
+800,Aldicarb sulfone,,2017,1,1,Aldicarb sulfone,Poison
+801,Aldicarb sulfone,% recovery,2012,4,8842.75,Aldicarb sulfone,Poison
+802,Aldicarb sulfone,% recovery,2013,2,5350.5,Aldicarb sulfone,Poison
+803,Aldicarb sulfone,% recovery,2016,2,14462,Aldicarb sulfone,Poison
+804,Aldicarb sulfone,ng/l,2010,10,1,Aldicarb sulfone,Poison
+805,Aldicarb sulfone,ng/l,2012,8,1,Aldicarb sulfone,Poison
+806,Aldicarb sulfone,ng/l,2013,9,1,Aldicarb sulfone,Poison
+807,Aldicarb sulfone,ng/l,2014,5,1,Aldicarb sulfone,Poison
+808,Aldicarb sulfone,ng/l,2015,1,1,Aldicarb sulfone,Poison
+809,Aldicarb sulfone,ng/l,2016,4,1,Aldicarb sulfone,Poison
+810,Aldicarb sulfone,ug/l,1991,1,1,Aldicarb sulfone,Poison
+811,Aldicarb sulfone,ug/l,1992,1,1,Aldicarb sulfone,Poison
+812,Aldicarb sulfone,ug/l,1999,5,1,Aldicarb sulfone,Poison
+813,Aldicarb sulfone,ug/l,2000,11,1,Aldicarb sulfone,Poison
+814,Aldicarb sulfone,ug/l,2012,1,1,Aldicarb sulfone,Poison
+815,Aldicarb sulfoxide,,1998,13,1,Aldicarb sulfoxide,Poison
+816,Aldicarb sulfoxide,,2007,2,1,Aldicarb sulfoxide,Poison
+817,Aldicarb sulfoxide,,2008,13,1,Aldicarb sulfoxide,Poison
+818,Aldicarb sulfoxide,,2010,1,1,Aldicarb sulfoxide,Poison
+819,Aldicarb sulfoxide,,2013,1,1,Aldicarb sulfoxide,Poison
+820,Aldicarb sulfoxide,,2015,5,1,Aldicarb sulfoxide,Poison
+821,Aldicarb sulfoxide,,2017,1,1,Aldicarb sulfoxide,Poison
+822,Aldicarb sulfoxide,% recovery,2012,4,12080,Aldicarb sulfoxide,Poison
+823,Aldicarb sulfoxide,% recovery,2013,2,5493,Aldicarb sulfoxide,Poison
+824,Aldicarb sulfoxide,% recovery,2016,2,14758,Aldicarb sulfoxide,Poison
+825,Aldicarb sulfoxide,ng/l,2010,10,1,Aldicarb sulfoxide,Poison
+826,Aldicarb sulfoxide,ng/l,2012,8,1,Aldicarb sulfoxide,Poison
+827,Aldicarb sulfoxide,ng/l,2013,9,1,Aldicarb sulfoxide,Poison
+828,Aldicarb sulfoxide,ng/l,2014,5,1,Aldicarb sulfoxide,Poison
+829,Aldicarb sulfoxide,ng/l,2015,1,1,Aldicarb sulfoxide,Poison
+830,Aldicarb sulfoxide,ng/l,2016,4,1,Aldicarb sulfoxide,Poison
+831,Aldicarb sulfoxide,ug/l,1991,1,1,Aldicarb sulfoxide,Poison
+832,Aldicarb sulfoxide,ug/l,1992,1,1,Aldicarb sulfoxide,Poison
+833,Aldicarb sulfoxide,ug/l,1999,5,1,Aldicarb sulfoxide,Poison
+834,Aldicarb sulfoxide,ug/l,2000,11,1,Aldicarb sulfoxide,Poison
+835,Aldicarb sulfoxide,ug/l,2012,1,1,Aldicarb sulfoxide,Poison
+836,Aldrin,,1988,13,1,Aldrin,Poison
+837,Aldrin,,1989,4,1,Aldrin,Poison
+838,Aldrin,,1990,1,1,Aldrin,Poison
+839,Aldrin,,1999,4,1,Aldrin,Poison
+840,Aldrin,ug/l,1986,3,1,Aldrin,Poison
+841,Aldrin,ug/l,1987,3,1,Aldrin,Poison
+842,Aldrin,ug/l,1988,6,1,Aldrin,Poison
+843,Aldrin,ug/l,1989,10,1,Aldrin,Poison
+844,Aldrin,ug/l,1990,5,1,Aldrin,Poison
+845,Aldrin,ug/l,1991,2,1,Aldrin,Poison
+846,Aldrin,ug/l,1992,1,1,Aldrin,Poison
+847,Aldrin,ug/l,1993,1,1,Aldrin,Poison
+848,Aldrin,ug/l,1999,5,1,Aldrin,Poison
+849,Aldrin,ug/l,2006,2,1,Aldrin,Poison
+850,Aldrin,ug/l,2012,1,1,Aldrin,Poison
+1220,Atrazine,,1989,9,1,Atrazine,Poison
+1221,Atrazine,,1998,11,1,Atrazine,Poison
+1222,Atrazine,,2000,3,1,Atrazine,Poison
+1223,Atrazine,,2003,3,1,Atrazine,Poison
+1224,Atrazine,,2004,2,1,Atrazine,Poison
+1225,Atrazine,,2006,1,1,Atrazine,Poison
+1226,Atrazine,,2007,3,1,Atrazine,Poison
+1227,Atrazine,,2008,12,1,Atrazine,Poison
+1228,Atrazine,,2010,1,1,Atrazine,Poison
+1229,Atrazine,,2011,1,1,Atrazine,Poison
+1230,Atrazine,,2014,4,1,Atrazine,Poison
+1231,Atrazine,,2015,7,1,Atrazine,Poison
+1232,Atrazine,,2017,1,1,Atrazine,Poison
+1233,Atrazine,% recovery,2012,8,8879.5,Atrazine,Poison
+1234,Atrazine,% recovery,2013,4,6068.25,Atrazine,Poison
+1235,Atrazine,% recovery,2016,4,15024,Atrazine,Poison
+1236,Atrazine,ng/l,2010,10,1,Atrazine,Poison
+1237,Atrazine,ng/l,2012,16,1,Atrazine,Poison
+1238,Atrazine,ng/l,2013,19,84.1578947368421,Atrazine,Poison
+1239,Atrazine,ng/l,2014,10,1,Atrazine,Poison
+1240,Atrazine,ng/l,2015,2,1,Atrazine,Poison
+1241,Atrazine,ng/l,2016,8,1,Atrazine,Poison
+1242,Atrazine,ug/l,1989,1,1002,Atrazine,Poison
+1243,Atrazine,ug/l,1990,1,1002,Atrazine,Poison
+1244,Atrazine,ug/l,1991,2,1,Atrazine,Poison
+1245,Atrazine,ug/l,1992,1,1,Atrazine,Poison
+1246,Atrazine,ug/l,1993,1,1,Atrazine,Poison
+1247,Atrazine,ug/l,1998,3,282.666666666667,Atrazine,Poison
+1248,Atrazine,ug/l,1999,5,1,Atrazine,Poison
+1249,Atrazine,ug/l,2000,9,318.666666666667,Atrazine,Poison
+1250,Atrazine,ug/l,2003,1,414,Atrazine,Poison
+1251,Atrazine,ug/l,2008,2,315.5,Atrazine,Poison
+1252,Atrazine,ug/l,2012,1,1,Atrazine,Poison
+1253,Azinphos-methyl,,1998,14,1,Azinphos-methyl,Poison
+1254,Azinphos-methyl,,2000,12,1,Azinphos-methyl,Poison
+1255,Azinphos-methyl,,2003,4,1,Azinphos-methyl,Poison
+1256,Azinphos-methyl,,2004,2,1,Azinphos-methyl,Poison
+1257,Azinphos-methyl,,2006,1,1,Azinphos-methyl,Poison
+1258,Azinphos-methyl,,2007,3,1,Azinphos-methyl,Poison
+1259,Azinphos-methyl,,2008,14,1,Azinphos-methyl,Poison
+1260,Azinphos-methyl,,2010,1,1,Azinphos-methyl,Poison
+1261,Azinphos-methyl,,2011,1,1,Azinphos-methyl,Poison
+1262,Azinphos-methyl,,2013,1,1,Azinphos-methyl,Poison
+1263,Azinphos-methyl,,2015,5,1,Azinphos-methyl,Poison
+1264,Azinphos-methyl,,2017,1,1,Azinphos-methyl,Poison
+1265,Azoxystrobin,,2013,1,1,Azoxystrobin,Poison
+1266,Azoxystrobin,,2015,5,1,Azoxystrobin,Poison
+1267,Azoxystrobin,,2017,1,1,Azoxystrobin,Poison
+1268,Azoxystrobin,% recovery,2012,4,5934.75,Azoxystrobin,Poison
+1269,Azoxystrobin,% recovery,2013,2,5669.5,Azoxystrobin,Poison
+1270,Azoxystrobin,% recovery,2016,2,14604.5,Azoxystrobin,Poison
+1271,Azoxystrobin,ng/l,2010,10,1,Azoxystrobin,Poison
+1272,Azoxystrobin,ng/l,2012,8,1,Azoxystrobin,Poison
+1273,Azoxystrobin,ng/l,2013,9,1,Azoxystrobin,Poison
+1274,Azoxystrobin,ng/l,2014,5,1,Azoxystrobin,Poison
+1275,Azoxystrobin,ng/l,2015,1,1,Azoxystrobin,Poison
+1276,Azoxystrobin,ng/l,2016,4,1,Azoxystrobin,Poison
+1370,Bentazon,,1998,13,1,Bentazon,Poison
+1371,Bentazon,,2007,3,1,Bentazon,Poison
+1372,Bentazon,,2008,13,1,Bentazon,Poison
+1373,Bentazon,,2010,1,1,Bentazon,Poison
+1374,Bentazon,,2013,1,1,Bentazon,Poison
+1375,Bentazon,,2015,5,1,Bentazon,Poison
+1376,Bentazon,,2017,1,1,Bentazon,Poison
+1377,Bentazon,% recovery,2012,4,3164.5,Bentazon,Poison
+1378,Bentazon,% recovery,2013,2,7367,Bentazon,Poison
+1379,Bentazon,% recovery,2016,2,3963.5,Bentazon,Poison
+1380,Bentazon,ng/l,2010,8,1,Bentazon,Poison
+1381,Bentazon,ng/l,2012,8,1,Bentazon,Poison
+1382,Bentazon,ng/l,2013,9,1,Bentazon,Poison
+1383,Bentazon,ng/l,2014,5,1,Bentazon,Poison
+1384,Bentazon,ng/l,2015,1,1,Bentazon,Poison
+1385,Bentazon,ng/l,2016,4,1,Bentazon,Poison
+1861,Bromacil,,1998,13,1,Bromacil,Poison
+1862,Bromacil,,2007,3,1,Bromacil,Poison
+1863,Bromacil,,2008,13,1,Bromacil,Poison
+1864,Bromacil,,2010,1,1,Bromacil,Poison
+1865,Bromacil,,2013,1,1,Bromacil,Poison
+1866,Bromacil,,2014,4,1,Bromacil,Poison
+1867,Bromacil,,2015,7,1,Bromacil,Poison
+1868,Bromacil,,2017,1,1,Bromacil,Poison
+1869,Bromacil,% recovery,2012,4,14144,Bromacil,Poison
+1870,Bromacil,% recovery,2013,2,4878.5,Bromacil,Poison
+1871,Bromacil,% recovery,2016,2,14119,Bromacil,Poison
+1872,Bromacil,ng/l,2010,10,1,Bromacil,Poison
+1873,Bromacil,ng/l,2012,8,1,Bromacil,Poison
+1874,Bromacil,ng/l,2013,16,1,Bromacil,Poison
+1875,Bromacil,ng/l,2014,10,1,Bromacil,Poison
+1876,Bromacil,ng/l,2015,1,1,Bromacil,Poison
+1877,Bromacil,ng/l,2016,4,1,Bromacil,Poison
+1878,Bromacil,ug/l,2010,10,1,Bromacil,Poison
+1922,Bromoxynil,,1998,13,1,Bromoxynil,Poison
+1923,Bromoxynil,,2007,2,1,Bromoxynil,Poison
+1924,Bromoxynil,,2008,13,1,Bromoxynil,Poison
+1925,Bromoxynil,,2010,1,1,Bromoxynil,Poison
+1926,Bromoxynil,,2013,1,1,Bromoxynil,Poison
+1927,Bromoxynil,,2015,5,1,Bromoxynil,Poison
+1928,Bromoxynil,,2017,1,1,Bromoxynil,Poison
+1929,Bromoxynil,% recovery,2012,4,2816.5,Bromoxynil,Poison
+1930,Bromoxynil,% recovery,2013,2,6778,Bromoxynil,Poison
+1931,Bromoxynil,% recovery,2016,2,15072.5,Bromoxynil,Poison
+1932,Bromoxynil,ng/l,2010,8,1,Bromoxynil,Poison
+1933,Bromoxynil,ng/l,2012,8,1,Bromoxynil,Poison
+1934,Bromoxynil,ng/l,2013,9,1,Bromoxynil,Poison
+1935,Bromoxynil,ng/l,2014,5,1,Bromoxynil,Poison
+1936,Bromoxynil,ng/l,2015,1,1,Bromoxynil,Poison
+1937,Bromoxynil,ng/l,2016,4,1,Bromoxynil,Poison
+1938,Butachlor ESA,%,2013,1,3389,Butachlor ESA,Poison
+1939,Butachlor ESA,%,2015,5,2787.8,Butachlor ESA,Poison
+1940,Butachlor ESA,%,2017,1,2711,Butachlor ESA,Poison
+1941,Butachlor ESA,% recovery,2012,4,2995.25,Butachlor ESA,Poison
+1942,Butachlor ESA,% recovery,2013,2,7323,Butachlor ESA,Poison
+1943,Butachlor ESA,% recovery,2016,2,2823,Butachlor ESA,Poison
+1944,Butachlor ESA,ng/l,2010,10,1,Butachlor ESA,Poison
+1945,Butachlor ESA,ng/l,2012,8,1,Butachlor ESA,Poison
+1946,Butachlor ESA,ng/l,2013,9,1,Butachlor ESA,Poison
+1947,Butachlor ESA,ng/l,2014,5,1,Butachlor ESA,Poison
+1948,Butachlor ESA,ng/l,2015,1,1,Butachlor ESA,Poison
+1949,Butachlor ESA,ng/l,2016,4,1,Butachlor ESA,Poison
+2230,Carbaryl,,1988,2,1,Carbaryl,Poison
+2231,Carbaryl,,1989,9,1,Carbaryl,Poison
+2232,Carbaryl,,1998,27,1,Carbaryl,Poison
+2233,Carbaryl,,2000,10,1,Carbaryl,Poison
+2234,Carbaryl,,2003,4,1,Carbaryl,Poison
+2235,Carbaryl,,2004,2,1,Carbaryl,Poison
+2236,Carbaryl,,2006,1,1,Carbaryl,Poison
+2237,Carbaryl,,2007,5,1,Carbaryl,Poison
+2238,Carbaryl,,2008,27,1,Carbaryl,Poison
+2239,Carbaryl,,2010,2,1,Carbaryl,Poison
+2240,Carbaryl,,2011,1,1,Carbaryl,Poison
+2241,Carbaryl,,2013,1,1,Carbaryl,Poison
+2242,Carbaryl,,2015,5,1,Carbaryl,Poison
+2243,Carbaryl,,2017,1,1,Carbaryl,Poison
+2244,Carbaryl,% recovery,2012,4,2859,Carbaryl,Poison
+2245,Carbaryl,% recovery,2013,2,6427.5,Carbaryl,Poison
+2246,Carbaryl,% recovery,2016,2,15028,Carbaryl,Poison
+2247,Carbaryl,ng/l,2010,8,1,Carbaryl,Poison
+2248,Carbaryl,ng/l,2012,8,1,Carbaryl,Poison
+2249,Carbaryl,ng/l,2013,16,1,Carbaryl,Poison
+2250,Carbaryl,ng/l,2014,10,1,Carbaryl,Poison
+2251,Carbaryl,ng/l,2015,2,915.5,Carbaryl,Poison
+2252,Carbaryl,ng/l,2016,4,1,Carbaryl,Poison
+2253,Carbaryl,ug/l,1991,1,1,Carbaryl,Poison
+2254,Carbaryl,ug/l,1992,1,1,Carbaryl,Poison
+2255,Carbaryl,ug/l,1999,5,1,Carbaryl,Poison
+2256,Carbaryl,ug/l,2000,13,49.1538461538462,Carbaryl,Poison
+2257,Carbaryl,ug/l,2010,10,1,Carbaryl,Poison
+2258,Carbaryl,ug/l,2012,1,1,Carbaryl,Poison
+2273,Carbofuran,,1998,27,1,Carbofuran,Poison
+2274,Carbofuran,,2000,12,1,Carbofuran,Poison
+2275,Carbofuran,,2003,4,1,Carbofuran,Poison
+2276,Carbofuran,,2004,2,1,Carbofuran,Poison
+2277,Carbofuran,,2006,1,1,Carbofuran,Poison
+2278,Carbofuran,,2007,5,1,Carbofuran,Poison
+2279,Carbofuran,,2008,27,1,Carbofuran,Poison
+2280,Carbofuran,,2010,2,1,Carbofuran,Poison
+2281,Carbofuran,,2011,1,1,Carbofuran,Poison
+2282,Carbofuran,,2013,1,1,Carbofuran,Poison
+2283,Carbofuran,,2015,5,1,Carbofuran,Poison
+2284,Carbofuran,,2017,1,1,Carbofuran,Poison
+2285,Carbofuran,% recovery,2012,4,5907.75,Carbofuran,Poison
+2286,Carbofuran,% recovery,2013,2,5941.5,Carbofuran,Poison
+2287,Carbofuran,% recovery,2016,2,2618,Carbofuran,Poison
+2288,Carbofuran,ng/l,2010,10,1,Carbofuran,Poison
+2289,Carbofuran,ng/l,2012,8,1,Carbofuran,Poison
+2290,Carbofuran,ng/l,2013,9,1,Carbofuran,Poison
+2291,Carbofuran,ng/l,2014,5,1,Carbofuran,Poison
+2292,Carbofuran,ng/l,2015,1,1,Carbofuran,Poison
+2293,Carbofuran,ng/l,2016,4,1,Carbofuran,Poison
+2294,Carbofuran,ug/l,1991,1,1,Carbofuran,Poison
+2295,Carbofuran,ug/l,1992,1,1,Carbofuran,Poison
+2296,Carbofuran,ug/l,1999,5,1,Carbofuran,Poison
+2297,Carbofuran,ug/l,2000,11,1,Carbofuran,Poison
+2298,Carbofuran,ug/l,2012,1,1,Carbofuran,Poison
+2555,Chlordane,ug/l,1986,3,1,Chlordane,Poison
+2556,Chlordane,ug/l,1987,3,1,Chlordane,Poison
+2557,Chlordane,ug/l,1988,6,1,Chlordane,Poison
+2558,Chlordane,ug/l,1989,10,1,Chlordane,Poison
+2559,Chlordane,ug/l,1990,5,1,Chlordane,Poison
+2560,Chlordane,ug/l,1991,2,1,Chlordane,Poison
+2561,Chlordane,ug/l,1992,1,1,Chlordane,Poison
+2562,Chlordane,ug/l,1993,1,1,Chlordane,Poison
+2563,Chlordane,ug/l,1999,5,1,Chlordane,Poison
+2564,Chlordane,ug/l,2006,2,1,Chlordane,Poison
+2565,Chlordane,ug/l,2012,1,1,Chlordane,Poison
+2643,Chlorimuron-ethyl,,2007,2,1,Chlorimuron-ethyl,Poison
+2644,Chlorimuron-ethyl,,2008,13,1,Chlorimuron-ethyl,Poison
+2645,Chlorimuron-ethyl,,2010,1,1,Chlorimuron-ethyl,Poison
+2646,Chlorimuron-ethyl,,2013,1,1,Chlorimuron-ethyl,Poison
+2647,Chlorimuron-ethyl,,2015,5,1,Chlorimuron-ethyl,Poison
+2648,Chlorimuron-ethyl,,2017,1,1,Chlorimuron-ethyl,Poison
+2649,Chlorimuron-ethyl,% recovery,2012,4,2854,Chlorimuron-ethyl,Poison
+2650,Chlorimuron-ethyl,% recovery,2013,2,6001,Chlorimuron-ethyl,Poison
+2651,Chlorimuron-ethyl,% recovery,2016,2,14719,Chlorimuron-ethyl,Poison
+2652,Chlorimuron-ethyl,ng/l,2010,10,1,Chlorimuron-ethyl,Poison
+2653,Chlorimuron-ethyl,ng/l,2012,8,1,Chlorimuron-ethyl,Poison
+2654,Chlorimuron-ethyl,ng/l,2013,9,1,Chlorimuron-ethyl,Poison
+2655,Chlorimuron-ethyl,ng/l,2014,5,1,Chlorimuron-ethyl,Poison
+2656,Chlorimuron-ethyl,ng/l,2015,1,1,Chlorimuron-ethyl,Poison
+2657,Chlorimuron-ethyl,ng/l,2016,4,1,Chlorimuron-ethyl,Poison
+2824,Chlorpyrifos,,1998,14,1,Chlorpyrifos,Poison
+2825,Chlorpyrifos,,2000,10,1,Chlorpyrifos,Poison
+2826,Chlorpyrifos,,2003,4,1,Chlorpyrifos,Poison
+2827,Chlorpyrifos,,2004,2,1,Chlorpyrifos,Poison
+2828,Chlorpyrifos,,2006,1,1,Chlorpyrifos,Poison
+2829,Chlorpyrifos,,2007,3,1,Chlorpyrifos,Poison
+2830,Chlorpyrifos,,2008,14,1,Chlorpyrifos,Poison
+2831,Chlorpyrifos,,2010,1,1,Chlorpyrifos,Poison
+2832,Chlorpyrifos,,2011,1,1,Chlorpyrifos,Poison
+2833,Chlorpyrifos,,2013,1,1,Chlorpyrifos,Poison
+2834,Chlorpyrifos,,2014,4,1,Chlorpyrifos,Poison
+2835,Chlorpyrifos,,2015,7,1,Chlorpyrifos,Poison
+2836,Chlorpyrifos,,2017,1,1,Chlorpyrifos,Poison
+2837,Chlorpyrifos,ng/l,2013,7,1,Chlorpyrifos,Poison
+2838,Chlorpyrifos,ng/l,2014,5,1,Chlorpyrifos,Poison
+2839,Chlorpyrifos,ug/l,1991,1,1,Chlorpyrifos,Poison
+2840,Chlorpyrifos,ug/l,1992,1,1,Chlorpyrifos,Poison
+2841,Chlorpyrifos,ug/l,2000,2,376.5,Chlorpyrifos,Poison
+2842,Chlorpyrifos,ug/l,2010,10,1,Chlorpyrifos,Poison
+2843,Chlorthal-dimethyl,,1998,14,1,Chlorthal-dimethyl,Poison
+2844,Chlorthal-dimethyl,,1999,4,1,Chlorthal-dimethyl,Poison
+2845,Chlorthal-dimethyl,,2000,11,1,Chlorthal-dimethyl,Poison
+2846,Chlorthal-dimethyl,,2003,4,1,Chlorthal-dimethyl,Poison
+2847,Chlorthal-dimethyl,,2004,1,1,Chlorthal-dimethyl,Poison
+2848,Chlorthal-dimethyl,,2007,3,1,Chlorthal-dimethyl,Poison
+2849,Chlorthal-dimethyl,,2008,13,1,Chlorthal-dimethyl,Poison
+2850,Chlorthal-dimethyl,,2010,1,1,Chlorthal-dimethyl,Poison
+2851,Chlorthal-dimethyl,ng/l,2013,7,1,Chlorthal-dimethyl,Poison
+2852,Chlorthal-dimethyl,ng/l,2014,5,1,Chlorthal-dimethyl,Poison
+2853,Chlorthal-dimethyl,ug/l,1988,6,1,Chlorthal-dimethyl,Poison
+2854,Chlorthal-dimethyl,ug/l,1989,10,1,Chlorthal-dimethyl,Poison
+2855,Chlorthal-dimethyl,ug/l,2000,1,361,Chlorthal-dimethyl,Poison
+2856,Chlorthal-dimethyl,ug/l,2004,1,298,Chlorthal-dimethyl,Poison
+2857,Chlorthal-dimethyl,ug/l,2006,1,281,Chlorthal-dimethyl,Poison
+2858,Chlorthal-dimethyl,ug/l,2008,1,300,Chlorthal-dimethyl,Poison
+2859,Chlorthal-dimethyl,ug/l,2010,10,1,Chlorthal-dimethyl,Poison
+2860,Chlorthal-dimethyl,ug/l,2011,1,281,Chlorthal-dimethyl,Poison
+2861,Chlorthal-Monomethyl,,1998,13,1,Chlorthal-Monomethyl,Poison
+2862,Chlorthal-Monomethyl,,2007,3,1,Chlorthal-Monomethyl,Poison
+2863,Chlorthal-Monomethyl,,2008,13,1,Chlorthal-Monomethyl,Poison
+2864,Chlorthal-Monomethyl,,2010,1,1,Chlorthal-Monomethyl,Poison
+2865,Chlorthal-Monomethyl,,2013,1,1,Chlorthal-Monomethyl,Poison
+2866,Chlorthal-Monomethyl,,2015,4,1,Chlorthal-Monomethyl,Poison
+2867,Chlorthal-Monomethyl,,2017,1,1,Chlorthal-Monomethyl,Poison
+2868,Chlorthal-Monomethyl,% recovery,2012,4,2930.25,Chlorthal-Monomethyl,Poison
+2869,Chlorthal-Monomethyl,% recovery,2013,2,4389,Chlorthal-Monomethyl,Poison
+2870,Chlorthal-Monomethyl,% recovery,2016,2,15053,Chlorthal-Monomethyl,Poison
+2871,Chlorthal-Monomethyl,ng/l,2010,8,1,Chlorthal-Monomethyl,Poison
+2872,Chlorthal-Monomethyl,ng/l,2012,8,1,Chlorthal-Monomethyl,Poison
+2873,Chlorthal-Monomethyl,ng/l,2013,9,1,Chlorthal-Monomethyl,Poison
+2874,Chlorthal-Monomethyl,ng/l,2014,5,1,Chlorthal-Monomethyl,Poison
+2875,Chlorthal-Monomethyl,ng/l,2015,1,1,Chlorthal-Monomethyl,Poison
+2876,Chlorthal-Monomethyl,ng/l,2016,4,1,Chlorthal-Monomethyl,Poison
+2961,"cis-1,3-Dichloropropene",,1989,5,1,"cis-1,3-Dichloropropene",Poison
+2962,"cis-1,3-Dichloropropene",,1998,13,1,"cis-1,3-Dichloropropene",Poison
+2963,"cis-1,3-Dichloropropene",,2003,4,1,"cis-1,3-Dichloropropene",Poison
+2964,"cis-1,3-Dichloropropene",,2004,2,1,"cis-1,3-Dichloropropene",Poison
+2965,"cis-1,3-Dichloropropene",,2006,1,1,"cis-1,3-Dichloropropene",Poison
+2966,"cis-1,3-Dichloropropene",,2007,3,1,"cis-1,3-Dichloropropene",Poison
+2967,"cis-1,3-Dichloropropene",,2008,14,1,"cis-1,3-Dichloropropene",Poison
+2968,"cis-1,3-Dichloropropene",,2010,1,1,"cis-1,3-Dichloropropene",Poison
+2969,"cis-1,3-Dichloropropene",,2011,1,1,"cis-1,3-Dichloropropene",Poison
+2970,"cis-1,3-Dichloropropene",,2013,1,1,"cis-1,3-Dichloropropene",Poison
+2971,"cis-1,3-Dichloropropene",,2015,5,1,"cis-1,3-Dichloropropene",Poison
+2972,"cis-1,3-Dichloropropene",,2017,1,1,"cis-1,3-Dichloropropene",Poison
+2973,"cis-1,3-Dichloropropene",ug/l,1990,4,1,"cis-1,3-Dichloropropene",Poison
+2974,"cis-1,3-Dichloropropene",ug/l,1991,4,1,"cis-1,3-Dichloropropene",Poison
+2975,"cis-1,3-Dichloropropene",ug/l,1993,2,1,"cis-1,3-Dichloropropene",Poison
+2976,"cis-1,3-Dichloropropene",ug/l,1995,1,1,"cis-1,3-Dichloropropene",Poison
+2977,"cis-1,3-Dichloropropene",ug/l,2001,1,1,"cis-1,3-Dichloropropene",Poison
+2978,"cis-1,3-Dichloropropene",ug/l,2007,1,1,"cis-1,3-Dichloropropene",Poison
+2979,"cis-1,3-Dichloropropene",ug/l,2008,1,1,"cis-1,3-Dichloropropene",Poison
+2980,"cis-1,3-Dichloropropene",ug/l,2012,1,1,"cis-1,3-Dichloropropene",Poison
+3111,Cyanazine,,1989,10,1,Cyanazine,Poison
+3112,Cyanazine,,1990,1,1,Cyanazine,Poison
+3113,Cyanazine,,1998,14,1,Cyanazine,Poison
+3114,Cyanazine,,2000,12,1,Cyanazine,Poison
+3115,Cyanazine,,2003,4,1,Cyanazine,Poison
+3116,Cyanazine,,2004,2,1,Cyanazine,Poison
+3117,Cyanazine,,2006,1,1,Cyanazine,Poison
+3118,Cyanazine,,2007,3,1,Cyanazine,Poison
+3119,Cyanazine,,2008,14,1,Cyanazine,Poison
+3120,Cyanazine,,2010,1,1,Cyanazine,Poison
+3121,Cyanazine,,2011,1,1,Cyanazine,Poison
+3122,Cyanazine,,2013,1,1,Cyanazine,Poison
+3123,Cyanazine,,2015,5,1,Cyanazine,Poison
+3124,Cyanazine,,2017,1,1,Cyanazine,Poison
+3125,Cyanazine,% recovery,2012,4,3084.25,Cyanazine,Poison
+3126,Cyanazine,% recovery,2013,2,6432.5,Cyanazine,Poison
+3127,Cyanazine,% recovery,2016,2,14458,Cyanazine,Poison
+3128,Cyanazine,ng/l,2010,10,1,Cyanazine,Poison
+3129,Cyanazine,ng/l,2012,8,1,Cyanazine,Poison
+3130,Cyanazine,ng/l,2013,9,1,Cyanazine,Poison
+3131,Cyanazine,ng/l,2014,5,1,Cyanazine,Poison
+3132,Cyanazine,ng/l,2015,1,1,Cyanazine,Poison
+3133,Cyanazine,ng/l,2016,4,1,Cyanazine,Poison
+3134,Cyanide,,1984,5,1,Cyanide,Poison
+3135,Cyanide,mg/l,1976,11,729.454545454545,Cyanide,Poison
+3136,Cyanide,mg/l,1977,8,717.125,Cyanide,Poison
+3137,Cyanide,mg/l,1978,8,527.375,Cyanide,Poison
+3138,Cyanide,mg/l,1979,5,601.8,Cyanide,Poison
+3139,Cyanide,mg/l,1980,6,1019.5,Cyanide,Poison
+3140,Cyanide,mg/l,1981,9,840.666666666667,Cyanide,Poison
+3141,Cyanide,mg/l,1982,14,426.5,Cyanide,Poison
+3142,Cyanide,mg/l,1983,11,1068,Cyanide,Poison
+3143,Cyanide,mg/l,1984,11,925.818181818182,Cyanide,Poison
+3144,Cyanide,mg/l,1985,8,1104.375,Cyanide,Poison
+3145,Cyanide,mg/l,1986,3,1263.66666666667,Cyanide,Poison
+3146,Cyanide,mg/l,1990,11,318.545454545455,Cyanide,Poison
+3147,Cyanide,mg/l,1991,13,827.769230769231,Cyanide,Poison
+3148,Cyanide,mg/l,1992,16,912.8125,Cyanide,Poison
+3149,Cyanide,mg/l,1993,14,734.071428571429,Cyanide,Poison
+3150,Cyanide,mg/l,1994,16,426.1875,Cyanide,Poison
+3151,Cyanide,mg/l,1995,18,367.055555555556,Cyanide,Poison
+3152,Cyanide,mg/l,1996,10,556.4,Cyanide,Poison
+3153,Cyanide,mg/l,1997,9,466.222222222222,Cyanide,Poison
+3154,Cyanide,mg/l,1998,8,521.125,Cyanide,Poison
+3155,Cyanide,mg/l,1999,13,424.538461538462,Cyanide,Poison
+3156,Cyanide,mg/l,2000,19,325.052631578947,Cyanide,Poison
+3157,Cyanide,mg/l,2001,13,532.076923076923,Cyanide,Poison
+3158,Cyanide,mg/l,2002,15,213.6,Cyanide,Poison
+3159,Cyanide,mg/l,2003,12,61.25,Cyanide,Poison
+3160,Cyanide,mg/l,2004,7,175.571428571429,Cyanide,Poison
+3161,Cyanide,mg/l,2005,9,194.888888888889,Cyanide,Poison
+3162,Cyanide,mg/l,2006,20,89.35,Cyanide,Poison
+3163,Cyanide,mg/l,2007,19,142.157894736842,Cyanide,Poison
+3164,Cyanide,mg/l,2008,19,236.947368421053,Cyanide,Poison
+3165,Cyanide,mg/l,2009,4,116.25,Cyanide,Poison
+3166,Cyanide,mg/l,2010,17,104.705882352941,Cyanide,Poison
+3167,Cyanide,mg/l,2011,12,275.25,Cyanide,Poison
+3168,Cyanide,mg/l,2012,9,186.888888888889,Cyanide,Poison
+3169,Cyanides amenable to chlorination (HCN & CN),mg/l,1984,9,454,Cyanides amenable to chlorination (HCN & CN),Poison
+3170,Cyanides amenable to chlorination (HCN & CN),mg/l,1985,8,738.25,Cyanides amenable to chlorination (HCN & CN),Poison
+3171,Cyanides amenable to chlorination (HCN & CN),mg/l,1986,4,843.25,Cyanides amenable to chlorination (HCN & CN),Poison
+3172,Cyanides amenable to chlorination (HCN & CN),mg/l,1987,8,129.625,Cyanides amenable to chlorination (HCN & CN),Poison
+3173,Cyanides amenable to chlorination (HCN & CN),mg/l,1988,5,558.2,Cyanides amenable to chlorination (HCN & CN),Poison
+3174,Cyanides amenable to chlorination (HCN & CN),mg/l,1989,9,181.444444444444,Cyanides amenable to chlorination (HCN & CN),Poison
+3175,Cyanides amenable to chlorination (HCN & CN),mg/l,1990,9,241.333333333333,Cyanides amenable to chlorination (HCN & CN),Poison
+3176,Cyanides amenable to chlorination (HCN & CN),mg/l,1991,6,377,Cyanides amenable to chlorination (HCN & CN),Poison
+3177,Cyanides amenable to chlorination (HCN & CN),mg/l,1992,2,294,Cyanides amenable to chlorination (HCN & CN),Poison
+3178,Cyanides amenable to chlorination (HCN & CN),mg/l,1994,2,833.5,Cyanides amenable to chlorination (HCN & CN),Poison
+3179,Cyanides amenable to chlorination (HCN & CN),mg/l,1995,5,1074.6,Cyanides amenable to chlorination (HCN & CN),Poison
+3180,Cyanides amenable to chlorination (HCN & CN),mg/l,1996,8,675,Cyanides amenable to chlorination (HCN & CN),Poison
+3181,Cyanides amenable to chlorination (HCN & CN),mg/l,1997,7,596,Cyanides amenable to chlorination (HCN & CN),Poison
+3182,Cyanides amenable to chlorination (HCN & CN),mg/l,1998,5,729.6,Cyanides amenable to chlorination (HCN & CN),Poison
+3183,Cyanides amenable to chlorination (HCN & CN),mg/l,1999,6,626,Cyanides amenable to chlorination (HCN & CN),Poison
+3184,Cyanides amenable to chlorination (HCN & CN),mg/l,2001,1,262,Cyanides amenable to chlorination (HCN & CN),Poison
+3185,Cyanides amenable to chlorination (HCN & CN),mg/l,2002,2,1,Cyanides amenable to chlorination (HCN & CN),Poison
+3186,Cyanides amenable to chlorination (HCN & CN),mg/l,2003,7,78.4285714285714,Cyanides amenable to chlorination (HCN & CN),Poison
+3187,Cyanides amenable to chlorination (HCN & CN),mg/l,2004,7,1,Cyanides amenable to chlorination (HCN & CN),Poison
+3188,Cyanides amenable to chlorination (HCN & CN),mg/l,2005,5,81.4,Cyanides amenable to chlorination (HCN & CN),Poison
+3189,Cyanides amenable to chlorination (HCN & CN),mg/l,2006,8,77,Cyanides amenable to chlorination (HCN & CN),Poison
+3190,Cyanides amenable to chlorination (HCN & CN),mg/l,2007,6,1,Cyanides amenable to chlorination (HCN & CN),Poison
+3191,Cyanides amenable to chlorination (HCN & CN),mg/l,2008,8,23.625,Cyanides amenable to chlorination (HCN & CN),Poison
+3279,Desisopropyl atrazine,,2007,3,1,Desisopropyl atrazine,Poison
+3280,Desisopropyl atrazine,,2008,13,1,Desisopropyl atrazine,Poison
+3281,Desisopropyl atrazine,,2010,1,1,Desisopropyl atrazine,Poison
+3282,Desisopropyl atrazine,,2013,1,1,Desisopropyl atrazine,Poison
+3283,Desisopropyl atrazine,,2015,5,1,Desisopropyl atrazine,Poison
+3284,Desisopropyl atrazine,,2017,1,1,Desisopropyl atrazine,Poison
+3285,Desisopropyl atrazine,% recovery,2012,4,2789.75,Desisopropyl atrazine,Poison
+3286,Desisopropyl atrazine,% recovery,2013,2,5526,Desisopropyl atrazine,Poison
+3287,Desisopropyl atrazine,% recovery,2016,2,13465.5,Desisopropyl atrazine,Poison
+3288,Desisopropyl atrazine,ng/l,2010,10,1,Desisopropyl atrazine,Poison
+3289,Desisopropyl atrazine,ng/l,2012,8,1,Desisopropyl atrazine,Poison
+3290,Desisopropyl atrazine,ng/l,2013,9,1,Desisopropyl atrazine,Poison
+3291,Desisopropyl atrazine,ng/l,2014,5,1,Desisopropyl atrazine,Poison
+3292,Desisopropyl atrazine,ng/l,2015,1,1,Desisopropyl atrazine,Poison
+3293,Desisopropyl atrazine,ng/l,2016,4,1,Desisopropyl atrazine,Poison
+3350,Diazinon,,1988,11,1,Diazinon,Poison
+3351,Diazinon,,1989,10,1,Diazinon,Poison
+3352,Diazinon,,1998,14,1,Diazinon,Poison
+3353,Diazinon,,2000,10,1,Diazinon,Poison
+3354,Diazinon,,2003,4,1,Diazinon,Poison
+3355,Diazinon,,2004,2,1,Diazinon,Poison
+3356,Diazinon,,2006,1,1,Diazinon,Poison
+3357,Diazinon,,2007,3,1,Diazinon,Poison
+3358,Diazinon,,2008,14,1,Diazinon,Poison
+3359,Diazinon,,2010,1,1,Diazinon,Poison
+3360,Diazinon,,2011,1,1,Diazinon,Poison
+3361,Diazinon,,2013,1,1,Diazinon,Poison
+3362,Diazinon,,2014,4,1,Diazinon,Poison
+3363,Diazinon,,2015,7,1,Diazinon,Poison
+3364,Diazinon,,2017,1,1,Diazinon,Poison
+3365,Diazinon,% recovery,2012,4,3047.25,Diazinon,Poison
+3366,Diazinon,% recovery,2013,2,6159,Diazinon,Poison
+3367,Diazinon,% recovery,2016,2,8924.5,Diazinon,Poison
+3368,Diazinon,ng/l,2010,10,1,Diazinon,Poison
+3369,Diazinon,ng/l,2012,8,1,Diazinon,Poison
+3370,Diazinon,ng/l,2013,16,1,Diazinon,Poison
+3371,Diazinon,ng/l,2014,10,1,Diazinon,Poison
+3372,Diazinon,ng/l,2015,1,1,Diazinon,Poison
+3373,Diazinon,ng/l,2016,4,1,Diazinon,Poison
+3374,Diazinon,ug/l,1988,2,558,Diazinon,Poison
+3375,Diazinon,ug/l,1990,1,1,Diazinon,Poison
+3376,Diazinon,ug/l,1991,1,1,Diazinon,Poison
+3377,Diazinon,ug/l,1992,1,1,Diazinon,Poison
+3378,Diazinon,ug/l,2000,2,338,Diazinon,Poison
+3379,Diazinon,ug/l,2010,10,1,Diazinon,Poison
+3380,Diazinon-D10,%,1998,14,13655.0714285714,Diazinon-D10,Poison
+3381,Diazinon-D10,%,2000,12,9822.16666666667,Diazinon-D10,Poison
+3382,Diazinon-D10,%,2003,4,5769.25,Diazinon-D10,Poison
+3383,Diazinon-D10,%,2004,2,2888.5,Diazinon-D10,Poison
+3384,Diazinon-D10,%,2006,1,3089,Diazinon-D10,Poison
+3385,Diazinon-D10,%,2007,3,2662,Diazinon-D10,Poison
+3386,Diazinon-D10,%,2008,14,6186,Diazinon-D10,Poison
+3387,Diazinon-D10,%,2010,1,13754,Diazinon-D10,Poison
+3388,Diazinon-D10,%,2011,1,14260,Diazinon-D10,Poison
+3389,Diazinon-D10,%,2013,1,15063,Diazinon-D10,Poison
+3390,Diazinon-D10,%,2015,5,9877.4,Diazinon-D10,Poison
+3391,Diazinon-D10,%,2017,1,14818,Diazinon-D10,Poison
+3462,Dicamba,,1989,8,1,Dicamba,Poison
+3463,Dicamba,,1998,13,1,Dicamba,Poison
+3464,Dicamba,,2007,3,1,Dicamba,Poison
+3465,Dicamba,,2008,13,1,Dicamba,Poison
+3466,Dicamba,,2010,1,1,Dicamba,Poison
+3467,Dicamba,,2013,1,1,Dicamba,Poison
+3468,Dicamba,,2015,5,1,Dicamba,Poison
+3469,Dicamba,,2017,1,1,Dicamba,Poison
+3470,Dicamba,ug/l,1988,3,1,Dicamba,Poison
+3471,Dicamba,ug/l,1990,6,1,Dicamba,Poison
+3472,Dicamba,ug/l,1991,2,1,Dicamba,Poison
+3473,Dicamba,ug/l,1992,1,1,Dicamba,Poison
+3474,Dicamba,ug/l,1999,5,1,Dicamba,Poison
+3475,Dicamba,ug/l,2000,11,1,Dicamba,Poison
+3476,Dicamba,ug/l,2012,1,1,Dicamba,Poison
+3499,Dichlorprop,% recovery,2012,4,5860.25,Dichlorprop,Poison
+3500,Dichlorprop,% recovery,2013,2,5079.5,Dichlorprop,Poison
+3501,Dichlorprop,% recovery,2016,2,14943,Dichlorprop,Poison
+3502,Dichlorprop,ng/l,2010,8,1,Dichlorprop,Poison
+3503,Dichlorprop,ng/l,2012,8,1,Dichlorprop,Poison
+3504,Dichlorprop,ng/l,2013,9,1,Dichlorprop,Poison
+3505,Dichlorprop,ng/l,2014,5,1,Dichlorprop,Poison
+3506,Dichlorprop,ng/l,2015,1,1,Dichlorprop,Poison
+3507,Dichlorprop,ng/l,2016,4,1,Dichlorprop,Poison
+3508,Dichlorprop,ug/l,1991,2,1,Dichlorprop,Poison
+3509,Dichlorprop,ug/l,1992,1,1,Dichlorprop,Poison
+3510,Dichlorprop,ug/l,1999,5,1,Dichlorprop,Poison
+3511,Dichlorvos,,2006,1,1,Dichlorvos,Poison
+3512,Dichlorvos,,2007,3,1,Dichlorvos,Poison
+3513,Dichlorvos,,2008,14,1,Dichlorvos,Poison
+3514,Dichlorvos,,2010,1,1,Dichlorvos,Poison
+3515,Dichlorvos,,2011,1,1,Dichlorvos,Poison
+3516,Dichlorvos,,2013,1,1,Dichlorvos,Poison
+3517,Dichlorvos,,2015,6,1,Dichlorvos,Poison
+3518,Dichlorvos,,2017,1,1,Dichlorvos,Poison
+3519,Dichlorvos,ng/l,2013,7,1,Dichlorvos,Poison
+3520,Dichlorvos,ng/l,2014,5,1,Dichlorvos,Poison
+3521,Dichlorvos,ug/l,1991,1,1,Dichlorvos,Poison
+3522,Dichlorvos,ug/l,1992,1,1,Dichlorvos,Poison
+3523,Dichlorvos,ug/l,2010,10,119.3,Dichlorvos,Poison
+3524,Dieldrin,,1988,11,1,Dieldrin,Poison
+3525,Dieldrin,,1989,4,1,Dieldrin,Poison
+3526,Dieldrin,,1990,1,1,Dieldrin,Poison
+3527,Dieldrin,,1998,14,1,Dieldrin,Poison
+3528,Dieldrin,,1999,4,1,Dieldrin,Poison
+3529,Dieldrin,,2000,12,1,Dieldrin,Poison
+3530,Dieldrin,,2003,4,1,Dieldrin,Poison
+3531,Dieldrin,,2004,2,1,Dieldrin,Poison
+3532,Dieldrin,,2006,1,1,Dieldrin,Poison
+3533,Dieldrin,,2007,3,1,Dieldrin,Poison
+3534,Dieldrin,,2008,14,1,Dieldrin,Poison
+3535,Dieldrin,,2010,1,1,Dieldrin,Poison
+3536,Dieldrin,,2011,1,1,Dieldrin,Poison
+3537,Dieldrin,ug/kg,1988,2,1199,Dieldrin,Poison
+3538,Dieldrin,ug/l,1986,3,1,Dieldrin,Poison
+3539,Dieldrin,ug/l,1987,3,1,Dieldrin,Poison
+3540,Dieldrin,ug/l,1988,6,1,Dieldrin,Poison
+3541,Dieldrin,ug/l,1989,10,1,Dieldrin,Poison
+3542,Dieldrin,ug/l,1990,5,1,Dieldrin,Poison
+3543,Dieldrin,ug/l,1991,2,1,Dieldrin,Poison
+3544,Dieldrin,ug/l,1992,1,1,Dieldrin,Poison
+3545,Dieldrin,ug/l,1993,1,1,Dieldrin,Poison
+3546,Dieldrin,ug/l,1999,5,1,Dieldrin,Poison
+3547,Dieldrin,ug/l,2006,2,1,Dieldrin,Poison
+3548,Dieldrin,ug/l,2012,1,1,Dieldrin,Poison
+3572,Dimethenamid,,2013,1,1,Dimethenamid,Poison
+3573,Dimethenamid,,2015,5,1,Dimethenamid,Poison
+3574,Dimethenamid,,2017,1,1,Dimethenamid,Poison
+3575,Dimethenamid,% recovery,2012,4,8928.75,Dimethenamid,Poison
+3576,Dimethenamid,% recovery,2013,2,6176.5,Dimethenamid,Poison
+3577,Dimethenamid,% recovery,2016,2,2651,Dimethenamid,Poison
+3578,Dimethenamid,ng/l,2010,10,1,Dimethenamid,Poison
+3579,Dimethenamid,ng/l,2012,8,1,Dimethenamid,Poison
+3580,Dimethenamid,ng/l,2013,9,1,Dimethenamid,Poison
+3581,Dimethenamid,ng/l,2014,5,1,Dimethenamid,Poison
+3582,Dimethenamid,ng/l,2015,1,1,Dimethenamid,Poison
+3583,Dimethenamid,ng/l,2016,4,1,Dimethenamid,Poison
+3584,Dimethenamid ESA,,2013,1,1,Dimethenamid ESA,Poison
+3585,Dimethenamid ESA,,2015,5,1,Dimethenamid ESA,Poison
+3586,Dimethenamid ESA,,2017,1,1,Dimethenamid ESA,Poison
+3587,Dimethenamid ESA,% recovery,2012,4,3160,Dimethenamid ESA,Poison
+3588,Dimethenamid ESA,% recovery,2013,2,7504,Dimethenamid ESA,Poison
+3589,Dimethenamid ESA,% recovery,2016,2,2677.5,Dimethenamid ESA,Poison
+3590,Dimethenamid ESA,ng/l,2010,10,1,Dimethenamid ESA,Poison
+3591,Dimethenamid ESA,ng/l,2012,8,1,Dimethenamid ESA,Poison
+3592,Dimethenamid ESA,ng/l,2013,9,1,Dimethenamid ESA,Poison
+3593,Dimethenamid ESA,ng/l,2014,5,1,Dimethenamid ESA,Poison
+3594,Dimethenamid ESA,ng/l,2015,1,1,Dimethenamid ESA,Poison
+3595,Dimethenamid ESA,ng/l,2016,4,1,Dimethenamid ESA,Poison
+3596,Dimethyl phthalate,,1989,1,1,Dimethyl phthalate,Poison
+3597,Dimethyl phthalate,,1999,2,1,Dimethyl phthalate,Poison
+3598,Dimethyl phthalate,,2000,1,1,Dimethyl phthalate,Poison
+3599,Dimethyl phthalate,ug/kg,2002,2,1,Dimethyl phthalate,Poison
+3600,Dimethyl phthalate,ug/l,1990,4,1,Dimethyl phthalate,Poison
+3601,Dimethyl phthalate,ug/l,1992,1,1,Dimethyl phthalate,Poison
+3602,Dimethyl phthalate,ug/l,1994,1,1,Dimethyl phthalate,Poison
+3603,Dimethyl phthalate,ug/l,1995,6,1,Dimethyl phthalate,Poison
+3604,Dimethyl phthalate,ug/l,1996,7,874.285714285714,Dimethyl phthalate,Poison
+3605,Dimethyl phthalate,ug/l,1997,9,1,Dimethyl phthalate,Poison
+3606,Dimethyl phthalate,ug/l,1998,13,1,Dimethyl phthalate,Poison
+3607,Dimethyl phthalate,ug/l,1999,19,1,Dimethyl phthalate,Poison
+3608,Dimethyl phthalate,ug/l,2000,15,1,Dimethyl phthalate,Poison
+3609,Dimethyl phthalate,ug/l,2001,6,1,Dimethyl phthalate,Poison
+3610,Dimethyl phthalate,ug/l,2002,7,1,Dimethyl phthalate,Poison
+3611,Dimethyl phthalate,ug/l,2006,1,1,Dimethyl phthalate,Poison
+3612,Dimethyl phthalate,ug/l,2007,1,1,Dimethyl phthalate,Poison
+3613,Dimethyl phthalate,ug/l,2008,1,1,Dimethyl phthalate,Poison
+3675,Disulfoton,,1989,8,1,Disulfoton,Poison
+3676,Disulfoton,,1998,14,1,Disulfoton,Poison
+3677,Disulfoton,,2000,12,1,Disulfoton,Poison
+3678,Disulfoton,,2003,4,1,Disulfoton,Poison
+3679,Disulfoton,,2004,2,1,Disulfoton,Poison
+3680,Disulfoton,,2006,1,1,Disulfoton,Poison
+3681,Disulfoton,,2007,3,1,Disulfoton,Poison
+3682,Disulfoton,,2008,14,1,Disulfoton,Poison
+3683,Disulfoton,,2010,1,1,Disulfoton,Poison
+3684,Disulfoton,,2011,1,1,Disulfoton,Poison
+3685,Disulfoton,,2013,1,1,Disulfoton,Poison
+3686,Disulfoton,,2015,5,1,Disulfoton,Poison
+3687,Disulfoton,,2017,1,1,Disulfoton,Poison
+3688,Disulfoton,ug/l,1991,1,1,Disulfoton,Poison
+3689,Disulfoton,ug/l,1992,1,1,Disulfoton,Poison
+3690,Disulfoton sulfone,,2006,1,1,Disulfoton sulfone,Poison
+3691,Disulfoton sulfone,,2007,3,1,Disulfoton sulfone,Poison
+3692,Disulfoton sulfone,,2008,14,1,Disulfoton sulfone,Poison
+3693,Disulfoton sulfone,,2010,1,1,Disulfoton sulfone,Poison
+3694,Disulfoton sulfone,,2011,1,1,Disulfoton sulfone,Poison
+3695,Disulfoton sulfone,,2013,1,1,Disulfoton sulfone,Poison
+3696,Disulfoton sulfone,,2015,5,1,Disulfoton sulfone,Poison
+3697,Disulfoton sulfone,,2017,1,1,Disulfoton sulfone,Poison
+3698,Disulfoton sulfone,% recovery,2012,4,6156,Disulfoton sulfone,Poison
+3699,Disulfoton sulfone,% recovery,2013,2,5671.5,Disulfoton sulfone,Poison
+3700,Disulfoton sulfone,% recovery,2016,2,8804.5,Disulfoton sulfone,Poison
+3701,Disulfoton sulfone,ng/l,2010,10,1,Disulfoton sulfone,Poison
+3702,Disulfoton sulfone,ng/l,2012,8,1,Disulfoton sulfone,Poison
+3703,Disulfoton sulfone,ng/l,2013,9,1,Disulfoton sulfone,Poison
+3704,Disulfoton sulfone,ng/l,2014,5,1,Disulfoton sulfone,Poison
+3705,Disulfoton sulfone,ng/l,2015,1,1,Disulfoton sulfone,Poison
+3706,Disulfoton sulfone,ng/l,2016,2,1,Disulfoton sulfone,Poison
+3707,Diuron,,1998,13,1,Diuron,Poison
+3708,Diuron,,2007,3,1,Diuron,Poison
+3709,Diuron,,2008,9,1,Diuron,Poison
+3710,Diuron,,2010,1,1,Diuron,Poison
+3711,Diuron,,2013,1,1,Diuron,Poison
+3712,Diuron,,2015,5,1,Diuron,Poison
+3713,Diuron,,2017,1,1,Diuron,Poison
+3714,Diuron,% recovery,2012,4,5984.25,Diuron,Poison
+3715,Diuron,% recovery,2013,2,5793,Diuron,Poison
+3716,Diuron,% recovery,2016,2,15032.5,Diuron,Poison
+3717,Diuron,ng/l,2010,10,2067.3,Diuron,Poison
+3718,Diuron,ng/l,2012,8,1,Diuron,Poison
+3719,Diuron,ng/l,2013,9,1,Diuron,Poison
+3720,Diuron,ng/l,2014,5,1,Diuron,Poison
+3721,Diuron,ng/l,2015,1,1,Diuron,Poison
+3722,Diuron,ng/l,2016,4,1,Diuron,Poison
+3723,Diuron,ug/l,2008,4,366.5,Diuron,Poison
+3724,Endosulfan sulfate,,2006,1,1,Endosulfan sulfate,Poison
+3725,Endosulfan sulfate,,2007,3,1,Endosulfan sulfate,Poison
+3726,Endosulfan sulfate,,2008,14,1,Endosulfan sulfate,Poison
+3727,Endosulfan sulfate,,2010,1,1,Endosulfan sulfate,Poison
+3728,Endosulfan sulfate,,2011,1,1,Endosulfan sulfate,Poison
+3729,Endosulfan sulfate,ug/l,1987,3,1,Endosulfan sulfate,Poison
+3730,Endosulfan sulfate,ug/l,1988,6,1,Endosulfan sulfate,Poison
+3731,Endosulfan sulfate,ug/l,1989,10,1,Endosulfan sulfate,Poison
+3732,Endosulfan sulfate,ug/l,1990,5,1,Endosulfan sulfate,Poison
+3733,Endosulfan sulfate,ug/l,1991,2,1,Endosulfan sulfate,Poison
+3734,Endosulfan sulfate,ug/l,1992,1,1,Endosulfan sulfate,Poison
+3735,Endosulfan sulfate,ug/l,2006,2,1,Endosulfan sulfate,Poison
+3736,Endrin,,1988,13,1,Endrin,Poison
+3737,Endrin,,1989,4,1,Endrin,Poison
+3738,Endrin,,1999,4,1,Endrin,Poison
+3739,Endrin,ug/l,1986,3,1,Endrin,Poison
+3740,Endrin,ug/l,1987,3,1,Endrin,Poison
+3741,Endrin,ug/l,1988,6,1,Endrin,Poison
+3742,Endrin,ug/l,1989,10,1,Endrin,Poison
+3743,Endrin,ug/l,1990,6,101.833333333333,Endrin,Poison
+3744,Endrin,ug/l,1991,2,1,Endrin,Poison
+3745,Endrin,ug/l,1992,1,1,Endrin,Poison
+3746,Endrin,ug/l,1993,1,1,Endrin,Poison
+3747,Endrin,ug/l,1999,5,1,Endrin,Poison
+3748,Endrin,ug/l,2006,2,1,Endrin,Poison
+3749,Endrin,ug/l,2012,1,1,Endrin,Poison
+3769,Ethoprop,,1998,14,1,Ethoprop,Poison
+3770,Ethoprop,,2000,12,1,Ethoprop,Poison
+3771,Ethoprop,,2003,4,1,Ethoprop,Poison
+3772,Ethoprop,,2004,2,1,Ethoprop,Poison
+3773,Ethoprop,,2006,1,1,Ethoprop,Poison
+3774,Ethoprop,,2007,3,1,Ethoprop,Poison
+3775,Ethoprop,,2008,14,1,Ethoprop,Poison
+3776,Ethoprop,,2010,1,1,Ethoprop,Poison
+3777,Ethoprop,,2011,1,1,Ethoprop,Poison
+3778,Ethoprop,,2013,1,1,Ethoprop,Poison
+3779,Ethoprop,,2015,5,1,Ethoprop,Poison
+3780,Ethoprop,,2017,1,1,Ethoprop,Poison
+3781,Ethoprop,% recovery,2012,4,6023,Ethoprop,Poison
+3782,Ethoprop,% recovery,2013,2,5493,Ethoprop,Poison
+3783,Ethoprop,% recovery,2016,2,2710.5,Ethoprop,Poison
+3784,Ethoprop,ng/l,2010,10,1,Ethoprop,Poison
+3785,Ethoprop,ng/l,2012,8,1,Ethoprop,Poison
+3786,Ethoprop,ng/l,2013,9,1,Ethoprop,Poison
+3787,Ethoprop,ng/l,2014,5,1,Ethoprop,Poison
+3788,Ethoprop,ng/l,2015,1,1,Ethoprop,Poison
+3789,Ethoprop,ng/l,2016,4,1,Ethoprop,Poison
+3812,Ethylene dibromide,,1989,5,1,Ethylene dibromide,Poison
+3813,Ethylene dibromide,,1998,13,1,Ethylene dibromide,Poison
+3814,Ethylene dibromide,,2003,4,1,Ethylene dibromide,Poison
+3815,Ethylene dibromide,,2004,2,1,Ethylene dibromide,Poison
+3816,Ethylene dibromide,,2006,1,1,Ethylene dibromide,Poison
+3817,Ethylene dibromide,,2007,3,1,Ethylene dibromide,Poison
+3818,Ethylene dibromide,,2008,14,1,Ethylene dibromide,Poison
+3819,Ethylene dibromide,,2010,1,1,Ethylene dibromide,Poison
+3820,Ethylene dibromide,,2011,1,1,Ethylene dibromide,Poison
+3821,Ethylene dibromide,,2013,1,1,Ethylene dibromide,Poison
+3822,Ethylene dibromide,,2015,5,1,Ethylene dibromide,Poison
+3823,Ethylene dibromide,,2017,1,1,Ethylene dibromide,Poison
+3824,Ethylene dibromide,ug/l,2007,1,1,Ethylene dibromide,Poison
+3825,Ethylene dibromide,ug/l,2008,1,1,Ethylene dibromide,Poison
+3892,Fipronil,,2003,4,1,Fipronil,Poison
+3893,Fipronil,,2004,2,1,Fipronil,Poison
+3894,Fipronil,,2006,1,1,Fipronil,Poison
+3895,Fipronil,,2007,3,1,Fipronil,Poison
+3896,Fipronil,,2008,14,1,Fipronil,Poison
+3897,Fipronil,,2010,1,1,Fipronil,Poison
+3898,Fipronil,,2011,1,1,Fipronil,Poison
+3899,Fipronil,,2013,1,1,Fipronil,Poison
+3900,Fipronil,,2015,5,1,Fipronil,Poison
+3901,Fipronil,,2017,1,1,Fipronil,Poison
+3902,Fipronil,% recovery,2012,4,11853,Fipronil,Poison
+3903,Fipronil,% recovery,2013,2,5775.5,Fipronil,Poison
+3904,Fipronil,% recovery,2016,2,14508,Fipronil,Poison
+3905,Fipronil,ng/l,2012,8,1,Fipronil,Poison
+3906,Fipronil,ng/l,2013,9,1,Fipronil,Poison
+3907,Fipronil,ng/l,2014,5,1,Fipronil,Poison
+3908,Fipronil,ng/l,2015,1,1,Fipronil,Poison
+3909,Fipronil,ng/l,2016,4,1,Fipronil,Poison
+3910,Fipronil Sulfone,,2003,4,1,Fipronil Sulfone,Poison
+3911,Fipronil Sulfone,,2004,2,1,Fipronil Sulfone,Poison
+3912,Fipronil Sulfone,,2006,1,1,Fipronil Sulfone,Poison
+3913,Fipronil Sulfone,,2007,3,1,Fipronil Sulfone,Poison
+3914,Fipronil Sulfone,,2008,14,1,Fipronil Sulfone,Poison
+3915,Fipronil Sulfone,,2010,1,1,Fipronil Sulfone,Poison
+3916,Fipronil Sulfone,,2011,1,1,Fipronil Sulfone,Poison
+3917,Fipronil Sulfone,,2013,1,1,Fipronil Sulfone,Poison
+3918,Fipronil Sulfone,,2015,5,1,Fipronil Sulfone,Poison
+3919,Fipronil Sulfone,,2017,1,1,Fipronil Sulfone,Poison
+3920,Fipronil Sulfone,% recovery,2016,2,15078,Fipronil Sulfone,Poison
+3921,Fipronil Sulfone,ng/l,2014,5,1,Fipronil Sulfone,Poison
+3922,Fipronil Sulfone,ng/l,2015,1,1,Fipronil Sulfone,Poison
+3923,Fipronil Sulfone,ng/l,2016,4,1,Fipronil Sulfone,Poison
+4173,Fonofos,,1998,14,1,Fonofos,Poison
+4174,Fonofos,,2000,12,1,Fonofos,Poison
+4175,Fonofos,,2003,4,1,Fonofos,Poison
+4176,Fonofos,,2004,2,1,Fonofos,Poison
+4177,Fonofos,,2006,1,1,Fonofos,Poison
+4178,Fonofos,,2007,3,1,Fonofos,Poison
+4179,Fonofos,,2008,14,1,Fonofos,Poison
+4180,Fonofos,,2010,1,1,Fonofos,Poison
+4181,Fonofos,,2011,1,1,Fonofos,Poison
+4182,Fonofos,,2013,1,1,Fonofos,Poison
+4183,Fonofos,,2015,5,1,Fonofos,Poison
+4184,Fonofos,,2017,1,1,Fonofos,Poison
+4414,Heptachlor,,1988,13,1,Heptachlor,Poison
+4415,Heptachlor,,1989,4,1,Heptachlor,Poison
+4416,Heptachlor,,1990,1,1,Heptachlor,Poison
+4417,Heptachlor,,1999,4,1,Heptachlor,Poison
+4418,Heptachlor,ug/l,1986,3,1,Heptachlor,Poison
+4419,Heptachlor,ug/l,1987,3,1,Heptachlor,Poison
+4420,Heptachlor,ug/l,1988,6,1,Heptachlor,Poison
+4421,Heptachlor,ug/l,1989,10,1,Heptachlor,Poison
+4422,Heptachlor,ug/l,1990,5,1,Heptachlor,Poison
+4423,Heptachlor,ug/l,1991,2,1,Heptachlor,Poison
+4424,Heptachlor,ug/l,1992,1,1,Heptachlor,Poison
+4425,Heptachlor,ug/l,1993,1,1,Heptachlor,Poison
+4426,Heptachlor,ug/l,1999,5,1,Heptachlor,Poison
+4427,Heptachlor,ug/l,2006,2,1,Heptachlor,Poison
+4428,Heptachlor,ug/l,2012,1,1,Heptachlor,Poison
+4429,Heptachlor epoxide,,1988,13,1,Heptachlor epoxide,Poison
+4430,Heptachlor epoxide,,1989,4,1,Heptachlor epoxide,Poison
+4431,Heptachlor epoxide,,1990,1,1,Heptachlor epoxide,Poison
+4432,Heptachlor epoxide,,1999,4,1,Heptachlor epoxide,Poison
+4433,Heptachlor epoxide,ug/l,1986,3,1,Heptachlor epoxide,Poison
+4434,Heptachlor epoxide,ug/l,1987,3,1,Heptachlor epoxide,Poison
+4435,Heptachlor epoxide,ug/l,1988,6,1,Heptachlor epoxide,Poison
+4436,Heptachlor epoxide,ug/l,1989,10,1,Heptachlor epoxide,Poison
+4437,Heptachlor epoxide,ug/l,1990,5,1,Heptachlor epoxide,Poison
+4438,Heptachlor epoxide,ug/l,1991,2,1,Heptachlor epoxide,Poison
+4439,Heptachlor epoxide,ug/l,1992,1,1,Heptachlor epoxide,Poison
+4440,Heptachlor epoxide,ug/l,1993,2,1,Heptachlor epoxide,Poison
+4441,Heptachlor epoxide,ug/l,1999,10,1,Heptachlor epoxide,Poison
+4442,Heptachlor epoxide,ug/l,2006,2,1,Heptachlor epoxide,Poison
+4443,Heptachlor epoxide,ug/l,2012,1,1,Heptachlor epoxide,Poison
+4494,Hexachlorocyclopentadiene,,1989,1,1,Hexachlorocyclopentadiene,Poison
+4495,Hexachlorocyclopentadiene,,2000,1,1,Hexachlorocyclopentadiene,Poison
+4496,Hexachlorocyclopentadiene,,2013,1,1,Hexachlorocyclopentadiene,Poison
+4497,Hexachlorocyclopentadiene,,2015,5,1,Hexachlorocyclopentadiene,Poison
+4498,Hexachlorocyclopentadiene,,2017,1,1,Hexachlorocyclopentadiene,Poison
+4499,Hexachlorocyclopentadiene,mg/l,2002,1,1,Hexachlorocyclopentadiene,Poison
+4500,Hexachlorocyclopentadiene,ug/kg,2002,2,1,Hexachlorocyclopentadiene,Poison
+4501,Hexachlorocyclopentadiene,ug/l,1990,4,1,Hexachlorocyclopentadiene,Poison
+4502,Hexachlorocyclopentadiene,ug/l,1992,1,1,Hexachlorocyclopentadiene,Poison
+4503,Hexachlorocyclopentadiene,ug/l,1993,1,1,Hexachlorocyclopentadiene,Poison
+4504,Hexachlorocyclopentadiene,ug/l,1994,1,1,Hexachlorocyclopentadiene,Poison
+4505,Hexachlorocyclopentadiene,ug/l,1995,6,1,Hexachlorocyclopentadiene,Poison
+4506,Hexachlorocyclopentadiene,ug/l,1996,7,1,Hexachlorocyclopentadiene,Poison
+4507,Hexachlorocyclopentadiene,ug/l,1997,9,1,Hexachlorocyclopentadiene,Poison
+4508,Hexachlorocyclopentadiene,ug/l,1998,13,1,Hexachlorocyclopentadiene,Poison
+4509,Hexachlorocyclopentadiene,ug/l,1999,24,1,Hexachlorocyclopentadiene,Poison
+4510,Hexachlorocyclopentadiene,ug/l,2000,15,1,Hexachlorocyclopentadiene,Poison
+4511,Hexachlorocyclopentadiene,ug/l,2001,6,1,Hexachlorocyclopentadiene,Poison
+4512,Hexachlorocyclopentadiene,ug/l,2002,6,1,Hexachlorocyclopentadiene,Poison
+4513,Hexachlorocyclopentadiene,ug/l,2006,1,1,Hexachlorocyclopentadiene,Poison
+4514,Hexachlorocyclopentadiene,ug/l,2007,1,1,Hexachlorocyclopentadiene,Poison
+4515,Hexachlorocyclopentadiene,ug/l,2008,1,1,Hexachlorocyclopentadiene,Poison
+4516,Hexachlorocyclopentadiene,ug/l,2012,1,1,Hexachlorocyclopentadiene,Poison
+4543,Hexazinone,,2006,1,1,Hexazinone,Poison
+4544,Hexazinone,,2007,3,1,Hexazinone,Poison
+4545,Hexazinone,,2008,14,1,Hexazinone,Poison
+4546,Hexazinone,,2010,1,1,Hexazinone,Poison
+4547,Hexazinone,,2011,1,1,Hexazinone,Poison
+4548,Hexazinone,,2013,1,1,Hexazinone,Poison
+4549,Hexazinone,,2015,5,1,Hexazinone,Poison
+4550,Hexazinone,,2017,1,1,Hexazinone,Poison
+4551,Hexazinone,% recovery,2012,4,6125.5,Hexazinone,Poison
+4552,Hexazinone,% recovery,2013,2,5461.5,Hexazinone,Poison
+4553,Hexazinone,% recovery,2016,2,8888.5,Hexazinone,Poison
+4554,Hexazinone,ng/l,2010,10,1,Hexazinone,Poison
+4555,Hexazinone,ng/l,2012,8,1,Hexazinone,Poison
+4556,Hexazinone,ng/l,2013,9,1,Hexazinone,Poison
+4557,Hexazinone,ng/l,2014,5,1,Hexazinone,Poison
+4558,Hexazinone,ng/l,2015,1,1,Hexazinone,Poison
+4559,Hexazinone,ng/l,2016,4,1,Hexazinone,Poison
+4691,Imazaquin,,2007,2,1,Imazaquin,Poison
+4692,Imazaquin,,2008,13,1,Imazaquin,Poison
+4693,Imazaquin,,2010,1,1,Imazaquin,Poison
+4694,Imazaquin,,2013,1,1,Imazaquin,Poison
+4695,Imazaquin,,2015,5,1,Imazaquin,Poison
+4696,Imazaquin,,2017,1,1,Imazaquin,Poison
+4697,Imazaquin,% recovery,2012,4,11882.25,Imazaquin,Poison
+4698,Imazaquin,% recovery,2013,2,4754.5,Imazaquin,Poison
+4699,Imazaquin,% recovery,2016,2,14141.5,Imazaquin,Poison
+4700,Imazaquin,ng/l,2010,10,1,Imazaquin,Poison
+4701,Imazaquin,ng/l,2012,8,1,Imazaquin,Poison
+4702,Imazaquin,ng/l,2013,9,1,Imazaquin,Poison
+4703,Imazaquin,ng/l,2014,5,1,Imazaquin,Poison
+4704,Imazaquin,ng/l,2015,1,1,Imazaquin,Poison
+4705,Imazaquin,ng/l,2016,4,1,Imazaquin,Poison
+4706,Imazethapyr,,2007,3,1,Imazethapyr,Poison
+4707,Imazethapyr,,2008,13,1,Imazethapyr,Poison
+4708,Imazethapyr,,2010,1,1,Imazethapyr,Poison
+4709,Imazethapyr,,2013,1,1,Imazethapyr,Poison
+4710,Imazethapyr,,2015,5,1,Imazethapyr,Poison
+4711,Imazethapyr,,2017,1,1,Imazethapyr,Poison
+4712,Imazethapyr,% recovery,2012,4,8753,Imazethapyr,Poison
+4713,Imazethapyr,% recovery,2013,2,3739.5,Imazethapyr,Poison
+4714,Imazethapyr,% recovery,2016,2,8829,Imazethapyr,Poison
+4715,Imazethapyr,ng/l,2010,10,1,Imazethapyr,Poison
+4716,Imazethapyr,ng/l,2012,8,1,Imazethapyr,Poison
+4717,Imazethapyr,ng/l,2013,9,447.777777777778,Imazethapyr,Poison
+4718,Imazethapyr,ng/l,2014,5,1,Imazethapyr,Poison
+4719,Imazethapyr,ng/l,2015,1,1,Imazethapyr,Poison
+4720,Imazethapyr,ng/l,2016,4,1,Imazethapyr,Poison
+4721,Imidacloprid,,2007,3,1,Imidacloprid,Poison
+4722,Imidacloprid,,2008,13,1,Imidacloprid,Poison
+4723,Imidacloprid,,2010,1,1,Imidacloprid,Poison
+4724,Imidacloprid,,2013,1,1,Imidacloprid,Poison
+4725,Imidacloprid,,2015,5,1,Imidacloprid,Poison
+4726,Imidacloprid,,2017,1,1,Imidacloprid,Poison
+4727,Imidacloprid,% recovery,2012,4,3332.25,Imidacloprid,Poison
+4728,Imidacloprid,% recovery,2013,2,3431,Imidacloprid,Poison
+4729,Imidacloprid,% recovery,2016,2,8820.5,Imidacloprid,Poison
+4730,Imidacloprid,ng/l,2010,10,1,Imidacloprid,Poison
+4731,Imidacloprid,ng/l,2012,8,1,Imidacloprid,Poison
+4732,Imidacloprid,ng/l,2013,9,1,Imidacloprid,Poison
+4733,Imidacloprid,ng/l,2014,5,1,Imidacloprid,Poison
+4734,Imidacloprid,ng/l,2015,1,1,Imidacloprid,Poison
+4735,Imidacloprid,ng/l,2016,4,1,Imidacloprid,Poison
+5146,Lindane,,1988,13,1,Lindane,Poison
+5147,Lindane,,1989,4,1,Lindane,Poison
+5148,Lindane,,1990,1,1,Lindane,Poison
+5149,Lindane,,1998,14,1,Lindane,Poison
+5150,Lindane,,1999,4,1,Lindane,Poison
+5151,Lindane,,2000,12,1,Lindane,Poison
+5152,Lindane,,2003,4,1,Lindane,Poison
+5153,Lindane,,2004,2,1,Lindane,Poison
+5154,Lindane,ug/l,1986,3,182,Lindane,Poison
+5155,Lindane,ug/l,1987,3,1,Lindane,Poison
+5156,Lindane,ug/l,1988,6,1,Lindane,Poison
+5157,Lindane,ug/l,1989,10,53.2,Lindane,Poison
+5158,Lindane,ug/l,1990,5,1,Lindane,Poison
+5159,Lindane,ug/l,1991,2,1,Lindane,Poison
+5160,Lindane,ug/l,1992,1,1,Lindane,Poison
+5161,Lindane,ug/l,1993,1,1,Lindane,Poison
+5162,Lindane,ug/l,1999,5,1,Lindane,Poison
+5163,Lindane,ug/l,2006,2,1,Lindane,Poison
+5164,Lindane,ug/l,2012,1,1,Lindane,Poison
+5165,Linuron,,1998,27,1,Linuron,Poison
+5166,Linuron,,2000,12,1,Linuron,Poison
+5167,Linuron,,2003,4,1,Linuron,Poison
+5168,Linuron,,2004,2,1,Linuron,Poison
+5169,Linuron,,2007,3,1,Linuron,Poison
+5170,Linuron,,2008,13,1,Linuron,Poison
+5171,Linuron,,2010,1,1,Linuron,Poison
+5172,Linuron,,2013,1,1,Linuron,Poison
+5173,Linuron,,2015,5,1,Linuron,Poison
+5174,Linuron,,2017,1,1,Linuron,Poison
+5175,Linuron,% recovery,2012,4,5864,Linuron,Poison
+5176,Linuron,% recovery,2013,2,6409,Linuron,Poison
+5177,Linuron,% recovery,2016,2,14588,Linuron,Poison
+5178,Linuron,ng/l,2010,10,1,Linuron,Poison
+5179,Linuron,ng/l,2012,8,1,Linuron,Poison
+5180,Linuron,ng/l,2013,9,1,Linuron,Poison
+5181,Linuron,ng/l,2014,5,1,Linuron,Poison
+5182,Linuron,ng/l,2015,1,1,Linuron,Poison
+5183,Linuron,ng/l,2016,4,1,Linuron,Poison
+5351,Malathion,,1988,12,1,Malathion,Poison
+5352,Malathion,,1989,10,1,Malathion,Poison
+5353,Malathion,,1998,14,1,Malathion,Poison
+5354,Malathion,,2000,11,1,Malathion,Poison
+5355,Malathion,,2003,4,1,Malathion,Poison
+5356,Malathion,,2004,2,1,Malathion,Poison
+5357,Malathion,,2006,1,1,Malathion,Poison
+5358,Malathion,,2007,3,1,Malathion,Poison
+5359,Malathion,,2008,14,1,Malathion,Poison
+5360,Malathion,,2010,1,1,Malathion,Poison
+5361,Malathion,,2011,1,1,Malathion,Poison
+5362,Malathion,,2013,1,1,Malathion,Poison
+5363,Malathion,,2015,5,1,Malathion,Poison
+5364,Malathion,,2017,1,1,Malathion,Poison
+5365,Malathion,% recovery,2012,4,5835.5,Malathion,Poison
+5366,Malathion,% recovery,2013,2,6597,Malathion,Poison
+5367,Malathion,ng/l,2010,10,1,Malathion,Poison
+5368,Malathion,ng/l,2012,8,1,Malathion,Poison
+5369,Malathion,ng/l,2013,9,1,Malathion,Poison
+5370,Malathion,ng/l,2014,5,1,Malathion,Poison
+5371,Malathion,ng/l,2015,1,1,Malathion,Poison
+5372,Malathion,ng/l,2016,4,1,Malathion,Poison
+5373,Malathion,ug/l,1988,1,347,Malathion,Poison
+5374,Malathion,ug/l,1990,1,1,Malathion,Poison
+5375,Malathion,ug/l,1991,1,1,Malathion,Poison
+5376,Malathion,ug/l,1992,1,1,Malathion,Poison
+5377,Malathion,ug/l,2000,1,445,Malathion,Poison
+5564,Metalaxyl,,2006,1,1,Metalaxyl,Poison
+5565,Metalaxyl,,2007,6,1,Metalaxyl,Poison
+5566,Metalaxyl,,2008,27,1,Metalaxyl,Poison
+5567,Metalaxyl,,2010,2,1,Metalaxyl,Poison
+5568,Metalaxyl,,2011,1,1,Metalaxyl,Poison
+5569,Metalaxyl,,2013,1,1,Metalaxyl,Poison
+5570,Metalaxyl,,2015,6,1,Metalaxyl,Poison
+5571,Metalaxyl,,2017,1,1,Metalaxyl,Poison
+5572,Metalaxyl,% recovery,2012,4,6042.25,Metalaxyl,Poison
+5573,Metalaxyl,% recovery,2013,2,5826.5,Metalaxyl,Poison
+5574,Metalaxyl,% recovery,2016,2,2667.5,Metalaxyl,Poison
+5575,Metalaxyl,ng/l,2010,10,1,Metalaxyl,Poison
+5576,Metalaxyl,ng/l,2012,8,1,Metalaxyl,Poison
+5577,Metalaxyl,ng/l,2013,9,1,Metalaxyl,Poison
+5578,Metalaxyl,ng/l,2014,5,1,Metalaxyl,Poison
+5579,Metalaxyl,ng/l,2015,1,1,Metalaxyl,Poison
+5580,Metalaxyl,ng/l,2016,4,1,Metalaxyl,Poison
+5581,Methiocarb,,1998,13,1,Methiocarb,Poison
+5582,Methiocarb,,2007,2,1,Methiocarb,Poison
+5583,Methiocarb,,2008,13,1,Methiocarb,Poison
+5584,Methiocarb,,2010,1,1,Methiocarb,Poison
+5585,Methiocarb,% recovery,2012,4,5850,Methiocarb,Poison
+5586,Methiocarb,% recovery,2013,2,6718,Methiocarb,Poison
+5587,Methiocarb,% recovery,2016,2,8713,Methiocarb,Poison
+5588,Methiocarb,ng/l,2010,8,1,Methiocarb,Poison
+5589,Methiocarb,ng/l,2012,8,1,Methiocarb,Poison
+5590,Methiocarb,ng/l,2013,9,1,Methiocarb,Poison
+5591,Methiocarb,ng/l,2014,5,1,Methiocarb,Poison
+5592,Methiocarb,ng/l,2015,1,1,Methiocarb,Poison
+5593,Methiocarb,ng/l,2016,4,1,Methiocarb,Poison
+5594,Methiocarb,ug/l,1991,1,1,Methiocarb,Poison
+5595,Methiocarb,ug/l,1992,1,1,Methiocarb,Poison
+5596,Methiocarb,ug/l,1999,5,1,Methiocarb,Poison
+5597,Methomyl,,1988,2,1,Methomyl,Poison
+5598,Methomyl,,1989,9,1,Methomyl,Poison
+5599,Methomyl,,1998,13,1,Methomyl,Poison
+5600,Methomyl,,2007,3,1,Methomyl,Poison
+5601,Methomyl,,2008,13,1,Methomyl,Poison
+5602,Methomyl,,2010,1,1,Methomyl,Poison
+5603,Methomyl,,2013,1,1,Methomyl,Poison
+5604,Methomyl,,2015,5,1,Methomyl,Poison
+5605,Methomyl,,2017,1,1,Methomyl,Poison
+5606,Methomyl,% recovery,2012,4,5856.75,Methomyl,Poison
+5607,Methomyl,% recovery,2013,2,5162.5,Methomyl,Poison
+5608,Methomyl,% recovery,2016,2,14380,Methomyl,Poison
+5609,Methomyl,ng/l,2010,10,1,Methomyl,Poison
+5610,Methomyl,ng/l,2012,8,1,Methomyl,Poison
+5611,Methomyl,ng/l,2013,9,1,Methomyl,Poison
+5612,Methomyl,ng/l,2014,5,1,Methomyl,Poison
+5613,Methomyl,ng/l,2015,1,1,Methomyl,Poison
+5614,Methomyl,ng/l,2016,4,1,Methomyl,Poison
+5615,Methomyl,ug/l,1991,1,1,Methomyl,Poison
+5616,Methomyl,ug/l,1992,1,1,Methomyl,Poison
+5617,Methomyl,ug/l,1999,5,1,Methomyl,Poison
+5618,Methomyl,ug/l,2000,11,1,Methomyl,Poison
+5619,Methomyl,ug/l,2012,1,1,Methomyl,Poison
+5620,Methoxychlor,,1988,13,1,Methoxychlor,Poison
+5621,Methoxychlor,,1989,4,1,Methoxychlor,Poison
+5622,Methoxychlor,,1990,1,1,Methoxychlor,Poison
+5623,Methoxychlor,,1999,4,1,Methoxychlor,Poison
+5624,Methoxychlor,ug/l,1987,3,1,Methoxychlor,Poison
+5625,Methoxychlor,ug/l,1988,6,1,Methoxychlor,Poison
+5626,Methoxychlor,ug/l,1989,10,1,Methoxychlor,Poison
+5627,Methoxychlor,ug/l,1990,5,1,Methoxychlor,Poison
+5628,Methoxychlor,ug/l,1991,2,1,Methoxychlor,Poison
+5629,Methoxychlor,ug/l,1992,1,1,Methoxychlor,Poison
+5630,Methoxychlor,ug/l,1993,1,1,Methoxychlor,Poison
+5631,Methoxychlor,ug/l,1999,5,1,Methoxychlor,Poison
+5632,Methoxychlor,ug/l,2006,2,1,Methoxychlor,Poison
+5633,Methoxychlor,ug/l,2012,1,1,Methoxychlor,Poison
+5634,Methyl bromide,,1989,5,1,Methyl bromide,Poison
+5635,Methyl bromide,,1998,13,1,Methyl bromide,Poison
+5636,Methyl bromide,,2003,4,1,Methyl bromide,Poison
+5637,Methyl bromide,,2004,2,1,Methyl bromide,Poison
+5638,Methyl bromide,,2006,1,1,Methyl bromide,Poison
+5639,Methyl bromide,,2007,3,1,Methyl bromide,Poison
+5640,Methyl bromide,,2008,14,1,Methyl bromide,Poison
+5641,Methyl bromide,,2010,1,1,Methyl bromide,Poison
+5642,Methyl bromide,,2011,1,1,Methyl bromide,Poison
+5643,Methyl bromide,,2013,1,1,Methyl bromide,Poison
+5644,Methyl bromide,,2015,5,1,Methyl bromide,Poison
+5645,Methyl bromide,,2017,1,1,Methyl bromide,Poison
+5646,Methyl bromide,ug/l,1990,3,1,Methyl bromide,Poison
+5647,Methyl bromide,ug/l,1991,4,1,Methyl bromide,Poison
+5648,Methyl bromide,ug/l,1993,2,1,Methyl bromide,Poison
+5649,Methyl bromide,ug/l,1995,1,1,Methyl bromide,Poison
+5650,Methyl bromide,ug/l,2001,1,1,Methyl bromide,Poison
+5651,Methyl bromide,ug/l,2007,1,1,Methyl bromide,Poison
+5652,Methyl bromide,ug/l,2008,1,1,Methyl bromide,Poison
+5653,Methyl bromide,ug/l,2012,1,1,Methyl bromide,Poison
+5665,Methyl parathion,,1988,13,1,Methyl parathion,Poison
+5666,Methyl parathion,,1989,10,1,Methyl parathion,Poison
+5667,Methyl parathion,,1998,14,1,Methyl parathion,Poison
+5668,Methyl parathion,,2000,12,1,Methyl parathion,Poison
+5669,Methyl parathion,,2003,4,1,Methyl parathion,Poison
+5670,Methyl parathion,,2004,2,1,Methyl parathion,Poison
+5671,Methyl parathion,,2006,1,1,Methyl parathion,Poison
+5672,Methyl parathion,,2007,3,1,Methyl parathion,Poison
+5673,Methyl parathion,,2008,14,1,Methyl parathion,Poison
+5674,Methyl parathion,,2010,1,1,Methyl parathion,Poison
+5675,Methyl parathion,,2011,1,1,Methyl parathion,Poison
+5676,Methyl parathion,ug/l,1990,1,1,Methyl parathion,Poison
+5677,Methyl parathion,ug/l,1991,1,1,Methyl parathion,Poison
+5678,Methyl parathion,ug/l,1992,1,1,Methyl parathion,Poison
+5713,Metolachlor,,1989,10,1,Metolachlor,Poison
+5714,Metolachlor,,1990,1,1,Metolachlor,Poison
+5715,Metolachlor,,1998,14,1,Metolachlor,Poison
+5716,Metolachlor,,2000,12,1,Metolachlor,Poison
+5717,Metolachlor,,2003,4,1,Metolachlor,Poison
+5718,Metolachlor,,2004,2,1,Metolachlor,Poison
+5719,Metolachlor,,2006,1,1,Metolachlor,Poison
+5720,Metolachlor,,2007,3,1,Metolachlor,Poison
+5721,Metolachlor,,2008,14,1,Metolachlor,Poison
+5722,Metolachlor,,2010,1,1,Metolachlor,Poison
+5723,Metolachlor,,2011,1,1,Metolachlor,Poison
+5724,Metolachlor,,2013,1,1,Metolachlor,Poison
+5725,Metolachlor,,2014,4,1,Metolachlor,Poison
+5726,Metolachlor,,2015,7,1,Metolachlor,Poison
+5727,Metolachlor,,2017,1,1,Metolachlor,Poison
+5728,Metolachlor,% recovery,2012,4,2770.25,Metolachlor,Poison
+5729,Metolachlor,% recovery,2013,2,6235,Metolachlor,Poison
+5730,Metolachlor,% recovery,2016,2,2740.5,Metolachlor,Poison
+5731,Metolachlor,ng/l,2010,10,1,Metolachlor,Poison
+5732,Metolachlor,ng/l,2012,8,1,Metolachlor,Poison
+5733,Metolachlor,ng/l,2013,16,1,Metolachlor,Poison
+5734,Metolachlor,ng/l,2014,10,1,Metolachlor,Poison
+5735,Metolachlor,ng/l,2015,1,1,Metolachlor,Poison
+5736,Metolachlor,ng/l,2016,4,1,Metolachlor,Poison
+5737,Metolachlor,ug/l,1993,1,1,Metolachlor,Poison
+5738,Metolachlor,ug/l,1999,5,1,Metolachlor,Poison
+5739,Metolachlor,ug/l,2010,10,1,Metolachlor,Poison
+5740,Metolachlor,ug/l,2012,1,1,Metolachlor,Poison
+5741,Metolachlor ESA,,2013,1,1,Metolachlor ESA,Poison
+5742,Metolachlor ESA,,2015,5,1,Metolachlor ESA,Poison
+5743,Metolachlor ESA,,2017,1,1,Metolachlor ESA,Poison
+5744,Metolachlor ESA,% recovery,2012,4,3016.5,Metolachlor ESA,Poison
+5745,Metolachlor ESA,% recovery,2013,2,6532.5,Metolachlor ESA,Poison
+5746,Metolachlor ESA,% recovery,2016,2,8861.5,Metolachlor ESA,Poison
+5747,Metolachlor ESA,ng/l,2010,10,1,Metolachlor ESA,Poison
+5748,Metolachlor ESA,ng/l,2012,8,1,Metolachlor ESA,Poison
+5749,Metolachlor ESA,ng/l,2013,9,1,Metolachlor ESA,Poison
+5750,Metolachlor ESA,ng/l,2014,5,1,Metolachlor ESA,Poison
+5751,Metolachlor ESA,ng/l,2015,1,1,Metolachlor ESA,Poison
+5752,Metolachlor ESA,ng/l,2016,4,1,Metolachlor ESA,Poison
+5753,Metribuzin,,1989,10,1,Metribuzin,Poison
+5754,Metribuzin,,1990,1,1,Metribuzin,Poison
+5755,Metribuzin,,1998,14,1,Metribuzin,Poison
+5756,Metribuzin,,2000,12,1,Metribuzin,Poison
+5757,Metribuzin,,2003,4,1,Metribuzin,Poison
+5758,Metribuzin,,2004,2,1,Metribuzin,Poison
+5759,Metribuzin,,2006,1,1,Metribuzin,Poison
+5760,Metribuzin,,2007,3,1,Metribuzin,Poison
+5761,Metribuzin,,2008,14,1,Metribuzin,Poison
+5762,Metribuzin,,2010,1,1,Metribuzin,Poison
+5763,Metribuzin,,2011,1,1,Metribuzin,Poison
+5764,Metribuzin,,2013,1,1,Metribuzin,Poison
+5765,Metribuzin,,2015,5,1,Metribuzin,Poison
+5766,Metribuzin,,2017,1,1,Metribuzin,Poison
+5767,Metribuzin,% recovery,2012,4,8998.75,Metribuzin,Poison
+5768,Metribuzin,% recovery,2013,2,5633.5,Metribuzin,Poison
+5769,Metribuzin,% recovery,2016,2,14923,Metribuzin,Poison
+5770,Metribuzin,ng/l,2010,10,1,Metribuzin,Poison
+5771,Metribuzin,ng/l,2012,8,1,Metribuzin,Poison
+5772,Metribuzin,ng/l,2013,9,1,Metribuzin,Poison
+5773,Metribuzin,ng/l,2014,5,1,Metribuzin,Poison
+5774,Metribuzin,ng/l,2015,1,1,Metribuzin,Poison
+5775,Metribuzin,ng/l,2016,4,1,Metribuzin,Poison
+5776,Metribuzin,ug/l,1993,1,1,Metribuzin,Poison
+5777,Metribuzin,ug/l,1999,5,1,Metribuzin,Poison
+5778,Metribuzin,ug/l,2012,1,1,Metribuzin,Poison
+5779,Molinate,,1998,14,1,Molinate,Poison
+5780,Molinate,,2000,12,1,Molinate,Poison
+5781,Molinate,,2003,4,1,Molinate,Poison
+5782,Molinate,,2004,2,1,Molinate,Poison
+5783,Molinate,,2006,1,1,Molinate,Poison
+5784,Molinate,,2007,3,1,Molinate,Poison
+5785,Molinate,,2008,14,1,Molinate,Poison
+5786,Molinate,,2010,1,1,Molinate,Poison
+5787,Molinate,,2011,1,1,Molinate,Poison
+5788,Molinate,,2013,1,1,Molinate,Poison
+5789,Molinate,,2015,5,1,Molinate,Poison
+5790,Molinate,,2017,1,1,Molinate,Poison
+5842,N-Nitrosodi-n-propylamine,,1989,1,1,N-Nitrosodi-n-propylamine,Poison
+5843,N-Nitrosodi-n-propylamine,,1999,2,1,N-Nitrosodi-n-propylamine,Poison
+5844,N-Nitrosodi-n-propylamine,,2000,1,1,N-Nitrosodi-n-propylamine,Poison
+5845,N-Nitrosodi-n-propylamine,mg/l,2001,1,1,N-Nitrosodi-n-propylamine,Poison
+5846,N-Nitrosodi-n-propylamine,mg/l,2002,1,1,N-Nitrosodi-n-propylamine,Poison
+5847,N-Nitrosodi-n-propylamine,ug/kg,2002,2,1,N-Nitrosodi-n-propylamine,Poison
+5848,N-Nitrosodi-n-propylamine,ug/l,1990,4,1,N-Nitrosodi-n-propylamine,Poison
+5849,N-Nitrosodi-n-propylamine,ug/l,1992,1,1,N-Nitrosodi-n-propylamine,Poison
+5850,N-Nitrosodi-n-propylamine,ug/l,1994,1,1,N-Nitrosodi-n-propylamine,Poison
+5851,N-Nitrosodi-n-propylamine,ug/l,1995,6,1,N-Nitrosodi-n-propylamine,Poison
+5852,N-Nitrosodi-n-propylamine,ug/l,1996,7,1,N-Nitrosodi-n-propylamine,Poison
+5853,N-Nitrosodi-n-propylamine,ug/l,1997,9,1,N-Nitrosodi-n-propylamine,Poison
+5854,N-Nitrosodi-n-propylamine,ug/l,1998,13,1,N-Nitrosodi-n-propylamine,Poison
+5855,N-Nitrosodi-n-propylamine,ug/l,1999,19,1,N-Nitrosodi-n-propylamine,Poison
+5856,N-Nitrosodi-n-propylamine,ug/l,2000,15,1,N-Nitrosodi-n-propylamine,Poison
+5857,N-Nitrosodi-n-propylamine,ug/l,2001,5,1,N-Nitrosodi-n-propylamine,Poison
+5858,N-Nitrosodi-n-propylamine,ug/l,2002,6,1,N-Nitrosodi-n-propylamine,Poison
+5859,N-Nitrosodi-n-propylamine,ug/l,2006,1,1,N-Nitrosodi-n-propylamine,Poison
+5860,N-Nitrosodi-n-propylamine,ug/l,2007,1,1,N-Nitrosodi-n-propylamine,Poison
+5861,N-Nitrosodi-n-propylamine,ug/l,2008,1,1,N-Nitrosodi-n-propylamine,Poison
+5900,n-Propylbenzene,,1998,13,1,n-Propylbenzene,Poison
+5901,n-Propylbenzene,,2003,3,1,n-Propylbenzene,Poison
+5902,n-Propylbenzene,,2004,2,1,n-Propylbenzene,Poison
+5903,n-Propylbenzene,,2006,1,1,n-Propylbenzene,Poison
+5904,n-Propylbenzene,,2007,3,1,n-Propylbenzene,Poison
+5905,n-Propylbenzene,,2008,14,1,n-Propylbenzene,Poison
+5906,n-Propylbenzene,,2010,1,1,n-Propylbenzene,Poison
+5907,n-Propylbenzene,,2011,1,1,n-Propylbenzene,Poison
+5908,n-Propylbenzene,,2013,1,1,n-Propylbenzene,Poison
+5909,n-Propylbenzene,,2015,5,1,n-Propylbenzene,Poison
+5910,n-Propylbenzene,,2017,1,1,n-Propylbenzene,Poison
+5911,n-Propylbenzene,ug/l,1990,1,1,n-Propylbenzene,Poison
+5912,n-Propylbenzene,ug/l,1991,4,1,n-Propylbenzene,Poison
+5913,n-Propylbenzene,ug/l,1993,2,1,n-Propylbenzene,Poison
+5914,n-Propylbenzene,ug/l,1995,1,1,n-Propylbenzene,Poison
+5915,n-Propylbenzene,ug/l,2003,1,829,n-Propylbenzene,Poison
+5916,n-Propylbenzene,ug/l,2007,1,1,n-Propylbenzene,Poison
+5917,n-Propylbenzene,ug/l,2008,1,1,n-Propylbenzene,Poison
+5918,n-Propylbenzene,ug/l,2012,1,1,n-Propylbenzene,Poison
+5919,"N,N-Diethyl-m-toluamide",,2007,1,1,"N,N-Diethyl-m-toluamide",Poison
+5920,"N,N-Diethyl-m-toluamide",,2008,6,1,"N,N-Diethyl-m-toluamide",Poison
+5921,"N,N-Diethyl-m-toluamide",,2014,4,1,"N,N-Diethyl-m-toluamide",Poison
+5922,"N,N-Diethyl-m-toluamide",,2015,1,1,"N,N-Diethyl-m-toluamide",Poison
+5923,"N,N-Diethyl-m-toluamide",% recovery,2012,4,5872.5,"N,N-Diethyl-m-toluamide",Poison
+5924,"N,N-Diethyl-m-toluamide",% recovery,2013,2,8940,"N,N-Diethyl-m-toluamide",Poison
+5925,"N,N-Diethyl-m-toluamide",% recovery,2016,2,14171,"N,N-Diethyl-m-toluamide",Poison
+5926,"N,N-Diethyl-m-toluamide",ng/l,2012,8,5246.625,"N,N-Diethyl-m-toluamide",Poison
+5927,"N,N-Diethyl-m-toluamide",ng/l,2013,9,6176,"N,N-Diethyl-m-toluamide",Poison
+5928,"N,N-Diethyl-m-toluamide",ng/l,2014,5,3316,"N,N-Diethyl-m-toluamide",Poison
+5929,"N,N-Diethyl-m-toluamide",ng/l,2015,1,9214,"N,N-Diethyl-m-toluamide",Poison
+5930,"N,N-Diethyl-m-toluamide",ng/l,2016,4,2004.5,"N,N-Diethyl-m-toluamide",Poison
+5931,"N,N-Diethyl-m-toluamide",ug/l,2007,2,386,"N,N-Diethyl-m-toluamide",Poison
+5932,"N,N-Diethyl-m-toluamide",ug/l,2008,6,428.333333333333,"N,N-Diethyl-m-toluamide",Poison
+5933,"N,N-Diethyl-m-toluamide",ug/l,2015,1,425,"N,N-Diethyl-m-toluamide",Poison
+5973,Neburon,,1998,13,1,Neburon,Poison
+5974,Neburon,,2007,3,1,Neburon,Poison
+5975,Neburon,,2008,13,1,Neburon,Poison
+5976,Neburon,,2010,1,1,Neburon,Poison
+5977,Neburon,% recovery,2012,4,6048.5,Neburon,Poison
+5978,Neburon,% recovery,2013,2,5383.5,Neburon,Poison
+5979,Neburon,% recovery,2016,2,14562.5,Neburon,Poison
+5980,Neburon,ng/l,2010,10,1,Neburon,Poison
+5981,Neburon,ng/l,2012,8,1,Neburon,Poison
+5982,Neburon,ng/l,2013,9,1,Neburon,Poison
+5983,Neburon,ng/l,2014,5,1,Neburon,Poison
+5984,Neburon,ng/l,2015,1,1,Neburon,Poison
+5985,Neburon,ng/l,2016,4,1,Neburon,Poison
+6260,o-Chlorophenol,,1989,1,1,o-Chlorophenol,Poison
+6261,o-Chlorophenol,,1999,2,1,o-Chlorophenol,Poison
+6262,o-Chlorophenol,mg/l,2002,1,1,o-Chlorophenol,Poison
+6263,o-Chlorophenol,ug/kg,2002,2,1,o-Chlorophenol,Poison
+6264,o-Chlorophenol,ug/l,1990,4,1,o-Chlorophenol,Poison
+6265,o-Chlorophenol,ug/l,1992,1,1,o-Chlorophenol,Poison
+6266,o-Chlorophenol,ug/l,1994,1,1,o-Chlorophenol,Poison
+6267,o-Chlorophenol,ug/l,1995,6,1,o-Chlorophenol,Poison
+6268,o-Chlorophenol,ug/l,1996,7,1,o-Chlorophenol,Poison
+6269,o-Chlorophenol,ug/l,1997,9,1,o-Chlorophenol,Poison
+6270,o-Chlorophenol,ug/l,1998,13,1,o-Chlorophenol,Poison
+6271,o-Chlorophenol,ug/l,1999,19,1,o-Chlorophenol,Poison
+6272,o-Chlorophenol,ug/l,2000,16,1,o-Chlorophenol,Poison
+6273,o-Chlorophenol,ug/l,2001,6,1,o-Chlorophenol,Poison
+6274,o-Chlorophenol,ug/l,2002,6,1,o-Chlorophenol,Poison
+6275,o-Chlorophenol,ug/l,2006,1,1,o-Chlorophenol,Poison
+6276,o-Chlorophenol,ug/l,2007,1,1,o-Chlorophenol,Poison
+6277,o-Chlorophenol,ug/l,2008,1,1,o-Chlorophenol,Poison
+6278,o-Chlorotoluene,,1998,13,1,o-Chlorotoluene,Poison
+6279,o-Chlorotoluene,,2003,4,1,o-Chlorotoluene,Poison
+6280,o-Chlorotoluene,,2004,2,1,o-Chlorotoluene,Poison
+6281,o-Chlorotoluene,,2006,1,1,o-Chlorotoluene,Poison
+6282,o-Chlorotoluene,,2007,3,1,o-Chlorotoluene,Poison
+6283,o-Chlorotoluene,,2008,14,1,o-Chlorotoluene,Poison
+6284,o-Chlorotoluene,,2010,1,1,o-Chlorotoluene,Poison
+6285,o-Chlorotoluene,,2011,1,1,o-Chlorotoluene,Poison
+6286,o-Chlorotoluene,ug/l,1990,1,1,o-Chlorotoluene,Poison
+6287,o-Chlorotoluene,ug/l,1991,4,1,o-Chlorotoluene,Poison
+6288,o-Chlorotoluene,ug/l,1993,2,1,o-Chlorotoluene,Poison
+6289,o-Chlorotoluene,ug/l,1995,1,1,o-Chlorotoluene,Poison
+6290,o-Chlorotoluene,ug/l,2007,1,1,o-Chlorotoluene,Poison
+6291,o-Chlorotoluene,ug/l,2008,1,1,o-Chlorotoluene,Poison
+6292,o-Chlorotoluene,ug/l,2012,1,1,o-Chlorotoluene,Poison
+6293,o-Cresol,mg/l,2002,1,1,o-Cresol,Poison
+6294,o-Cresol,ug/l,1990,4,1,o-Cresol,Poison
+6295,o-Cresol,ug/l,1992,1,1,o-Cresol,Poison
+6296,o-Cresol,ug/l,1994,1,1,o-Cresol,Poison
+6297,o-Cresol,ug/l,1995,6,1,o-Cresol,Poison
+6298,o-Cresol,ug/l,1996,7,1,o-Cresol,Poison
+6299,o-Cresol,ug/l,1997,9,1,o-Cresol,Poison
+6300,o-Cresol,ug/l,1998,13,1,o-Cresol,Poison
+6301,o-Cresol,ug/l,1999,19,1,o-Cresol,Poison
+6302,o-Cresol,ug/l,2000,16,1,o-Cresol,Poison
+6303,o-Cresol,ug/l,2001,6,1,o-Cresol,Poison
+6304,o-Cresol,ug/l,2002,6,1,o-Cresol,Poison
+6305,o-Cresol,ug/l,2006,1,1,o-Cresol,Poison
+6306,o-Cresol,ug/l,2007,1,1,o-Cresol,Poison
+6307,o-Cresol,ug/l,2008,1,1,o-Cresol,Poison
+6308,o-Dichlorobenzene,,1989,5,1,o-Dichlorobenzene,Poison
+6309,o-Dichlorobenzene,,1998,13,1,o-Dichlorobenzene,Poison
+6310,o-Dichlorobenzene,,1999,2,1,o-Dichlorobenzene,Poison
+6311,o-Dichlorobenzene,,2000,1,1,o-Dichlorobenzene,Poison
+6312,o-Dichlorobenzene,,2003,4,1,o-Dichlorobenzene,Poison
+6313,o-Dichlorobenzene,,2004,2,1,o-Dichlorobenzene,Poison
+6314,o-Dichlorobenzene,,2006,1,1,o-Dichlorobenzene,Poison
+6315,o-Dichlorobenzene,,2007,3,1,o-Dichlorobenzene,Poison
+6316,o-Dichlorobenzene,,2008,14,1,o-Dichlorobenzene,Poison
+6317,o-Dichlorobenzene,,2010,1,1,o-Dichlorobenzene,Poison
+6318,o-Dichlorobenzene,,2011,1,1,o-Dichlorobenzene,Poison
+6319,o-Dichlorobenzene,,2013,1,1,o-Dichlorobenzene,Poison
+6320,o-Dichlorobenzene,,2015,5,1,o-Dichlorobenzene,Poison
+6321,o-Dichlorobenzene,,2017,1,1,o-Dichlorobenzene,Poison
+6322,o-Dichlorobenzene,mg/l,2002,1,1,o-Dichlorobenzene,Poison
+6323,o-Dichlorobenzene,ug/kg,2002,2,1,o-Dichlorobenzene,Poison
+6324,o-Dichlorobenzene,ug/l,1990,7,1,o-Dichlorobenzene,Poison
+6325,o-Dichlorobenzene,ug/l,1991,4,1,o-Dichlorobenzene,Poison
+6326,o-Dichlorobenzene,ug/l,1992,1,1,o-Dichlorobenzene,Poison
+6327,o-Dichlorobenzene,ug/l,1993,2,1,o-Dichlorobenzene,Poison
+6328,o-Dichlorobenzene,ug/l,1994,1,1,o-Dichlorobenzene,Poison
+6329,o-Dichlorobenzene,ug/l,1995,7,1,o-Dichlorobenzene,Poison
+6330,o-Dichlorobenzene,ug/l,1996,7,1,o-Dichlorobenzene,Poison
+6331,o-Dichlorobenzene,ug/l,1997,9,1,o-Dichlorobenzene,Poison
+6332,o-Dichlorobenzene,ug/l,1998,13,1,o-Dichlorobenzene,Poison
+6333,o-Dichlorobenzene,ug/l,1999,19,1,o-Dichlorobenzene,Poison
+6334,o-Dichlorobenzene,ug/l,2000,15,1,o-Dichlorobenzene,Poison
+6335,o-Dichlorobenzene,ug/l,2001,7,1,o-Dichlorobenzene,Poison
+6336,o-Dichlorobenzene,ug/l,2002,6,1,o-Dichlorobenzene,Poison
+6337,o-Dichlorobenzene,ug/l,2006,1,1,o-Dichlorobenzene,Poison
+6338,o-Dichlorobenzene,ug/l,2007,2,1,o-Dichlorobenzene,Poison
+6339,o-Dichlorobenzene,ug/l,2008,2,1,o-Dichlorobenzene,Poison
+6340,o-Dichlorobenzene,ug/l,2012,1,1,o-Dichlorobenzene,Poison
+6357,o-Nitrophenol,,1989,1,1,o-Nitrophenol,Poison
+6358,o-Nitrophenol,,2000,1,1,o-Nitrophenol,Poison
+6359,o-Nitrophenol,mg/l,2002,1,1,o-Nitrophenol,Poison
+6360,o-Nitrophenol,ug/kg,2002,2,1,o-Nitrophenol,Poison
+6361,o-Nitrophenol,ug/l,1990,4,1,o-Nitrophenol,Poison
+6362,o-Nitrophenol,ug/l,1992,1,1,o-Nitrophenol,Poison
+6363,o-Nitrophenol,ug/l,1994,1,1,o-Nitrophenol,Poison
+6364,o-Nitrophenol,ug/l,1995,6,1,o-Nitrophenol,Poison
+6365,o-Nitrophenol,ug/l,1996,7,1,o-Nitrophenol,Poison
+6366,o-Nitrophenol,ug/l,1997,9,1,o-Nitrophenol,Poison
+6367,o-Nitrophenol,ug/l,1998,13,1,o-Nitrophenol,Poison
+6368,o-Nitrophenol,ug/l,1999,19,1,o-Nitrophenol,Poison
+6369,o-Nitrophenol,ug/l,2000,15,1,o-Nitrophenol,Poison
+6370,o-Nitrophenol,ug/l,2001,6,1,o-Nitrophenol,Poison
+6371,o-Nitrophenol,ug/l,2002,6,1,o-Nitrophenol,Poison
+6372,o-Nitrophenol,ug/l,2006,1,1,o-Nitrophenol,Poison
+6373,o-Nitrophenol,ug/l,2007,1,1,o-Nitrophenol,Poison
+6374,o-Nitrophenol,ug/l,2008,1,1,o-Nitrophenol,Poison
+6589,Oryzalin,,1998,13,1,Oryzalin,Poison
+6590,Oryzalin,,2007,3,1,Oryzalin,Poison
+6591,Oryzalin,,2008,13,1,Oryzalin,Poison
+6592,Oryzalin,,2010,1,1,Oryzalin,Poison
+6593,Oryzalin,,2013,1,1,Oryzalin,Poison
+6594,Oryzalin,,2015,5,1,Oryzalin,Poison
+6595,Oryzalin,,2017,1,1,Oryzalin,Poison
+6596,Oryzalin,% recovery,2012,4,2888.25,Oryzalin,Poison
+6597,Oryzalin,% recovery,2013,2,5188,Oryzalin,Poison
+6598,Oryzalin,% recovery,2016,2,14847,Oryzalin,Poison
+6599,Oryzalin,ng/l,2010,8,1,Oryzalin,Poison
+6600,Oryzalin,ng/l,2012,8,1,Oryzalin,Poison
+6601,Oryzalin,ng/l,2013,9,1,Oryzalin,Poison
+6602,Oryzalin,ng/l,2014,5,1,Oryzalin,Poison
+6603,Oryzalin,ng/l,2015,1,1,Oryzalin,Poison
+6604,Oryzalin,ng/l,2016,4,1,Oryzalin,Poison
+6605,Oxamyl,,1998,13,1,Oxamyl,Poison
+6606,Oxamyl,,2007,2,1,Oxamyl,Poison
+6607,Oxamyl,,2008,13,1,Oxamyl,Poison
+6608,Oxamyl,,2010,1,1,Oxamyl,Poison
+6609,Oxamyl,,2013,1,1,Oxamyl,Poison
+6610,Oxamyl,,2015,5,1,Oxamyl,Poison
+6611,Oxamyl,,2017,1,1,Oxamyl,Poison
+6612,Oxamyl,% recovery,2012,4,8870,Oxamyl,Poison
+6613,Oxamyl,% recovery,2013,2,6727.5,Oxamyl,Poison
+6614,Oxamyl,% recovery,2016,2,14327.5,Oxamyl,Poison
+6615,Oxamyl,ng/l,2010,10,1,Oxamyl,Poison
+6616,Oxamyl,ng/l,2012,8,1,Oxamyl,Poison
+6617,Oxamyl,ng/l,2013,9,1,Oxamyl,Poison
+6618,Oxamyl,ng/l,2014,5,1,Oxamyl,Poison
+6619,Oxamyl,ng/l,2015,1,1,Oxamyl,Poison
+6620,Oxamyl,ng/l,2016,4,1,Oxamyl,Poison
+6621,Oxamyl,ug/l,1991,1,1,Oxamyl,Poison
+6622,Oxamyl,ug/l,1992,1,1,Oxamyl,Poison
+6623,Oxamyl,ug/l,1999,5,1,Oxamyl,Poison
+6624,Oxamyl,ug/l,2000,11,1,Oxamyl,Poison
+6625,Oxamyl,ug/l,2012,1,1,Oxamyl,Poison
+6685,p-Bromophenyl phenyl ether,mg/l,2002,1,1,p-Bromophenyl phenyl ether,Poison
+6686,p-Bromophenyl phenyl ether,ug/kg,2002,2,1,p-Bromophenyl phenyl ether,Poison
+6687,p-Bromophenyl phenyl ether,ug/l,1990,4,1,p-Bromophenyl phenyl ether,Poison
+6688,p-Bromophenyl phenyl ether,ug/l,1992,1,1,p-Bromophenyl phenyl ether,Poison
+6689,p-Bromophenyl phenyl ether,ug/l,1994,1,1,p-Bromophenyl phenyl ether,Poison
+6690,p-Bromophenyl phenyl ether,ug/l,1995,6,1,p-Bromophenyl phenyl ether,Poison
+6691,p-Bromophenyl phenyl ether,ug/l,1996,7,1,p-Bromophenyl phenyl ether,Poison
+6692,p-Bromophenyl phenyl ether,ug/l,1997,9,1,p-Bromophenyl phenyl ether,Poison
+6693,p-Bromophenyl phenyl ether,ug/l,1998,13,1,p-Bromophenyl phenyl ether,Poison
+6694,p-Bromophenyl phenyl ether,ug/l,1999,19,1,p-Bromophenyl phenyl ether,Poison
+6695,p-Bromophenyl phenyl ether,ug/l,2000,16,1,p-Bromophenyl phenyl ether,Poison
+6696,p-Bromophenyl phenyl ether,ug/l,2001,6,1,p-Bromophenyl phenyl ether,Poison
+6697,p-Bromophenyl phenyl ether,ug/l,2002,6,1,p-Bromophenyl phenyl ether,Poison
+6698,p-Bromophenyl phenyl ether,ug/l,2006,1,1,p-Bromophenyl phenyl ether,Poison
+6699,p-Bromophenyl phenyl ether,ug/l,2007,1,1,p-Bromophenyl phenyl ether,Poison
+6700,p-Bromophenyl phenyl ether,ug/l,2008,1,1,p-Bromophenyl phenyl ether,Poison
+6701,p-Chloro-m-cresol,,1989,1,1,p-Chloro-m-cresol,Poison
+6702,p-Chloro-m-cresol,,1999,2,1,p-Chloro-m-cresol,Poison
+6703,p-Chloro-m-cresol,,2000,1,1,p-Chloro-m-cresol,Poison
+6704,p-Chloro-m-cresol,mg/l,2002,1,1,p-Chloro-m-cresol,Poison
+6705,p-Chloro-m-cresol,ug/kg,2002,2,1,p-Chloro-m-cresol,Poison
+6706,p-Chloro-m-cresol,ug/l,1990,4,1,p-Chloro-m-cresol,Poison
+6707,p-Chloro-m-cresol,ug/l,1992,1,1,p-Chloro-m-cresol,Poison
+6708,p-Chloro-m-cresol,ug/l,1994,1,1,p-Chloro-m-cresol,Poison
+6709,p-Chloro-m-cresol,ug/l,1995,6,1,p-Chloro-m-cresol,Poison
+6710,p-Chloro-m-cresol,ug/l,1996,7,1,p-Chloro-m-cresol,Poison
+6711,p-Chloro-m-cresol,ug/l,1997,9,1,p-Chloro-m-cresol,Poison
+6712,p-Chloro-m-cresol,ug/l,1998,13,1,p-Chloro-m-cresol,Poison
+6713,p-Chloro-m-cresol,ug/l,1999,19,1,p-Chloro-m-cresol,Poison
+6714,p-Chloro-m-cresol,ug/l,2000,15,1,p-Chloro-m-cresol,Poison
+6715,p-Chloro-m-cresol,ug/l,2001,6,1,p-Chloro-m-cresol,Poison
+6716,p-Chloro-m-cresol,ug/l,2002,6,1,p-Chloro-m-cresol,Poison
+6717,p-Chloro-m-cresol,ug/l,2006,1,1,p-Chloro-m-cresol,Poison
+6718,p-Chloro-m-cresol,ug/l,2007,1,1,p-Chloro-m-cresol,Poison
+6719,p-Chloro-m-cresol,ug/l,2008,1,1,p-Chloro-m-cresol,Poison
+6720,p-Chloroaniline,mg/l,2002,1,1,p-Chloroaniline,Poison
+6721,p-Chloroaniline,ug/l,1990,4,1,p-Chloroaniline,Poison
+6722,p-Chloroaniline,ug/l,1992,1,1,p-Chloroaniline,Poison
+6723,p-Chloroaniline,ug/l,1994,1,1,p-Chloroaniline,Poison
+6724,p-Chloroaniline,ug/l,1995,6,1,p-Chloroaniline,Poison
+6725,p-Chloroaniline,ug/l,1996,7,1,p-Chloroaniline,Poison
+6726,p-Chloroaniline,ug/l,1997,9,1,p-Chloroaniline,Poison
+6727,p-Chloroaniline,ug/l,1998,13,1,p-Chloroaniline,Poison
+6728,p-Chloroaniline,ug/l,1999,19,1,p-Chloroaniline,Poison
+6729,p-Chloroaniline,ug/l,2000,16,1,p-Chloroaniline,Poison
+6730,p-Chloroaniline,ug/l,2001,6,1,p-Chloroaniline,Poison
+6731,p-Chloroaniline,ug/l,2002,6,1,p-Chloroaniline,Poison
+6732,p-Chloroaniline,ug/l,2006,1,1,p-Chloroaniline,Poison
+6733,p-Chloroaniline,ug/l,2007,1,1,p-Chloroaniline,Poison
+6734,p-Chloroaniline,ug/l,2008,1,1,p-Chloroaniline,Poison
+6735,p-Chlorophenyl phenyl ether,,1989,1,1,p-Chlorophenyl phenyl ether,Poison
+6736,p-Chlorophenyl phenyl ether,,1999,2,1,p-Chlorophenyl phenyl ether,Poison
+6737,p-Chlorophenyl phenyl ether,mg/l,2000,1,1,p-Chlorophenyl phenyl ether,Poison
+6738,p-Chlorophenyl phenyl ether,mg/l,2002,1,1,p-Chlorophenyl phenyl ether,Poison
+6739,p-Chlorophenyl phenyl ether,ug/kg,2002,2,1,p-Chlorophenyl phenyl ether,Poison
+6740,p-Chlorophenyl phenyl ether,ug/l,1990,4,1,p-Chlorophenyl phenyl ether,Poison
+6741,p-Chlorophenyl phenyl ether,ug/l,1992,1,1,p-Chlorophenyl phenyl ether,Poison
+6742,p-Chlorophenyl phenyl ether,ug/l,1994,1,1,p-Chlorophenyl phenyl ether,Poison
+6743,p-Chlorophenyl phenyl ether,ug/l,1995,6,1,p-Chlorophenyl phenyl ether,Poison
+6744,p-Chlorophenyl phenyl ether,ug/l,1996,7,1,p-Chlorophenyl phenyl ether,Poison
+6745,p-Chlorophenyl phenyl ether,ug/l,1997,9,1,p-Chlorophenyl phenyl ether,Poison
+6746,p-Chlorophenyl phenyl ether,ug/l,1998,13,1,p-Chlorophenyl phenyl ether,Poison
+6747,p-Chlorophenyl phenyl ether,ug/l,1999,19,1,p-Chlorophenyl phenyl ether,Poison
+6748,p-Chlorophenyl phenyl ether,ug/l,2000,15,1,p-Chlorophenyl phenyl ether,Poison
+6749,p-Chlorophenyl phenyl ether,ug/l,2001,6,1,p-Chlorophenyl phenyl ether,Poison
+6750,p-Chlorophenyl phenyl ether,ug/l,2002,6,1,p-Chlorophenyl phenyl ether,Poison
+6751,p-Chlorophenyl phenyl ether,ug/l,2006,1,1,p-Chlorophenyl phenyl ether,Poison
+6752,p-Chlorophenyl phenyl ether,ug/l,2007,1,1,p-Chlorophenyl phenyl ether,Poison
+6753,p-Chlorophenyl phenyl ether,ug/l,2008,1,1,p-Chlorophenyl phenyl ether,Poison
+6754,p-Chlorotoluene,,1998,13,1,p-Chlorotoluene,Poison
+6755,p-Chlorotoluene,,2003,4,1,p-Chlorotoluene,Poison
+6756,p-Chlorotoluene,,2004,2,1,p-Chlorotoluene,Poison
+6757,p-Chlorotoluene,,2006,1,1,p-Chlorotoluene,Poison
+6758,p-Chlorotoluene,,2007,3,1,p-Chlorotoluene,Poison
+6759,p-Chlorotoluene,,2008,14,1,p-Chlorotoluene,Poison
+6760,p-Chlorotoluene,,2010,1,1,p-Chlorotoluene,Poison
+6761,p-Chlorotoluene,,2011,1,1,p-Chlorotoluene,Poison
+6762,p-Chlorotoluene,ug/l,1990,1,1,p-Chlorotoluene,Poison
+6763,p-Chlorotoluene,ug/l,1991,4,1,p-Chlorotoluene,Poison
+6764,p-Chlorotoluene,ug/l,1993,2,1,p-Chlorotoluene,Poison
+6765,p-Chlorotoluene,ug/l,1995,1,1,p-Chlorotoluene,Poison
+6766,p-Chlorotoluene,ug/l,2007,1,1,p-Chlorotoluene,Poison
+6767,p-Chlorotoluene,ug/l,2008,1,1,p-Chlorotoluene,Poison
+6768,p-Chlorotoluene,ug/l,2012,1,1,p-Chlorotoluene,Poison
+6792,p-Cymene,,1998,13,1,p-Cymene,Poison
+6793,p-Cymene,,2003,3,1,p-Cymene,Poison
+6794,p-Cymene,,2004,2,1,p-Cymene,Poison
+6795,p-Cymene,,2006,1,1,p-Cymene,Poison
+6796,p-Cymene,,2007,3,1,p-Cymene,Poison
+6797,p-Cymene,,2008,14,1,p-Cymene,Poison
+6798,p-Cymene,,2010,1,1,p-Cymene,Poison
+6799,p-Cymene,,2011,1,1,p-Cymene,Poison
+6800,p-Cymene,ug/kg,2002,2,1,p-Cymene,Poison
+6801,p-Cymene,ug/l,2003,1,347,p-Cymene,Poison
+6802,p-Cymene,ug/l,2012,1,1,p-Cymene,Poison
+6840,p-Nitroaniline,,2000,1,1,p-Nitroaniline,Poison
+6841,p-Nitroaniline,mg/l,2002,1,1,p-Nitroaniline,Poison
+6842,p-Nitroaniline,ug/l,1990,4,1,p-Nitroaniline,Poison
+6843,p-Nitroaniline,ug/l,1992,1,1,p-Nitroaniline,Poison
+6844,p-Nitroaniline,ug/l,1994,1,1,p-Nitroaniline,Poison
+6845,p-Nitroaniline,ug/l,1995,6,1,p-Nitroaniline,Poison
+6846,p-Nitroaniline,ug/l,1996,7,1,p-Nitroaniline,Poison
+6847,p-Nitroaniline,ug/l,1997,9,1,p-Nitroaniline,Poison
+6848,p-Nitroaniline,ug/l,1998,13,1,p-Nitroaniline,Poison
+6849,p-Nitroaniline,ug/l,1999,19,1,p-Nitroaniline,Poison
+6850,p-Nitroaniline,ug/l,2000,15,1,p-Nitroaniline,Poison
+6851,p-Nitroaniline,ug/l,2001,6,1,p-Nitroaniline,Poison
+6852,p-Nitroaniline,ug/l,2002,6,1,p-Nitroaniline,Poison
+6853,p-Nitroaniline,ug/l,2006,1,1,p-Nitroaniline,Poison
+6854,p-Nitroaniline,ug/l,2007,1,1,p-Nitroaniline,Poison
+6855,p-Nitroaniline,ug/l,2008,1,1,p-Nitroaniline,Poison
+6856,p-Nitrophenol,,1989,1,1,p-Nitrophenol,Poison
+6857,p-Nitrophenol,,2000,1,1,p-Nitrophenol,Poison
+6858,p-Nitrophenol,mg/l,2002,1,1,p-Nitrophenol,Poison
+6859,p-Nitrophenol,ug/kg,2002,1,1,p-Nitrophenol,Poison
+6860,p-Nitrophenol,ug/l,1990,4,1,p-Nitrophenol,Poison
+6861,p-Nitrophenol,ug/l,1992,1,1,p-Nitrophenol,Poison
+6862,p-Nitrophenol,ug/l,1994,1,1,p-Nitrophenol,Poison
+6863,p-Nitrophenol,ug/l,1995,6,1,p-Nitrophenol,Poison
+6864,p-Nitrophenol,ug/l,1996,7,1,p-Nitrophenol,Poison
+6865,p-Nitrophenol,ug/l,1997,9,1,p-Nitrophenol,Poison
+6866,p-Nitrophenol,ug/l,1998,13,1,p-Nitrophenol,Poison
+6867,p-Nitrophenol,ug/l,1999,19,1,p-Nitrophenol,Poison
+6868,p-Nitrophenol,ug/l,2000,15,1,p-Nitrophenol,Poison
+6869,p-Nitrophenol,ug/l,2001,6,1,p-Nitrophenol,Poison
+6870,p-Nitrophenol,ug/l,2002,6,1,p-Nitrophenol,Poison
+6871,p-Nitrophenol,ug/l,2006,1,1,p-Nitrophenol,Poison
+6872,p-Nitrophenol,ug/l,2007,1,1,p-Nitrophenol,Poison
+6873,p-Nitrophenol,ug/l,2008,1,1,p-Nitrophenol,Poison
+6874,"p,p'-DDD",,1988,10,1,"p,p'-DDD",Poison
+6875,"p,p'-DDD",,1989,4,1,"p,p'-DDD",Poison
+6876,"p,p'-DDD",,1990,1,1,"p,p'-DDD",Poison
+6877,"p,p'-DDD",,1999,3,1,"p,p'-DDD",Poison
+6878,"p,p'-DDD",ug/kg,1988,3,3303,"p,p'-DDD",Poison
+6879,"p,p'-DDD",ug/kg,1999,1,13452,"p,p'-DDD",Poison
+6880,"p,p'-DDD",ug/l,1986,3,1,"p,p'-DDD",Poison
+6881,"p,p'-DDD",ug/l,1987,3,1,"p,p'-DDD",Poison
+6882,"p,p'-DDD",ug/l,1988,6,1,"p,p'-DDD",Poison
+6883,"p,p'-DDD",ug/l,1989,10,1,"p,p'-DDD",Poison
+6884,"p,p'-DDD",ug/l,1990,5,1,"p,p'-DDD",Poison
+6885,"p,p'-DDD",ug/l,1991,2,1,"p,p'-DDD",Poison
+6886,"p,p'-DDD",ug/l,1992,1,1,"p,p'-DDD",Poison
+6887,"p,p'-DDD",ug/l,2006,2,1,"p,p'-DDD",Poison
+6888,"p,p'-DDE",,1988,9,1,"p,p'-DDE",Poison
+6889,"p,p'-DDE",,1989,4,1,"p,p'-DDE",Poison
+6890,"p,p'-DDE",,1990,1,1,"p,p'-DDE",Poison
+6891,"p,p'-DDE",,1998,14,1,"p,p'-DDE",Poison
+6892,"p,p'-DDE",,1999,1,1,"p,p'-DDE",Poison
+6893,"p,p'-DDE",,2000,11,1,"p,p'-DDE",Poison
+6894,"p,p'-DDE",,2003,4,1,"p,p'-DDE",Poison
+6895,"p,p'-DDE",,2004,2,1,"p,p'-DDE",Poison
+6896,"p,p'-DDE",ug/kg,1988,4,1681,"p,p'-DDE",Poison
+6897,"p,p'-DDE",ug/kg,1999,3,10714.3333333333,"p,p'-DDE",Poison
+6898,"p,p'-DDE",ug/l,1986,3,1,"p,p'-DDE",Poison
+6899,"p,p'-DDE",ug/l,1987,3,1,"p,p'-DDE",Poison
+6900,"p,p'-DDE",ug/l,1988,6,1,"p,p'-DDE",Poison
+6901,"p,p'-DDE",ug/l,1989,10,1,"p,p'-DDE",Poison
+6902,"p,p'-DDE",ug/l,1990,5,1,"p,p'-DDE",Poison
+6903,"p,p'-DDE",ug/l,1991,2,1,"p,p'-DDE",Poison
+6904,"p,p'-DDE",ug/l,1992,1,1,"p,p'-DDE",Poison
+6905,"p,p'-DDE",ug/l,2000,1,311,"p,p'-DDE",Poison
+6906,"p,p'-DDE",ug/l,2006,2,1,"p,p'-DDE",Poison
+6907,"p,p'-DDT",,1988,13,1,"p,p'-DDT",Poison
+6908,"p,p'-DDT",,1989,4,1,"p,p'-DDT",Poison
+6909,"p,p'-DDT",,1990,1,1,"p,p'-DDT",Poison
+6910,"p,p'-DDT",,1999,3,1,"p,p'-DDT",Poison
+6911,"p,p'-DDT",ug/kg,1999,1,6089,"p,p'-DDT",Poison
+6912,"p,p'-DDT",ug/l,1986,3,1,"p,p'-DDT",Poison
+6913,"p,p'-DDT",ug/l,1987,3,1,"p,p'-DDT",Poison
+6914,"p,p'-DDT",ug/l,1988,6,1,"p,p'-DDT",Poison
+6915,"p,p'-DDT",ug/l,1989,10,53.2,"p,p'-DDT",Poison
+6916,"p,p'-DDT",ug/l,1990,5,1,"p,p'-DDT",Poison
+6917,"p,p'-DDT",ug/l,1991,2,1,"p,p'-DDT",Poison
+6918,"p,p'-DDT",ug/l,1992,1,1,"p,p'-DDT",Poison
+6919,"p,p'-DDT",ug/l,2006,2,1,"p,p'-DDT",Poison
+6920,Pendimethalin,,1998,14,1,Pendimethalin,Poison
+6921,Pendimethalin,,2000,12,1,Pendimethalin,Poison
+6922,Pendimethalin,,2003,4,1,Pendimethalin,Poison
+6923,Pendimethalin,,2004,2,1,Pendimethalin,Poison
+6924,Pendimethalin,,2006,1,1,Pendimethalin,Poison
+6925,Pendimethalin,,2007,3,1,Pendimethalin,Poison
+6926,Pendimethalin,,2008,14,1,Pendimethalin,Poison
+6927,Pendimethalin,,2010,1,1,Pendimethalin,Poison
+6928,Pendimethalin,,2011,1,1,Pendimethalin,Poison
+6929,Pendimethalin,,2013,1,1,Pendimethalin,Poison
+6930,Pendimethalin,,2015,5,1,Pendimethalin,Poison
+6931,Pendimethalin,,2017,1,1,Pendimethalin,Poison
+6932,Pentachlorophenol,,1989,1,1,Pentachlorophenol,Poison
+6933,Pentachlorophenol,,2000,1,1,Pentachlorophenol,Poison
+6934,Pentachlorophenol,,2015,1,1,Pentachlorophenol,Poison
+6935,Pentachlorophenol,mg/l,2002,1,1,Pentachlorophenol,Poison
+6936,Pentachlorophenol,ng/l,2010,8,1,Pentachlorophenol,Poison
+6937,Pentachlorophenol,ng/l,2013,7,1,Pentachlorophenol,Poison
+6938,Pentachlorophenol,ng/l,2014,5,1,Pentachlorophenol,Poison
+6939,Pentachlorophenol,ug/kg,2002,2,1,Pentachlorophenol,Poison
+6940,Pentachlorophenol,ug/l,1990,4,1,Pentachlorophenol,Poison
+6941,Pentachlorophenol,ug/l,1992,1,1,Pentachlorophenol,Poison
+6942,Pentachlorophenol,ug/l,1993,1,1,Pentachlorophenol,Poison
+6943,Pentachlorophenol,ug/l,1994,1,1,Pentachlorophenol,Poison
+6944,Pentachlorophenol,ug/l,1995,6,1,Pentachlorophenol,Poison
+6945,Pentachlorophenol,ug/l,1996,7,1,Pentachlorophenol,Poison
+6946,Pentachlorophenol,ug/l,1997,9,1,Pentachlorophenol,Poison
+6947,Pentachlorophenol,ug/l,1998,13,1,Pentachlorophenol,Poison
+6948,Pentachlorophenol,ug/l,1999,29,1,Pentachlorophenol,Poison
+6949,Pentachlorophenol,ug/l,2000,26,1,Pentachlorophenol,Poison
+6950,Pentachlorophenol,ug/l,2001,6,1,Pentachlorophenol,Poison
+6951,Pentachlorophenol,ug/l,2002,6,1,Pentachlorophenol,Poison
+6952,Pentachlorophenol,ug/l,2006,1,1,Pentachlorophenol,Poison
+6953,Pentachlorophenol,ug/l,2007,1,1,Pentachlorophenol,Poison
+6954,Pentachlorophenol,ug/l,2008,1,1,Pentachlorophenol,Poison
+6955,Pentachlorophenol,ug/l,2010,10,1,Pentachlorophenol,Poison
+6956,Pentachlorophenol,ug/l,2012,1,1,Pentachlorophenol,Poison
+7134,Phorate,,1989,8,1,Phorate,Poison
+7135,Phorate,,1998,14,1,Phorate,Poison
+7136,Phorate,,2000,12,1,Phorate,Poison
+7137,Phorate,,2003,4,1,Phorate,Poison
+7138,Phorate,,2004,2,1,Phorate,Poison
+7139,Phorate,,2006,1,1,Phorate,Poison
+7140,Phorate,,2007,3,1,Phorate,Poison
+7141,Phorate,,2008,14,1,Phorate,Poison
+7142,Phorate,,2010,1,1,Phorate,Poison
+7143,Phorate,,2011,1,1,Phorate,Poison
+7144,Phorate,,2013,1,1,Phorate,Poison
+7145,Phorate,,2015,5,1,Phorate,Poison
+7146,Phorate,,2017,1,1,Phorate,Poison
+7147,Phorate,ug/l,1991,1,1,Phorate,Poison
+7148,Phorate,ug/l,1992,1,1,Phorate,Poison
+7302,Prometon,,1989,9,1,Prometon,Poison
+7303,Prometon,,1998,13,1,Prometon,Poison
+7304,Prometon,,2000,3,1,Prometon,Poison
+7305,Prometon,,2003,2,1,Prometon,Poison
+7306,Prometon,,2004,2,1,Prometon,Poison
+7307,Prometon,,2006,1,1,Prometon,Poison
+7308,Prometon,,2007,3,1,Prometon,Poison
+7309,Prometon,,2008,11,1,Prometon,Poison
+7310,Prometon,,2010,1,1,Prometon,Poison
+7311,Prometon,,2011,1,1,Prometon,Poison
+7312,Prometon,,2013,1,1,Prometon,Poison
+7313,Prometon,,2014,4,1,Prometon,Poison
+7314,Prometon,,2015,7,1,Prometon,Poison
+7315,Prometon,,2017,1,1,Prometon,Poison
+7316,Prometon,% recovery,2012,4,5861.5,Prometon,Poison
+7317,Prometon,% recovery,2013,2,6549,Prometon,Poison
+7318,Prometon,% recovery,2016,2,15048,Prometon,Poison
+7319,Prometon,ng/l,2010,10,1,Prometon,Poison
+7320,Prometon,ng/l,2012,8,1,Prometon,Poison
+7321,Prometon,ng/l,2013,16,1,Prometon,Poison
+7322,Prometon,ng/l,2014,10,1,Prometon,Poison
+7323,Prometon,ng/l,2015,1,1,Prometon,Poison
+7324,Prometon,ng/l,2016,4,1,Prometon,Poison
+7325,Prometon,ug/l,1989,1,1160,Prometon,Poison
+7326,Prometon,ug/l,1990,1,1286,Prometon,Poison
+7327,Prometon,ug/l,1998,1,299,Prometon,Poison
+7328,Prometon,ug/l,2000,9,379.333333333333,Prometon,Poison
+7329,Prometon,ug/l,2003,2,311,Prometon,Poison
+7330,Prometon,ug/l,2008,3,317,Prometon,Poison
+7331,Prometon,ug/l,2010,10,1,Prometon,Poison
+7332,Pronamide,,1998,14,1,Pronamide,Poison
+7333,Pronamide,,2000,12,1,Pronamide,Poison
+7334,Pronamide,,2003,4,1,Pronamide,Poison
+7335,Pronamide,,2004,2,1,Pronamide,Poison
+7336,Pronamide,,2006,1,1,Pronamide,Poison
+7337,Pronamide,,2007,3,1,Pronamide,Poison
+7338,Pronamide,,2008,14,1,Pronamide,Poison
+7339,Pronamide,,2010,1,1,Pronamide,Poison
+7340,Pronamide,,2011,1,1,Pronamide,Poison
+7341,Pronamide,,2013,1,1,Pronamide,Poison
+7342,Pronamide,,2015,5,1,Pronamide,Poison
+7343,Pronamide,,2017,1,1,Pronamide,Poison
+7344,Propachlor,,1998,14,1,Propachlor,Poison
+7345,Propachlor,,2000,12,1,Propachlor,Poison
+7346,Propachlor,,2003,4,1,Propachlor,Poison
+7347,Propachlor,,2004,2,1,Propachlor,Poison
+7348,Propachlor,% recovery,2012,4,5753.25,Propachlor,Poison
+7349,Propachlor,% recovery,2013,2,6510.5,Propachlor,Poison
+7350,Propachlor,% recovery,2016,2,15007,Propachlor,Poison
+7351,Propachlor,ng/l,2010,10,1,Propachlor,Poison
+7352,Propachlor,ng/l,2012,8,1,Propachlor,Poison
+7353,Propachlor,ng/l,2013,9,1,Propachlor,Poison
+7354,Propachlor,ng/l,2014,5,1,Propachlor,Poison
+7355,Propachlor,ng/l,2015,1,1,Propachlor,Poison
+7356,Propachlor,ng/l,2016,4,1,Propachlor,Poison
+7357,Propachlor,ug/l,1993,1,1,Propachlor,Poison
+7358,Propachlor,ug/l,1999,5,1,Propachlor,Poison
+7359,Propachlor,ug/l,2012,1,1,Propachlor,Poison
+7360,Propanil,,1998,14,1,Propanil,Poison
+7361,Propanil,,2000,12,1,Propanil,Poison
+7362,Propanil,,2003,4,1,Propanil,Poison
+7363,Propanil,,2004,2,1,Propanil,Poison
+7364,Propanil,,2006,1,1,Propanil,Poison
+7365,Propanil,,2007,3,1,Propanil,Poison
+7366,Propanil,,2008,14,1,Propanil,Poison
+7367,Propanil,,2010,1,1,Propanil,Poison
+7368,Propanil,,2011,1,1,Propanil,Poison
+7369,Propanil,,2013,1,1,Propanil,Poison
+7370,Propanil,,2015,5,1,Propanil,Poison
+7371,Propanil,,2017,1,1,Propanil,Poison
+7372,Propargite,,1998,14,1,Propargite,Poison
+7373,Propargite,,2000,12,1,Propargite,Poison
+7374,Propargite,,2003,4,1,Propargite,Poison
+7375,Propargite,,2004,2,1,Propargite,Poison
+7376,Propargite,,2006,1,1,Propargite,Poison
+7377,Propargite,,2007,3,1,Propargite,Poison
+7378,Propargite,,2008,14,1,Propargite,Poison
+7379,Propargite,,2010,1,1,Propargite,Poison
+7380,Propargite,,2011,1,1,Propargite,Poison
+7381,Propargite,,2013,1,1,Propargite,Poison
+7382,Propargite,,2015,5,1,Propargite,Poison
+7383,Propargite,,2017,1,1,Propargite,Poison
+7384,Propazine,,1989,10,1,Propazine,Poison
+7385,Propazine,,1990,1,1,Propazine,Poison
+7386,Propazine,,2013,1,1,Propazine,Poison
+7387,Propazine,,2015,5,1,Propazine,Poison
+7388,Propazine,,2017,1,1,Propazine,Poison
+7389,Propazine,% recovery,2012,4,3146.5,Propazine,Poison
+7390,Propazine,% recovery,2013,2,6505,Propazine,Poison
+7391,Propazine,% recovery,2016,2,2815,Propazine,Poison
+7392,Propazine,ng/l,2010,10,1,Propazine,Poison
+7393,Propazine,ng/l,2012,8,1,Propazine,Poison
+7394,Propazine,ng/l,2013,9,1,Propazine,Poison
+7395,Propazine,ng/l,2014,5,1,Propazine,Poison
+7396,Propazine,ng/l,2015,1,1,Propazine,Poison
+7397,Propazine,ng/l,2016,4,1,Propazine,Poison
+7398,Propiconazole,,2007,3,1,Propiconazole,Poison
+7399,Propiconazole,,2008,13,1,Propiconazole,Poison
+7400,Propiconazole,,2010,1,1,Propiconazole,Poison
+7401,Propiconazole,,2013,1,1,Propiconazole,Poison
+7402,Propiconazole,,2015,5,1,Propiconazole,Poison
+7403,Propiconazole,,2017,1,1,Propiconazole,Poison
+7404,Propiconazole,% recovery,2012,4,2979.25,Propiconazole,Poison
+7405,Propiconazole,% recovery,2013,2,5791.5,Propiconazole,Poison
+7406,Propiconazole,% recovery,2016,2,12924.5,Propiconazole,Poison
+7407,Propiconazole,ng/l,2010,10,1,Propiconazole,Poison
+7408,Propiconazole,ng/l,2012,8,1,Propiconazole,Poison
+7409,Propiconazole,ng/l,2013,9,1,Propiconazole,Poison
+7410,Propiconazole,ng/l,2014,5,1,Propiconazole,Poison
+7411,Propiconazole,ng/l,2015,1,1,Propiconazole,Poison
+7412,Propiconazole,ng/l,2016,4,1,Propiconazole,Poison
+7413,Propoxur,,1998,13,1,Propoxur,Poison
+7414,Propoxur,,2007,2,1,Propoxur,Poison
+7415,Propoxur,,2008,13,1,Propoxur,Poison
+7416,Propoxur,,2010,1,1,Propoxur,Poison
+7417,Propoxur,,2013,1,1,Propoxur,Poison
+7418,Propoxur,,2015,5,1,Propoxur,Poison
+7419,Propoxur,,2017,1,1,Propoxur,Poison
+7420,Propoxur,% recovery,2012,4,5933.5,Propoxur,Poison
+7421,Propoxur,% recovery,2013,2,5970,Propoxur,Poison
+7422,Propoxur,% recovery,2016,2,15027.5,Propoxur,Poison
+7423,Propoxur,ng/l,2010,10,1,Propoxur,Poison
+7424,Propoxur,ng/l,2012,8,1,Propoxur,Poison
+7425,Propoxur,ng/l,2013,9,1072.88888888889,Propoxur,Poison
+7426,Propoxur,ng/l,2014,5,1,Propoxur,Poison
+7427,Propoxur,ng/l,2015,1,1,Propoxur,Poison
+7428,Propoxur,ng/l,2016,4,1,Propoxur,Poison
+7429,Propoxur,ug/l,1991,1,1,Propoxur,Poison
+7430,Propoxur,ug/l,1992,1,1,Propoxur,Poison
+7431,Propoxur,ug/l,1999,5,1,Propoxur,Poison
+7432,Pyrene,,1989,1,1,Pyrene,Poison
+7433,Pyrene,,1999,1,1,Pyrene,Poison
+7434,Pyrene,,2000,1,1,Pyrene,Poison
+7435,Pyrene,,2007,3,1,Pyrene,Poison
+7436,Pyrene,,2008,12,1,Pyrene,Poison
+7437,Pyrene,,2014,2,1,Pyrene,Poison
+7438,Pyrene,,2015,1,1,Pyrene,Poison
+7439,Pyrene,mg/l,2002,1,1,Pyrene,Poison
+7440,Pyrene,ng/l,2013,7,1,Pyrene,Poison
+7441,Pyrene,ng/l,2014,5,1,Pyrene,Poison
+7442,Pyrene,ug/kg,1999,1,3006,Pyrene,Poison
+7443,Pyrene,ug/kg,2002,2,1,Pyrene,Poison
+7444,Pyrene,ug/kg,2014,2,7850,Pyrene,Poison
+7445,Pyrene,ug/kg,2015,1,3063,Pyrene,Poison
+7446,Pyrene,ug/l,1990,4,1,Pyrene,Poison
+7447,Pyrene,ug/l,1992,1,1,Pyrene,Poison
+7448,Pyrene,ug/l,1994,1,1,Pyrene,Poison
+7449,Pyrene,ug/l,1995,6,11894.5,Pyrene,Poison
+7450,Pyrene,ug/l,1996,7,4854,Pyrene,Poison
+7451,Pyrene,ug/l,1997,9,5275.11111111111,Pyrene,Poison
+7452,Pyrene,ug/l,1998,13,2840.76923076923,Pyrene,Poison
+7453,Pyrene,ug/l,1999,19,2245.26315789474,Pyrene,Poison
+7454,Pyrene,ug/l,2000,17,3030.11764705882,Pyrene,Poison
+7455,Pyrene,ug/l,2001,6,2984.83333333333,Pyrene,Poison
+7456,Pyrene,ug/l,2002,6,1731.83333333333,Pyrene,Poison
+7457,Pyrene,ug/l,2006,1,1,Pyrene,Poison
+7458,Pyrene,ug/l,2007,1,1,Pyrene,Poison
+7459,Pyrene,ug/l,2008,1,1,Pyrene,Poison
+7460,Pyrene,ug/l,2010,10,1,Pyrene,Poison
+7473,S-Ethyl dipropylthiocarbamate,,1998,14,1,S-Ethyl dipropylthiocarbamate,Poison
+7474,S-Ethyl dipropylthiocarbamate,,2000,12,1,S-Ethyl dipropylthiocarbamate,Poison
+7475,S-Ethyl dipropylthiocarbamate,,2003,4,1,S-Ethyl dipropylthiocarbamate,Poison
+7476,S-Ethyl dipropylthiocarbamate,,2004,2,1,S-Ethyl dipropylthiocarbamate,Poison
+7477,S-Ethyl dipropylthiocarbamate,,2006,1,1,S-Ethyl dipropylthiocarbamate,Poison
+7478,S-Ethyl dipropylthiocarbamate,,2007,3,1,S-Ethyl dipropylthiocarbamate,Poison
+7479,S-Ethyl dipropylthiocarbamate,,2008,14,1,S-Ethyl dipropylthiocarbamate,Poison
+7480,S-Ethyl dipropylthiocarbamate,,2010,1,1,S-Ethyl dipropylthiocarbamate,Poison
+7481,S-Ethyl dipropylthiocarbamate,,2011,1,1,S-Ethyl dipropylthiocarbamate,Poison
+7482,S-Ethyl dipropylthiocarbamate,,2013,1,1,S-Ethyl dipropylthiocarbamate,Poison
+7483,S-Ethyl dipropylthiocarbamate,,2015,5,1,S-Ethyl dipropylthiocarbamate,Poison
+7484,S-Ethyl dipropylthiocarbamate,,2017,1,1,S-Ethyl dipropylthiocarbamate,Poison
+7485,S-Ethyl dipropylthiocarbamate,% recovery,2012,4,3002,S-Ethyl dipropylthiocarbamate,Poison
+7486,S-Ethyl dipropylthiocarbamate,% recovery,2013,2,5257.5,S-Ethyl dipropylthiocarbamate,Poison
+7487,S-Ethyl dipropylthiocarbamate,% recovery,2016,2,8905.5,S-Ethyl dipropylthiocarbamate,Poison
+7488,S-Ethyl dipropylthiocarbamate,ng/l,2010,10,1,S-Ethyl dipropylthiocarbamate,Poison
+7489,S-Ethyl dipropylthiocarbamate,ng/l,2012,8,1,S-Ethyl dipropylthiocarbamate,Poison
+7490,S-Ethyl dipropylthiocarbamate,ng/l,2013,9,1,S-Ethyl dipropylthiocarbamate,Poison
+7491,S-Ethyl dipropylthiocarbamate,ng/l,2014,5,1,S-Ethyl dipropylthiocarbamate,Poison
+7492,S-Ethyl dipropylthiocarbamate,ng/l,2015,1,1,S-Ethyl dipropylthiocarbamate,Poison
+7493,S-Ethyl dipropylthiocarbamate,ng/l,2016,4,1,S-Ethyl dipropylthiocarbamate,Poison
+7745,Silvex,,1989,12,1,Silvex,Poison
+7746,Silvex,,1990,1,1,Silvex,Poison
+7747,Silvex,,1998,13,1,Silvex,Poison
+7748,Silvex,% recovery,2012,4,3582.25,Silvex,Poison
+7749,Silvex,% recovery,2013,2,7460.5,Silvex,Poison
+7750,Silvex,% recovery,2016,2,3471.5,Silvex,Poison
+7751,Silvex,ng/l,2010,8,1,Silvex,Poison
+7752,Silvex,ng/l,2012,8,1,Silvex,Poison
+7753,Silvex,ng/l,2013,9,1,Silvex,Poison
+7754,Silvex,ng/l,2014,5,1,Silvex,Poison
+7755,Silvex,ng/l,2015,1,1,Silvex,Poison
+7756,Silvex,ng/l,2016,4,1,Silvex,Poison
+7757,Silvex,ug/l,1986,3,1,Silvex,Poison
+7758,Silvex,ug/l,1987,3,1,Silvex,Poison
+7759,Silvex,ug/l,1988,6,1,Silvex,Poison
+7760,Silvex,ug/l,1989,9,1,Silvex,Poison
+7761,Silvex,ug/l,1990,4,1,Silvex,Poison
+7762,Silvex,ug/l,1991,2,1,Silvex,Poison
+7763,Silvex,ug/l,1992,1,1,Silvex,Poison
+7764,Silvex,ug/l,1999,5,1,Silvex,Poison
+7765,Silvex,ug/l,2000,11,1,Silvex,Poison
+7766,Simazine,,1989,10,1,Simazine,Poison
+7767,Simazine,,1990,1,1,Simazine,Poison
+7768,Simazine,,1998,14,1,Simazine,Poison
+7769,Simazine,,2000,10,1,Simazine,Poison
+7770,Simazine,,2003,4,1,Simazine,Poison
+7771,Simazine,,2004,2,1,Simazine,Poison
+7772,Simazine,,2006,1,1,Simazine,Poison
+7773,Simazine,,2007,3,1,Simazine,Poison
+7774,Simazine,,2008,14,1,Simazine,Poison
+7775,Simazine,,2010,1,1,Simazine,Poison
+7776,Simazine,,2011,1,1,Simazine,Poison
+7777,Simazine,,2013,1,1,Simazine,Poison
+7778,Simazine,,2015,5,1,Simazine,Poison
+7779,Simazine,,2017,1,1,Simazine,Poison
+7780,Simazine,% recovery,2012,4,11753,Simazine,Poison
+7781,Simazine,% recovery,2013,2,6041.5,Simazine,Poison
+7782,Simazine,% recovery,2016,2,14785,Simazine,Poison
+7783,Simazine,ng/l,2010,10,1,Simazine,Poison
+7784,Simazine,ng/l,2012,8,1,Simazine,Poison
+7785,Simazine,ng/l,2013,9,1,Simazine,Poison
+7786,Simazine,ng/l,2014,5,1,Simazine,Poison
+7787,Simazine,ng/l,2015,1,1,Simazine,Poison
+7788,Simazine,ng/l,2016,4,1,Simazine,Poison
+7789,Simazine,ug/l,1991,2,1,Simazine,Poison
+7790,Simazine,ug/l,1992,1,1,Simazine,Poison
+7791,Simazine,ug/l,1993,1,1,Simazine,Poison
+7792,Simazine,ug/l,1999,5,1,Simazine,Poison
+7793,Simazine,ug/l,2000,2,299,Simazine,Poison
+7794,Simazine,ug/l,2012,1,1,Simazine,Poison
+8354,Sulfometuron methyl,,2007,2,1,Sulfometuron methyl,Poison
+8355,Sulfometuron methyl,,2008,13,1,Sulfometuron methyl,Poison
+8356,Sulfometuron methyl,,2010,1,1,Sulfometuron methyl,Poison
+8357,Sulfometuron methyl,,2013,1,1,Sulfometuron methyl,Poison
+8358,Sulfometuron methyl,,2015,5,1,Sulfometuron methyl,Poison
+8359,Sulfometuron methyl,,2017,1,1,Sulfometuron methyl,Poison
+8360,Sulfometuron methyl,% recovery,2012,4,3092.25,Sulfometuron methyl,Poison
+8361,Sulfometuron methyl,% recovery,2013,2,5443,Sulfometuron methyl,Poison
+8362,Sulfometuron methyl,% recovery,2016,2,8834.5,Sulfometuron methyl,Poison
+8363,Sulfometuron methyl,ng/l,2010,10,1,Sulfometuron methyl,Poison
+8364,Sulfometuron methyl,ng/l,2012,8,1,Sulfometuron methyl,Poison
+8365,Sulfometuron methyl,ng/l,2013,9,1,Sulfometuron methyl,Poison
+8366,Sulfometuron methyl,ng/l,2014,5,1,Sulfometuron methyl,Poison
+8367,Sulfometuron methyl,ng/l,2015,1,1,Sulfometuron methyl,Poison
+8368,Sulfometuron methyl,ng/l,2016,4,1,Sulfometuron methyl,Poison
+8369,Tebuconazole,,2013,1,1,Tebuconazole,Poison
+8370,Tebuconazole,,2015,5,1,Tebuconazole,Poison
+8371,Tebuconazole,,2017,1,1,Tebuconazole,Poison
+8372,Tebuconazole,% recovery,2012,4,6009,Tebuconazole,Poison
+8373,Tebuconazole,% recovery,2013,2,6087,Tebuconazole,Poison
+8374,Tebuconazole,% recovery,2016,2,14216,Tebuconazole,Poison
+8375,Tebuconazole,ng/l,2012,8,1,Tebuconazole,Poison
+8376,Tebuconazole,ng/l,2013,9,1,Tebuconazole,Poison
+8377,Tebuconazole,ng/l,2014,5,1,Tebuconazole,Poison
+8378,Tebuconazole,ng/l,2015,1,1,Tebuconazole,Poison
+8379,Tebuconazole,ng/l,2016,4,1,Tebuconazole,Poison
+8380,Tebuthiuron,,1998,14,1,Tebuthiuron,Poison
+8381,Tebuthiuron,,2000,11,1,Tebuthiuron,Poison
+8382,Tebuthiuron,,2003,4,1,Tebuthiuron,Poison
+8383,Tebuthiuron,,2004,2,1,Tebuthiuron,Poison
+8384,Tebuthiuron,,2006,1,1,Tebuthiuron,Poison
+8385,Tebuthiuron,,2007,3,1,Tebuthiuron,Poison
+8386,Tebuthiuron,,2008,14,1,Tebuthiuron,Poison
+8387,Tebuthiuron,,2010,1,1,Tebuthiuron,Poison
+8388,Tebuthiuron,,2011,1,1,Tebuthiuron,Poison
+8389,Tebuthiuron,,2013,1,1,Tebuthiuron,Poison
+8390,Tebuthiuron,,2015,5,1,Tebuthiuron,Poison
+8391,Tebuthiuron,,2017,1,1,Tebuthiuron,Poison
+8392,Tebuthiuron,% recovery,2012,4,2750.25,Tebuthiuron,Poison
+8393,Tebuthiuron,% recovery,2013,2,5864,Tebuthiuron,Poison
+8394,Tebuthiuron,% recovery,2016,2,14919,Tebuthiuron,Poison
+8395,Tebuthiuron,ng/l,2010,10,1,Tebuthiuron,Poison
+8396,Tebuthiuron,ng/l,2012,8,370.5,Tebuthiuron,Poison
+8397,Tebuthiuron,ng/l,2013,9,1,Tebuthiuron,Poison
+8398,Tebuthiuron,ng/l,2014,5,1,Tebuthiuron,Poison
+8399,Tebuthiuron,ng/l,2015,1,1,Tebuthiuron,Poison
+8400,Tebuthiuron,ng/l,2016,4,1,Tebuthiuron,Poison
+8401,Tebuthiuron,ug/l,2000,1,299,Tebuthiuron,Poison
+8509,Terbacil,,1998,14,1,Terbacil,Poison
+8510,Terbacil,,2000,12,1,Terbacil,Poison
+8511,Terbacil,,2003,3,1,Terbacil,Poison
+8512,Terbacil,,2004,2,1,Terbacil,Poison
+8513,Terbacil,,2007,3,1,Terbacil,Poison
+8514,Terbacil,,2008,13,1,Terbacil,Poison
+8515,Terbacil,,2010,1,1,Terbacil,Poison
+8516,Terbacil,,2013,1,1,Terbacil,Poison
+8517,Terbacil,,2015,5,1,Terbacil,Poison
+8518,Terbacil,,2017,1,1,Terbacil,Poison
+8519,Terbacil,ug/l,2003,1,425,Terbacil,Poison
+8520,Terbufos,,1998,14,1,Terbufos,Poison
+8521,Terbufos,,2000,12,1,Terbufos,Poison
+8522,Terbufos,,2003,4,1,Terbufos,Poison
+8523,Terbufos,,2004,2,1,Terbufos,Poison
+8524,Terbufos,,2006,1,1,Terbufos,Poison
+8525,Terbufos,,2007,3,1,Terbufos,Poison
+8526,Terbufos,,2008,14,1,Terbufos,Poison
+8527,Terbufos,,2010,1,1,Terbufos,Poison
+8528,Terbufos,,2011,1,1,Terbufos,Poison
+8529,Terbufos,,2013,1,1,Terbufos,Poison
+8530,Terbufos,,2015,5,1,Terbufos,Poison
+8531,Terbufos,,2017,1,1,Terbufos,Poison
+8532,Terbuthylazine,,2006,1,1,Terbuthylazine,Poison
+8533,Terbuthylazine,,2007,3,1,Terbuthylazine,Poison
+8534,Terbuthylazine,,2008,14,1,Terbuthylazine,Poison
+8535,Terbuthylazine,,2010,1,1,Terbuthylazine,Poison
+8536,Terbuthylazine,,2011,1,1,Terbuthylazine,Poison
+8537,Terbuthylazine,,2013,1,1,Terbuthylazine,Poison
+8538,Terbuthylazine,,2015,5,1,Terbuthylazine,Poison
+8539,Terbuthylazine,,2017,1,1,Terbuthylazine,Poison
+8540,Terbuthylazine,%,1998,14,10358.5714285714,Terbuthylazine,Poison
+8541,Terbuthylazine,% recovery,2012,4,6046.5,Terbuthylazine,Poison
+8542,Terbuthylazine,% recovery,2013,2,6212.5,Terbuthylazine,Poison
+8543,Terbuthylazine,% recovery,2016,2,2634,Terbuthylazine,Poison
+8544,Terbuthylazine,ng/l,2010,10,1,Terbuthylazine,Poison
+8545,Terbuthylazine,ng/l,2012,8,1,Terbuthylazine,Poison
+8546,Terbuthylazine,ng/l,2013,9,1,Terbuthylazine,Poison
+8547,Terbuthylazine,ng/l,2014,5,1,Terbuthylazine,Poison
+8548,Terbuthylazine,ng/l,2015,1,1,Terbuthylazine,Poison
+8549,Terbuthylazine,ng/l,2016,4,1,Terbuthylazine,Poison
+8611,Thiobencarb,,1998,14,1,Thiobencarb,Poison
+8612,Thiobencarb,,2000,12,1,Thiobencarb,Poison
+8613,Thiobencarb,,2003,4,1,Thiobencarb,Poison
+8614,Thiobencarb,,2004,2,1,Thiobencarb,Poison
+8615,Thiobencarb,,2006,1,1,Thiobencarb,Poison
+8616,Thiobencarb,,2007,3,1,Thiobencarb,Poison
+8617,Thiobencarb,,2008,14,1,Thiobencarb,Poison
+8618,Thiobencarb,,2010,1,1,Thiobencarb,Poison
+8619,Thiobencarb,,2011,1,1,Thiobencarb,Poison
+8620,Thiobencarb,,2013,1,1,Thiobencarb,Poison
+8621,Thiobencarb,,2015,5,1,Thiobencarb,Poison
+8622,Thiobencarb,,2017,1,1,Thiobencarb,Poison
+8961,Toxaphene,,1988,13,1,Toxaphene,Poison
+8962,Toxaphene,,1989,4,1,Toxaphene,Poison
+8963,Toxaphene,,1990,1,1,Toxaphene,Poison
+8964,Toxaphene,,1999,4,1,Toxaphene,Poison
+8965,Toxaphene,ug/l,1986,3,1,Toxaphene,Poison
+8966,Toxaphene,ug/l,1987,3,1,Toxaphene,Poison
+8967,Toxaphene,ug/l,1988,6,1,Toxaphene,Poison
+8968,Toxaphene,ug/l,1989,10,1,Toxaphene,Poison
+8969,Toxaphene,ug/l,1990,5,1,Toxaphene,Poison
+8970,Toxaphene,ug/l,1991,2,1,Toxaphene,Poison
+8971,Toxaphene,ug/l,1992,1,1,Toxaphene,Poison
+8972,Toxaphene,ug/l,1993,1,1,Toxaphene,Poison
+8973,Toxaphene,ug/l,1999,5,1,Toxaphene,Poison
+8974,Toxaphene,ug/l,2006,2,1,Toxaphene,Poison
+8975,Toxaphene,ug/l,2012,1,1,Toxaphene,Poison
+8996,"trans-1,3-Dichloropropene",,1989,5,1,"trans-1,3-Dichloropropene",Poison
+8997,"trans-1,3-Dichloropropene",,1998,13,1,"trans-1,3-Dichloropropene",Poison
+8998,"trans-1,3-Dichloropropene",,2003,4,1,"trans-1,3-Dichloropropene",Poison
+8999,"trans-1,3-Dichloropropene",,2004,2,1,"trans-1,3-Dichloropropene",Poison
+9000,"trans-1,3-Dichloropropene",,2006,1,1,"trans-1,3-Dichloropropene",Poison
+9001,"trans-1,3-Dichloropropene",,2007,3,1,"trans-1,3-Dichloropropene",Poison
+9002,"trans-1,3-Dichloropropene",,2008,14,1,"trans-1,3-Dichloropropene",Poison
+9003,"trans-1,3-Dichloropropene",,2010,1,1,"trans-1,3-Dichloropropene",Poison
+9004,"trans-1,3-Dichloropropene",,2011,1,1,"trans-1,3-Dichloropropene",Poison
+9005,"trans-1,3-Dichloropropene",,2013,1,1,"trans-1,3-Dichloropropene",Poison
+9006,"trans-1,3-Dichloropropene",,2015,5,1,"trans-1,3-Dichloropropene",Poison
+9007,"trans-1,3-Dichloropropene",,2017,1,1,"trans-1,3-Dichloropropene",Poison
+9008,"trans-1,3-Dichloropropene",ug/l,1990,2,1,"trans-1,3-Dichloropropene",Poison
+9009,"trans-1,3-Dichloropropene",ug/l,1995,1,1,"trans-1,3-Dichloropropene",Poison
+9010,"trans-1,3-Dichloropropene",ug/l,2001,1,1,"trans-1,3-Dichloropropene",Poison
+9011,"trans-1,3-Dichloropropene",ug/l,2007,1,1,"trans-1,3-Dichloropropene",Poison
+9012,"trans-1,3-Dichloropropene",ug/l,2008,1,1,"trans-1,3-Dichloropropene",Poison
+9013,"trans-1,3-Dichloropropene",ug/l,2012,1,1,"trans-1,3-Dichloropropene",Poison
+9048,Triclopyr,,1998,13,1,Triclopyr,Poison
+9049,Triclopyr,,2007,3,1,Triclopyr,Poison
+9050,Triclopyr,,2008,13,1,Triclopyr,Poison
+9051,Triclopyr,,2010,1,1,Triclopyr,Poison
+9052,Triclopyr,,2013,1,1,Triclopyr,Poison
+9053,Triclopyr,,2015,5,1,Triclopyr,Poison
+9054,Triclopyr,,2017,1,1,Triclopyr,Poison
+9055,Triclopyr,% recovery,2012,4,8870.25,Triclopyr,Poison
+9056,Triclopyr,% recovery,2013,2,4791,Triclopyr,Poison
+9057,Triclopyr,% recovery,2016,2,14786,Triclopyr,Poison
+9058,Triclopyr,ng/l,2010,8,1,Triclopyr,Poison
+9059,Triclopyr,ng/l,2012,8,1,Triclopyr,Poison
+9060,Triclopyr,ng/l,2013,9,1,Triclopyr,Poison
+9061,Triclopyr,ng/l,2014,5,1,Triclopyr,Poison
+9062,Triclopyr,ng/l,2015,1,1,Triclopyr,Poison
+9063,Triclopyr,ng/l,2016,4,1,Triclopyr,Poison
+9064,Triclosan,,2007,3,1,Triclosan,Poison
+9065,Triclosan,,2008,12,1,Triclosan,Poison
+9066,Triclosan,,2014,4,1,Triclosan,Poison
+9067,Triclosan,,2015,2,1,Triclosan,Poison
+9068,Triclosan,% recovery,2012,4,8839.25,Triclosan,Poison
+9069,Triclosan,% recovery,2013,2,6549.5,Triclosan,Poison
+9070,Triclosan,% recovery,2016,2,15125,Triclosan,Poison
+9071,Triclosan,ng/l,2012,8,1,Triclosan,Poison
+9072,Triclosan,ng/l,2013,16,1,Triclosan,Poison
+9073,Triclosan,ng/l,2014,10,1,Triclosan,Poison
+9074,Triclosan,ng/l,2015,1,1,Triclosan,Poison
+9075,Triclosan,ng/l,2016,4,1,Triclosan,Poison
+9076,Triclosan,ug/l,2010,10,132.7,Triclosan,Poison
+9077,Trifluralin,,1989,10,1,Trifluralin,Poison
+9078,Trifluralin,,1990,1,1,Trifluralin,Poison
+9079,Trifluralin,,1998,14,1,Trifluralin,Poison
+9080,Trifluralin,,2000,12,1,Trifluralin,Poison
+9081,Trifluralin,,2003,4,1,Trifluralin,Poison
+9082,Trifluralin,,2004,2,1,Trifluralin,Poison
+9083,Trifluralin,,2006,1,1,Trifluralin,Poison
+9084,Trifluralin,,2007,3,1,Trifluralin,Poison
+9085,Trifluralin,,2008,14,1,Trifluralin,Poison
+9086,Trifluralin,,2010,1,1,Trifluralin,Poison
+9087,Trifluralin,,2011,1,1,Trifluralin,Poison
+9088,Trifluralin,ug/l,1991,2,1,Trifluralin,Poison
+9089,Trifluralin,ug/l,1992,1,1,Trifluralin,Poison
